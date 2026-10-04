@@ -5,9 +5,9 @@
  * overrides them from settings, so the palette is editable without touching code.
  */
 :root {
-  --brand-navy: #0b2b55;
-  --brand-navy-deep: #071a36;
-  --brand-orange: #f68b1f;
+  --brand-navy: #0a2f6a;
+  --brand-navy-deep: #061b42;
+  --brand-orange: #f7861c;
   --brand-orange-soft: #fdb714;
   --brand-sky: #0a93d9;
   --brand-palm: #2f7b17;

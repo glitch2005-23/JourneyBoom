@@ -1,7 +1,7 @@
 /**
  * npm run brand
  *
- * One-off: turns the supplied logo artwork (assets/brand/logo-source.jpg, white background)
+ * One-off: turns the supplied logo artwork (assets/brand/logo-source.png, white background)
  * into web-ready transparent PNGs and favicons. Outputs are committed, so this only needs
  * re-running if the source artwork changes (adjust the crop boxes below if its layout does).
  */
@@ -9,13 +9,13 @@ import path from "node:path";
 import sharp from "sharp";
 
 const root = process.cwd();
-const SOURCE = path.join(root, "assets/brand/logo-source.jpg");
+const SOURCE = path.join(root, "assets/brand/logo-source.png");
 const OUT = path.join(root, "public/images/brand");
 
 // Regions of the 1254×1254 source artwork.
-const EMBLEM = { left: 300, top: 150, width: 654, height: 694 };
-const WORDMARK = { left: 65, top: 852, width: 1120, height: 120 };
-const LOCKUP = { left: 55, top: 140, width: 1145, height: 905 };
+const EMBLEM = { left: 225, top: 127, width: 820, height: 785 };
+const WORDMARK = { left: 35, top: 926, width: 1170, height: 136 };
+const LOCKUP = { left: 30, top: 125, width: 1195, height: 995 };
 
 /** GIMP-style "colour to alpha" against white: identical on white, clean on any other background. */
 async function knockOutWhite(file: string) {

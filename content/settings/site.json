@@ -6,14 +6,14 @@
   "logo": {
     "src": "/images/brand/logo-horizontal.png",
     "alt": "Journey Boom",
-    "width": 1150,
+    "width": 1105,
     "height": 240
   },
   "footerLogo": {
     "src": "/images/brand/logo.png",
     "alt": "Journey Boom — Travel more, create memories",
     "width": 900,
-    "height": 711
+    "height": 749
   },
   "defaultOgImage": "/images/home/hero.jpg",
   "fallbackImage": {
@@ -37,9 +37,9 @@
   ],
   "theme": {
     "colors": {
-      "navy": "#0B2B55",
-      "navyDeep": "#071A36",
-      "orange": "#F68B1F",
+      "navy": "#0A2F6A",
+      "navyDeep": "#061B42",
+      "orange": "#F7861C",
       "orangeSoft": "#FDB714",
       "sky": "#0A93D9",
       "palm": "#2F7B17",
