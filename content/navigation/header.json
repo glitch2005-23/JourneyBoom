@@ -1,0 +1,12 @@
+{
+  "showCategoryMenus": true,
+  "links": [
+    { "label": "About Us", "href": "/about/" },
+    { "label": "Contact", "href": "/contact/" }
+  ],
+  "cta": {
+    "label": "Plan My Trip",
+    "href": "/contact/",
+    "variant": "accent"
+  }
+}

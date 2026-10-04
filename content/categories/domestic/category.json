@@ -1,0 +1,19 @@
+{
+  "title": "Domestic",
+  "tagline": "Incredible India",
+  "description": "Snow-dusted valleys, palm-fringed beaches and centuries-old heritage — discover India's most loved destinations on journeys planned around you.",
+  "heroImage": {
+    "src": "/images/categories/domestic-hero.jpg",
+    "alt": "Traditional houseboats on Dal Lake with snow-capped mountains behind",
+    "focal": "50% 60%"
+  },
+  "cardImage": {
+    "src": "/images/categories/domestic-card.jpg",
+    "alt": "A pine-ringed meadow beneath snow peaks in Kashmir"
+  },
+  "seo": {
+    "title": "India Tour Packages — Kashmir, Goa & More",
+    "description": "Explore handcrafted India holiday packages to Kashmir, Goa and beyond. Trusted stays, private transfers and expert planning by Journey Boom."
+  },
+  "displayOrder": 1
+}

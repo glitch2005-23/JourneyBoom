@@ -1,0 +1,124 @@
+{
+  "title": "Kashmir Delight",
+  "shortDescription": "The essential Kashmir in six unhurried days — a night on a Dal Lake houseboat, the Gulmarg Gondola, Pahalgam's valleys and the glaciers of Sonmarg.",
+  "description": [
+    "Kashmir Delight is our most-loved introduction to the valley, paced so you have time to linger. You'll start on the water, with a night aboard a traditional houseboat and a sunset shikara ride past floating gardens and lotus beds.",
+    "From Srinagar, private transfers take you up to the meadows of Gulmarg for a ride on one of the world's highest gondolas, out to the pine-forested Lidder valley at Pahalgam, and along the Sindh river to the snowfields of Sonmarg — before a last evening of Mughal gardens and kahwa back in the city."
+  ],
+  "price": {
+    "amount": 24999,
+    "originalAmount": 28999,
+    "basis": "per person, twin sharing",
+    "note": "Based on 2 adults in standard hotels. Flights to Srinagar not included."
+  },
+  "duration": { "nights": 5, "days": 6 },
+  "route": [
+    { "city": "Srinagar", "nights": 2 },
+    { "city": "Gulmarg", "nights": 1 },
+    { "city": "Pahalgam", "nights": 2 }
+  ],
+  "departureCity": "Srinagar",
+  "badges": ["Bestseller"],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/srinagar/houseboat.jpg",
+      "alt": "A carved wooden houseboat reflected in the still water of Dal Lake",
+      "focal": "50% 55%"
+    },
+    "card": {
+      "src": "/images/destinations/srinagar/hero.jpg",
+      "alt": "Shikaras on Dal Lake beneath misty hills"
+    },
+    "gallery": [
+      { "src": "/images/destinations/srinagar/dal-lake-dusk.jpg", "alt": "Dal Lake at dusk with a lone shikara" },
+      { "src": "/images/destinations/srinagar/gulmarg-gondola.jpg", "alt": "The Gulmarg Gondola above the meadows" },
+      { "src": "/images/destinations/srinagar/pahalgam-valley.jpg", "alt": "A river winding through the green Pahalgam valley" },
+      { "src": "/images/destinations/srinagar/sonmarg-meadow.jpg", "alt": "Horses grazing at Sonmarg" },
+      { "src": "/images/destinations/srinagar/floating-market.jpg", "alt": "Fruit seller on a shikara at the floating market" },
+      { "src": "/images/destinations/srinagar/card.jpg", "alt": "Colourful shikaras lined up on the lake shore" }
+    ]
+  },
+  "highlights": [
+    "Overnight on a deluxe Dal Lake houseboat",
+    "Sunset shikara ride past the floating gardens",
+    "Gulmarg Gondola (Phase 1) to Kongdoori",
+    "Betaab, Aru and Chandanwari valleys in Pahalgam",
+    "Day trip to Sonmarg and the Thajiwas Glacier",
+    "Mughal Gardens — Nishat, Shalimar and Chashme Shahi"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Srinagar — houseboat welcome",
+      "description": "Our representative meets you at Srinagar airport and drives you to your houseboat on Dal Lake. After a welcome kahwa, settle in and enjoy a golden-hour shikara ride past the floating vegetable gardens, lotus beds and Char Chinar island.",
+      "meals": ["Dinner"],
+      "overnight": "Deluxe houseboat, Dal Lake"
+    },
+    {
+      "day": 2,
+      "title": "Srinagar to Gulmarg — meadow of flowers",
+      "description": "Drive through apple orchards and paddy fields to Gulmarg (approx. 2 hours). Ride the Gulmarg Gondola to Kongdoori for sweeping views of the Pir Panjal range, with the option to continue to Apharwat Peak. In winter, try skiing or a sledge ride.",
+      "meals": ["Breakfast", "Dinner"],
+      "overnight": "Hotel in Gulmarg"
+    },
+    {
+      "day": 3,
+      "title": "Gulmarg to Pahalgam — valley of shepherds",
+      "description": "Head to Pahalgam via the saffron fields of Pampore and the ruins of the 9th-century Avantipura temple. Arrive by afternoon and stroll along the Lidder river as the light falls on the pine forests.",
+      "meals": ["Breakfast", "Dinner"],
+      "overnight": "Hotel in Pahalgam"
+    },
+    {
+      "day": 4,
+      "title": "Pahalgam — Betaab, Aru & Chandanwari",
+      "description": "A full day exploring Pahalgam's three famous valleys by local cab — Betaab Valley's riverside meadows, the alpine village of Aru, and Chandanwari, starting point of the Amarnath Yatra, where snow lingers into early summer.",
+      "meals": ["Breakfast", "Dinner"],
+      "overnight": "Hotel in Pahalgam"
+    },
+    {
+      "day": 5,
+      "title": "Sonmarg day trip & Srinagar gardens",
+      "description": "Drive along the Sindh river to Sonmarg, the 'meadow of gold', with an optional pony ride to the Thajiwas Glacier. Return to Srinagar in the evening for a walk through the terraced Mughal gardens of Nishat and Shalimar.",
+      "meals": ["Breakfast", "Dinner"],
+      "overnight": "Hotel in Srinagar"
+    },
+    {
+      "day": 6,
+      "title": "Farewell Kashmir",
+      "description": "After breakfast, time for last-minute shopping for pashmina, papier-mâché and dry fruits before your transfer to Srinagar airport.",
+      "meals": ["Breakfast"]
+    }
+  ],
+  "inclusions": [
+    "5 nights' accommodation (1 houseboat, 4 hotel) on twin sharing",
+    "Daily breakfast and dinner",
+    "Private sedan for all transfers and sightseeing as per itinerary",
+    "1-hour sunset shikara ride on Dal Lake",
+    "Airport pick-up and drop at Srinagar",
+    "All tolls, parking, driver allowances and applicable taxes",
+    "24/7 Journey Boom trip support on WhatsApp"
+  ],
+  "exclusions": [
+    "Flights or trains to and from Srinagar",
+    "Gulmarg Gondola tickets (book online in advance)",
+    "Local union cabs in Pahalgam and pony rides in Sonmarg/Gulmarg",
+    "Lunches, entry fees and personal expenses",
+    "Travel insurance"
+  ],
+  "knowBeforeYouGo": [
+    "Carry a government photo ID — it's checked at several points",
+    "Prepaid mobile SIMs from other states don't work in J&K; postpaid does",
+    "Pack warm layers even in summer — evenings are cool in the mountains",
+    "Gondola tickets sell out in peak season; we'll help you book ahead"
+  ],
+  "cta": {
+    "primary": { "type": "enquire" }
+  },
+  "seo": {
+    "title": "Kashmir Delight — 5N/6D Srinagar, Gulmarg & Pahalgam",
+    "description": "6-day Kashmir tour with a Dal Lake houseboat stay, Gulmarg Gondola, Pahalgam valleys and Sonmarg. From ₹24,999 per person. Enquire today."
+  },
+  "featured": true,
+  "showOnHome": true,
+  "displayOrder": 1
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Kashmir",
+  "region": "Srinagar · Jammu & Kashmir",
+  "tagline": "Paradise on earth, at a gentler pace",
+  "description": [
+    "Few places live up to their legend like Kashmir. Mornings begin with mist lifting off Dal Lake as flower sellers glide past in shikaras; afternoons drift through Mughal gardens laid out four centuries ago; evenings end with saffron kahwa on the deck of a carved cedar houseboat.",
+    "Beyond Srinagar, the valley opens into three very different worlds — the alpine meadows and gondola of Gulmarg, the river-carved pine valleys of Pahalgam, and the glacier-fed 'meadow of gold' at Sonmarg. We pace every itinerary so you see the highlights without spending your holiday in a car."
+  ],
+  "heroImage": {
+    "src": "/images/destinations/srinagar/hero.jpg",
+    "alt": "Colourful shikara boats gliding across Dal Lake beneath misty mountains",
+    "focal": "50% 65%"
+  },
+  "cardImage": {
+    "src": "/images/destinations/srinagar/card.jpg",
+    "alt": "Brightly painted shikaras moored on Dal Lake"
+  },
+  "gallery": [
+    { "src": "/images/destinations/srinagar/houseboat.jpg", "alt": "An intricately carved houseboat reflected in the calm waters of Dal Lake" },
+    { "src": "/images/destinations/srinagar/gulmarg-gondola.jpg", "alt": "The Gulmarg Gondola rising over meadows towards snowy peaks" },
+    { "src": "/images/destinations/srinagar/floating-market.jpg", "alt": "A vendor selling fruit from his boat at the floating market" },
+    { "src": "/images/destinations/srinagar/pahalgam-meadow.jpg", "alt": "Sheep grazing in a green meadow near Pahalgam" },
+    { "src": "/images/destinations/srinagar/gulmarg-snow.jpg", "alt": "Snow-covered chalets in Gulmarg in winter" },
+    { "src": "/images/destinations/srinagar/sonmarg-meadow.jpg", "alt": "Horses grazing beside a boulder in the Sonmarg valley" },
+    { "src": "/images/destinations/srinagar/dal-lake-dusk.jpg", "alt": "A shikara on Dal Lake under a purple evening sky" }
+  ],
+  "highlights": [
+    {
+      "icon": "ship",
+      "title": "Dal Lake & houseboats",
+      "text": "Sleep aboard a hand-carved cedar houseboat and glide past floating gardens at sunrise."
+    },
+    {
+      "icon": "mountain",
+      "title": "Gulmarg Gondola",
+      "text": "Ride one of the world's highest cable cars to Apharwat Peak at nearly 4,000 m."
+    },
+    {
+      "icon": "tree",
+      "title": "Pahalgam valleys",
+      "text": "Wander Betaab and Aru valleys — pine forests, rushing rivers and wide-open meadows."
+    },
+    {
+      "icon": "snowflake",
+      "title": "Sonmarg glaciers",
+      "text": "Trek or ride a pony to the Thajiwas Glacier, snowy even in high summer."
+    }
+  ],
+  "quickFacts": {
+    "bestTime": "March – October (snow: December – February)",
+    "idealDuration": "6 – 8 days",
+    "language": "Kashmiri, Urdu, Hindi, English",
+    "currency": "Indian Rupee (₹)"
+  },
+  "seo": {
+    "title": "Kashmir Tour Packages from Srinagar",
+    "description": "Kashmir holiday packages covering Srinagar houseboats, Gulmarg, Pahalgam and Sonmarg. Handpicked stays, private cabs and expert planning."
+  },
+  "featured": true,
+  "showOnHome": true,
+  "displayOrder": 1
+}

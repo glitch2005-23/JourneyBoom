@@ -1,0 +1,128 @@
+{
+  "seo": {
+    "title": "Journey Boom — Kashmir, Goa & Dubai Holiday Packages",
+    "description": "Handcrafted holiday packages to Kashmir, Goa, Dubai and beyond. Expert-planned itineraries, trusted hotels and 24/7 support. Get a free personalised quote."
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "id": "top",
+      "eyebrow": "Handcrafted holidays since 2014",
+      "title": "Your next journey starts here.",
+      "subtitle": "From the meadows of Kashmir to the beaches of Goa and the skyline of Dubai — thoughtfully planned trips, trusted stays and real people looking after you, every step of the way.",
+      "image": {
+        "src": "/images/home/hero.jpg",
+        "alt": "Golden evening light over a camp in a green Himalayan valley in Kashmir",
+        "focal": "50% 45%"
+      },
+      "ctas": [
+        { "label": "Explore Packages", "href": "/#packages", "variant": "accent" },
+        { "label": "Plan Your Trip", "href": "/#enquire", "variant": "light" }
+      ],
+      "stats": [
+        { "value": "12,000+", "label": "Happy travellers" },
+        { "value": "4.9 / 5", "label": "Average rating" },
+        { "value": "10+ years", "label": "Crafting journeys" },
+        { "value": "24/7", "label": "On-trip support" }
+      ]
+    },
+    {
+      "type": "quickLinks",
+      "id": "quick-links",
+      "title": "Popular right now",
+      "links": [
+        { "label": "Kashmir", "href": "/domestic/srinagar/", "icon": "mountain" },
+        { "label": "Goa", "href": "/domestic/goa/", "icon": "waves" },
+        { "label": "Dubai", "href": "/international/dubai/", "icon": "landmark" },
+        { "label": "Honeymoon in Kashmir", "href": "/domestic/srinagar/kashmir-honeymoon-retreat/", "icon": "heart" },
+        { "label": "Desert safari", "href": "/international/dubai/dubai-deluxe/", "icon": "sun" },
+        { "label": "International trips", "href": "/international/", "icon": "plane" }
+      ]
+    },
+    {
+      "type": "featuredDestinations",
+      "id": "destinations",
+      "eyebrow": "Where to next",
+      "title": "Destinations our travellers love",
+      "subtitle": "Handpicked places we know inside out — with itineraries refined over hundreds of trips.",
+      "source": "featured",
+      "limit": 5,
+      "cta": { "label": "All international trips", "href": "/international/", "variant": "outline" }
+    },
+    {
+      "type": "featuredPackages",
+      "id": "packages",
+      "eyebrow": "Popular packages",
+      "title": "Ready-to-go journeys, fully customisable",
+      "subtitle": "Every package includes handpicked stays, private transfers and a dedicated trip expert. Change anything you like.",
+      "source": "showOnHome",
+      "limit": 6
+    },
+    {
+      "type": "whyUs",
+      "id": "why-us",
+      "eyebrow": "Why Journey Boom",
+      "title": "Travel the way it should feel",
+      "subtitle": "We sweat the details so your only job is to enjoy the view.",
+      "items": [
+        {
+          "icon": "compass",
+          "title": "Planned by people who've been there",
+          "text": "Our trip experts have travelled every route we sell, so your itinerary is paced for real days — not brochure fantasies."
+        },
+        {
+          "icon": "hotel",
+          "title": "Stays we'd book ourselves",
+          "text": "Heritage houseboats, boutique beach resorts and trusted city hotels — personally vetted for comfort, location and service."
+        },
+        {
+          "icon": "wallet",
+          "title": "Honest, all-inclusive pricing",
+          "text": "Clear quotes with everything spelled out. No hidden fees, no surprise add-ons at check-in."
+        },
+        {
+          "icon": "headset",
+          "title": "Support around the clock",
+          "text": "A real person on WhatsApp or phone, 24/7, from the moment you enquire until you're home."
+        }
+      ]
+    },
+    {
+      "type": "promoBanner",
+      "id": "honeymoon",
+      "bannerId": "honeymoon-season"
+    },
+    {
+      "type": "gallery",
+      "id": "gallery",
+      "eyebrow": "Through our travellers' eyes",
+      "title": "Moments worth the journey",
+      "subtitle": "Lakes at dawn, beaches at dusk and cities that never sleep.",
+      "galleryId": "home"
+    },
+    {
+      "type": "reviews",
+      "id": "reviews",
+      "eyebrow": "Traveller stories",
+      "title": "Loved by thousands of travellers",
+      "subtitle": "Real words from people who travelled with us.",
+      "limit": 8
+    },
+    {
+      "type": "enquiry",
+      "id": "enquire",
+      "eyebrow": "Plan your trip",
+      "title": "Tell us where you dream of going",
+      "subtitle": "Share a few details and we'll craft a personalised itinerary and quote — free, within 24 hours.",
+      "image": {
+        "src": "/images/home/enquiry.jpg",
+        "alt": "A traveller leading the way towards a mountain lake"
+      },
+      "points": [
+        "Free, no-obligation itinerary and quote",
+        "Handpicked hotels, private transfers and guides",
+        "Real people on call 24/7 during your trip"
+      ]
+    }
+  ]
+}

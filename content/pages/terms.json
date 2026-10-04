@@ -1,0 +1,51 @@
+{
+  "eyebrow": "Legal",
+  "title": "Terms & Conditions",
+  "intro": "These terms apply to all holidays booked with Journey Boom Holidays. Please read them carefully before confirming your booking.",
+  "updated": "2026-09-01",
+  "blocks": [
+    { "type": "heading", "text": "1. Bookings and payments" },
+    {
+      "type": "paragraph",
+      "text": "A booking is confirmed once we receive the advance payment specified in your quotation and send written confirmation. The balance is due no later than 21 days before departure unless otherwise agreed in writing."
+    },
+    { "type": "heading", "text": "2. Prices" },
+    {
+      "type": "paragraph",
+      "text": "Package prices are per person on twin sharing unless stated otherwise and are subject to availability at the time of booking. Prices may change due to government taxes, fuel surcharges or currency fluctuations; any change will be communicated before confirmation."
+    },
+    { "type": "heading", "text": "3. Cancellations by you" },
+    {
+      "type": "list",
+      "items": [
+        "More than 30 days before departure: 10% of the package cost",
+        "15–30 days before departure: 25% of the package cost",
+        "7–14 days before departure: 50% of the package cost",
+        "Less than 7 days before departure or no-show: 100% of the package cost"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Flight, visa and certain peak-season hotel charges may be non-refundable and will be advised at the time of booking."
+    },
+    { "type": "heading", "text": "4. Changes by us" },
+    {
+      "type": "paragraph",
+      "text": "Occasionally we may need to change elements of your holiday due to weather, road closures, government advisories or other circumstances beyond our control. We will always offer a suitable alternative of similar standard."
+    },
+    { "type": "heading", "text": "5. Travel documents and insurance" },
+    {
+      "type": "paragraph",
+      "text": "You are responsible for carrying valid identification, passports and visas. We strongly recommend comprehensive travel insurance covering cancellation, medical expenses and baggage."
+    },
+    { "type": "heading", "text": "6. Contact" },
+    {
+      "type": "paragraph",
+      "text": "For any questions about these terms, please contact us using the details on our Contact page."
+    }
+  ],
+  "seo": {
+    "title": "Terms & Conditions",
+    "description": "Booking, payment, cancellation and travel terms for holidays booked with Journey Boom Holidays."
+  }
+}

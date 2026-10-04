@@ -1,0 +1,102 @@
+{
+  "title": "Goa Beach Escape",
+  "shortDescription": "Four sun-soaked days split between North Goa's buzz and South Goa's calm — beach resort stay, a sunset cruise on the Mandovi and the best of the coast.",
+  "description": [
+    "The perfect long weekend. You'll stay at a beachside resort a short walk from the sand, with easy days built around the best of both coasts: Fort Aguada and the lively beaches of the north, then the quiet coves and palm groves of the south.",
+    "Evenings are for sundowners at a beach shack and a golden-hour cruise on the Mandovi river, with live Goan music on deck. Plenty of free time is built in — because in Goa, the plan is often no plan at all."
+  ],
+  "price": {
+    "amount": 15999,
+    "originalAmount": 18499,
+    "basis": "per person, twin sharing",
+    "note": "4-star beach resort. Flights not included."
+  },
+  "duration": { "nights": 3, "days": 4 },
+  "route": [
+    { "city": "North Goa", "nights": 3 }
+  ],
+  "departureCity": "Goa (Dabolim / Mopa)",
+  "badges": ["Weekend getaway"],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/goa/card.jpg",
+      "alt": "Beach huts under tall coconut palms on a sunny Goan beach",
+      "focal": "50% 60%"
+    },
+    "card": {
+      "src": "/images/destinations/goa/hero.jpg",
+      "alt": "A golden beach between green headlands in Goa"
+    },
+    "gallery": [
+      { "src": "/images/destinations/goa/sunset.jpg", "alt": "Sunset over the sea in Goa" },
+      { "src": "/images/destinations/goa/beach-shack.jpg", "alt": "A Goan beach shack at night" },
+      { "src": "/images/destinations/goa/palms.jpg", "alt": "Coconut palms against a blue sky" },
+      { "src": "/images/destinations/goa/seaside-chapel.jpg", "alt": "A seaside chapel in Goa" },
+      { "src": "/images/destinations/goa/cliffs.jpg", "alt": "Cliffs above turquoise water" }
+    ]
+  },
+  "highlights": [
+    "3 nights at a 4-star beach resort with pool",
+    "North Goa tour: Fort Aguada, Calangute, Baga and Anjuna",
+    "South Goa: Colva, Palolem and Cabo de Rama",
+    "Sunset cruise on the Mandovi with live music",
+    "Free evenings for beach shacks and night markets"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Goa — beach time",
+      "description": "Private transfer from the airport to your beach resort. Check in, change into something light and head straight to the sand. In the evening, catch the sunset with a drink at a beach shack.",
+      "meals": [],
+      "overnight": "4-star beach resort, North Goa"
+    },
+    {
+      "day": 2,
+      "title": "North Goa forts & beaches",
+      "description": "Explore 17th-century Fort Aguada and its lighthouse, then hop between Candolim, Calangute, Baga and Anjuna. End the day with a sunset cruise on the Mandovi river, complete with Goan folk music and dancing.",
+      "meals": ["Breakfast"],
+      "overnight": "4-star beach resort, North Goa"
+    },
+    {
+      "day": 3,
+      "title": "South Goa's quiet coast",
+      "description": "Drive south to the cliff-top ruins of Cabo de Rama and the crescent of Palolem Beach. Swim, kayak or simply lie back under a palm before heading back north.",
+      "meals": ["Breakfast"],
+      "overnight": "4-star beach resort, North Goa"
+    },
+    {
+      "day": 4,
+      "title": "Departure",
+      "description": "A last swim or a lazy breakfast before your transfer to the airport.",
+      "meals": ["Breakfast"]
+    }
+  ],
+  "inclusions": [
+    "3 nights at a 4-star beach resort on twin sharing",
+    "Daily breakfast",
+    "Private airport transfers",
+    "North and South Goa sightseeing by private AC car",
+    "Mandovi river sunset cruise tickets",
+    "24/7 Journey Boom trip support"
+  ],
+  "exclusions": [
+    "Flights to and from Goa",
+    "Lunches, dinners and drinks",
+    "Water sports and entry fees",
+    "Travel insurance"
+  ],
+  "knowBeforeYouGo": [
+    "Swimming is restricted on many beaches during the monsoon (June–September)",
+    "Carry sunscreen and stay hydrated — the sun is strong even in winter"
+  ],
+  "cta": {
+    "primary": { "type": "enquire" }
+  },
+  "seo": {
+    "title": "Goa Beach Escape — 3N/4D Goa Package",
+    "description": "4-day Goa holiday with a 4-star beach resort, North and South Goa tours and a Mandovi sunset cruise. From ₹15,999 per person."
+  },
+  "featured": true,
+  "showOnHome": true,
+  "displayOrder": 1
+}

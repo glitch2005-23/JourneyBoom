@@ -1,0 +1,14 @@
+{
+  "title": "Moments worth the journey",
+  "images": [
+    { "src": "/images/destinations/srinagar/dal-lake-dusk.jpg", "alt": "A shikara silhouetted on Dal Lake under a violet dusk sky" },
+    { "src": "/images/destinations/goa/sunset.jpg", "alt": "Golden sunset over a quiet cove in South Goa" },
+    { "src": "/images/destinations/dubai/camels.jpg", "alt": "Camels resting on the dunes of the Dubai desert" },
+    { "src": "/images/destinations/srinagar/gulmarg-gondola.jpg", "alt": "The Gulmarg Gondola above green slopes and snowy peaks" },
+    { "src": "/images/destinations/dubai/sheikh-zayed-mosque.jpg", "alt": "Sheikh Zayed Grand Mosque reflected in still water at dusk" },
+    { "src": "/images/destinations/goa/fontainhas.jpg", "alt": "Colourful Portuguese-era houses in Fontainhas, Panaji" },
+    { "src": "/images/destinations/srinagar/sonmarg-meadow.jpg", "alt": "Horses grazing in an alpine meadow at Sonmarg" },
+    { "src": "/images/destinations/dubai/marina.jpg", "alt": "Towers lining the waterway of Dubai Marina" },
+    { "src": "/images/destinations/goa/beach-shack.jpg", "alt": "A beach shack in Goa glowing with lights at night" }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Dubai Deluxe",
+  "shortDescription": "Five glittering days with visa included — Burj Khalifa at sunset, a desert safari with BBQ dinner, a Marina dhow cruise and a full city tour.",
+  "description": [
+    "Dubai Deluxe packs the city's icons into five well-paced days, with a 4-star hotel in a central location and your UAE visa handled by us. You'll ride to the top of the Burj Khalifa at sunset, cruise Dubai Marina by candlelight and explore old Dubai's souks by abra.",
+    "The highlight for many is the desert: an afternoon of dune bashing in a 4x4, camel rides and sandboarding, followed by a barbecue dinner under the stars with tanoura and belly-dance performances. One free day lets you shop, visit a theme park or simply enjoy the pool."
+  ],
+  "price": {
+    "amount": 54999,
+    "originalAmount": 61999,
+    "basis": "per person, twin sharing",
+    "note": "Includes UAE tourist visa. Flights quoted separately from your city."
+  },
+  "duration": { "nights": 4, "days": 5 },
+  "route": [
+    { "city": "Dubai", "nights": 4 }
+  ],
+  "departureCity": "Dubai (DXB)",
+  "badges": ["Visa included", "Bestseller"],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/dubai/hero.jpg",
+      "alt": "The Burj Khalifa rising above Downtown Dubai at golden hour",
+      "focal": "50% 40%"
+    },
+    "card": {
+      "src": "/images/destinations/dubai/skyline-dusk.jpg",
+      "alt": "Dubai skyline across the water at dusk"
+    },
+    "gallery": [
+      { "src": "/images/destinations/dubai/dune-drive.jpg", "alt": "A 4x4 on the red dunes" },
+      { "src": "/images/destinations/dubai/camels.jpg", "alt": "Camels at a desert camp" },
+      { "src": "/images/destinations/dubai/marina.jpg", "alt": "Dubai Marina towers" },
+      { "src": "/images/destinations/dubai/dhow-cruise.jpg", "alt": "Dhow cruise boats lit up at night" },
+      { "src": "/images/destinations/dubai/buggies.jpg", "alt": "Dune buggies in the desert" },
+      { "src": "/images/destinations/dubai/burj-al-arab.jpg", "alt": "The Burj Al Arab from the air" }
+    ]
+  },
+  "highlights": [
+    "Burj Khalifa 'At the Top' (levels 124 & 125) at sunset",
+    "Desert safari with dune bashing, camel ride and BBQ dinner",
+    "Dhow cruise dinner along Dubai Marina",
+    "Half-day city tour with abra ride and the gold & spice souks",
+    "UAE tourist visa and airport transfers included"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Dubai — Marina dhow cruise",
+      "description": "Meet our representative at Dubai airport and transfer to your hotel. In the evening, board a traditional dhow for a two-hour dinner cruise past the glittering towers of Dubai Marina.",
+      "meals": ["Dinner"],
+      "overnight": "4-star hotel, Dubai"
+    },
+    {
+      "day": 2,
+      "title": "City tour & Burj Khalifa",
+      "description": "A half-day tour of old and new Dubai — the Al Fahidi historic district, an abra ride across the Creek, the gold and spice souks, Jumeirah Mosque and a photo stop at the Burj Al Arab. Late afternoon, ride to the top of the Burj Khalifa for sunset, then watch the Dubai Fountain show.",
+      "meals": ["Breakfast"],
+      "overnight": "4-star hotel, Dubai"
+    },
+    {
+      "day": 3,
+      "title": "Desert safari",
+      "description": "A free morning, then pick-up for the desert. Dune bashing in a 4x4, sandboarding and a camel ride, followed by an evening at a Bedouin-style camp with henna, shisha, live shows and a BBQ buffet.",
+      "meals": ["Breakfast", "Dinner"],
+      "overnight": "4-star hotel, Dubai"
+    },
+    {
+      "day": 4,
+      "title": "Free day to explore",
+      "description": "Spend the day your way — shopping at The Dubai Mall or Mall of the Emirates, a theme park like IMG Worlds or Dubai Parks, or a beach day at JBR. Our team can book any add-ons for you.",
+      "meals": ["Breakfast"],
+      "overnight": "4-star hotel, Dubai"
+    },
+    {
+      "day": 5,
+      "title": "Departure",
+      "description": "Check out and transfer to Dubai airport for your flight home.",
+      "meals": ["Breakfast"]
+    }
+  ],
+  "inclusions": [
+    "UAE 30-day tourist visa",
+    "4 nights at a 4-star hotel with daily breakfast",
+    "Dhow cruise dinner at Dubai Marina",
+    "Desert safari with BBQ dinner and live shows",
+    "Burj Khalifa 'At the Top' tickets (non-prime hours)",
+    "Half-day Dubai city tour with abra ride",
+    "Return airport transfers and all tours on a shared basis",
+    "24/7 Journey Boom trip support"
+  ],
+  "exclusions": [
+    "International flights",
+    "Dubai Tourism Dirham fee (paid at the hotel)",
+    "Lunches and meals not mentioned",
+    "Travel insurance (recommended)",
+    "Personal expenses and tips"
+  ],
+  "knowBeforeYouGo": [
+    "Passports must be valid for at least 6 months from your travel date",
+    "Visa processing takes 3–5 working days — book at least 2 weeks ahead",
+    "Dress modestly when visiting mosques and traditional areas",
+    "Friday is the main weekly holiday in the UAE"
+  ],
+  "cta": {
+    "primary": { "type": "enquire" },
+    "secondary": {
+      "type": "pay",
+      "label": "Pay booking deposit",
+      "url": "https://pages.razorpay.com/journeyboom-dubai-deluxe"
+    }
+  },
+  "seo": {
+    "title": "Dubai Deluxe — 4N/5D Dubai Package with Visa",
+    "description": "5-day Dubai holiday with visa, 4-star hotel, Burj Khalifa, desert safari and Marina dhow cruise. From ₹54,999 per person."
+  },
+  "featured": true,
+  "showOnHome": true,
+  "displayOrder": 1
+}

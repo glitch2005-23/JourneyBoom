@@ -1,0 +1,19 @@
+{
+  "title": "International",
+  "tagline": "Explore the world",
+  "description": "Glittering skylines, golden deserts and once-in-a-lifetime experiences — international holidays with visas, flights and stays handled for you.",
+  "heroImage": {
+    "src": "/images/categories/international-hero.jpg",
+    "alt": "An aircraft wing above the clouds at sunset",
+    "focal": "50% 55%"
+  },
+  "cardImage": {
+    "src": "/images/categories/international-card.jpg",
+    "alt": "Dubai skyline with the Burj Al Arab on the coast"
+  },
+  "seo": {
+    "title": "International Holiday Packages from India",
+    "description": "International tour packages from India with visa assistance, handpicked hotels and 24/7 support. Explore Dubai and more with Journey Boom."
+  },
+  "displayOrder": 2
+}

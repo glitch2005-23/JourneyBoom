@@ -1,0 +1,18 @@
+{
+  "eyebrow": "Contact us",
+  "title": "Let's start planning",
+  "intro": "Call, WhatsApp or send us a few details about your trip. A travel expert will get back to you within 24 hours — usually much sooner.",
+  "blocks": [
+    { "type": "heading", "text": "Talk to a travel expert" },
+    {
+      "type": "paragraph",
+      "text": "Not sure where to go yet? That's what we're here for. Tell us your dates, budget and the kind of holiday you enjoy, and we'll suggest options — no obligation."
+    }
+  ],
+  "showContactDetails": true,
+  "showEnquiryForm": true,
+  "seo": {
+    "title": "Contact Us — Plan Your Holiday",
+    "description": "Contact Journey Boom to plan your Kashmir, Goa or Dubai holiday. Call, WhatsApp or send an enquiry for a free personalised quote."
+  }
+}

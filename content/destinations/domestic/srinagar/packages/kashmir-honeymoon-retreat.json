@@ -1,0 +1,128 @@
+{
+  "title": "Kashmir Honeymoon Retreat",
+  "shortDescription": "Seven romantic days of private shikara rides, a candlelit houseboat dinner, snow-kissed Gulmarg and quiet riverside evenings in Pahalgam.",
+  "description": [
+    "Designed for couples who want time together rather than a checklist, this retreat pairs boutique stays with slow days. Expect flower-decked rooms, a private sunrise shikara with breakfast on the water, and a candlelit dinner aboard your houseboat.",
+    "In Gulmarg and Pahalgam we've chosen hotels with mountain views and fireplaces, and kept the driving light — leaving afternoons free for picnics by the Lidder river, pony rides through pine forests or simply a long cup of kahwa as the sun goes down."
+  ],
+  "price": {
+    "amount": 38999,
+    "originalAmount": 44999,
+    "basis": "per person, twin sharing",
+    "note": "Includes honeymoon inclusions. Flights not included."
+  },
+  "duration": { "nights": 6, "days": 7 },
+  "route": [
+    { "city": "Srinagar", "nights": 2 },
+    { "city": "Gulmarg", "nights": 2 },
+    { "city": "Pahalgam", "nights": 2 }
+  ],
+  "departureCity": "Srinagar",
+  "badges": ["Honeymoon", "Couples"],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/srinagar/snow-forest.jpg",
+      "alt": "Snow-laden pine forest beneath golden-lit Himalayan peaks",
+      "focal": "50% 45%"
+    },
+    "card": {
+      "src": "/images/destinations/srinagar/dal-lake-dusk.jpg",
+      "alt": "A shikara on Dal Lake at dusk"
+    },
+    "gallery": [
+      { "src": "/images/destinations/srinagar/houseboat.jpg", "alt": "A carved houseboat on Dal Lake" },
+      { "src": "/images/destinations/srinagar/gulmarg-snow.jpg", "alt": "Snow-covered chalets in Gulmarg" },
+      { "src": "/images/destinations/srinagar/pahalgam-meadow.jpg", "alt": "Sheep grazing in a Pahalgam meadow" },
+      { "src": "/images/destinations/srinagar/card.jpg", "alt": "Shikaras on the lake shore" },
+      { "src": "/images/destinations/srinagar/gulmarg-gondola.jpg", "alt": "The Gulmarg Gondola" }
+    ]
+  },
+  "highlights": [
+    "Flower-decorated room and honeymoon cake on arrival",
+    "Private sunrise shikara ride with breakfast on the lake",
+    "Candlelit dinner on a deluxe houseboat",
+    "Two relaxed nights in snowy Gulmarg",
+    "Riverside picnic in Betaab Valley",
+    "Couple photoshoot in traditional Kashmiri attire"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Welcome to Srinagar",
+      "description": "Private airport pick-up and transfer to your deluxe houseboat, where your room is decorated with fresh flowers. Spend a quiet evening on the deck as the call to prayer drifts across the lake, followed by a candlelit dinner on board.",
+      "meals": ["Dinner"],
+      "overnight": "Deluxe houseboat, Dal Lake"
+    },
+    {
+      "day": 2,
+      "title": "Sunrise shikara & Mughal gardens",
+      "description": "Wake early for a private shikara ride through the floating market as the lake turns gold, with breakfast served on board. Later, visit Nishat and Shalimar gardens and dress up in traditional pheran for a couple photoshoot.",
+      "meals": ["Breakfast", "Dinner"],
+      "overnight": "Boutique hotel in Srinagar"
+    },
+    {
+      "day": 3,
+      "title": "To Gulmarg",
+      "description": "A scenic drive to Gulmarg. Settle into a mountain-view room with a fireplace and spend the afternoon walking the meadow or sipping hot chocolate in the snow.",
+      "meals": ["Breakfast", "Dinner"],
+      "overnight": "Mountain resort in Gulmarg"
+    },
+    {
+      "day": 4,
+      "title": "Gondola to the clouds",
+      "description": "Ride the Gulmarg Gondola to Kongdoori and, weather permitting, on to Apharwat Peak for views stretching to Nanga Parbat. The rest of the day is yours — sledging, skiing or simply resting by the fire.",
+      "meals": ["Breakfast", "Dinner"],
+      "overnight": "Mountain resort in Gulmarg"
+    },
+    {
+      "day": 5,
+      "title": "Gulmarg to Pahalgam",
+      "description": "Drive to Pahalgam through saffron country, arriving at a riverside resort on the Lidder. Spend the evening by the water as the mountains turn pink.",
+      "meals": ["Breakfast", "Dinner"],
+      "overnight": "Riverside resort in Pahalgam"
+    },
+    {
+      "day": 6,
+      "title": "Betaab Valley picnic",
+      "description": "A leisurely visit to Betaab and Aru valleys with a picnic lunch by the river. Optional pony ride through the pine forests to Baisaran meadow.",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "overnight": "Riverside resort in Pahalgam"
+    },
+    {
+      "day": 7,
+      "title": "Departure",
+      "description": "Drive back to Srinagar for your onward flight, with time for a stop at a saffron farm or a pashmina workshop on the way.",
+      "meals": ["Breakfast"]
+    }
+  ],
+  "inclusions": [
+    "6 nights in a deluxe houseboat, boutique hotel and mountain resorts",
+    "Daily breakfast and dinner, plus a picnic lunch in Betaab Valley",
+    "Honeymoon inclusions: flower decor, cake, candlelit dinner",
+    "Private sunrise shikara ride with breakfast on board",
+    "Couple photoshoot in traditional attire (digital photos)",
+    "Private SUV for all transfers and sightseeing",
+    "24/7 Journey Boom trip support on WhatsApp"
+  ],
+  "exclusions": [
+    "Flights to and from Srinagar",
+    "Gulmarg Gondola tickets",
+    "Local union cabs in Pahalgam and pony rides",
+    "Personal expenses, tips and travel insurance"
+  ],
+  "knowBeforeYouGo": [
+    "Honeymoon inclusions require a copy of your marriage certificate or wedding card at some hotels",
+    "Snow in Gulmarg is most reliable from mid-December to February",
+    "Carry warm layers and comfortable walking shoes"
+  ],
+  "cta": {
+    "primary": { "type": "enquire", "label": "Plan our honeymoon" }
+  },
+  "seo": {
+    "title": "Kashmir Honeymoon Package — 6N/7D with Houseboat",
+    "description": "Romantic 7-day Kashmir honeymoon with a candlelit houseboat dinner, private shikara, Gulmarg and Pahalgam. From ₹38,999 per person."
+  },
+  "featured": true,
+  "showOnHome": true,
+  "displayOrder": 2
+}

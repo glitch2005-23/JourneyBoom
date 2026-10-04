@@ -1,0 +1,132 @@
+{
+  "title": "Great Kashmir Explorer",
+  "shortDescription": "Eight days to see the whole valley properly — Srinagar, Sonmarg, Gulmarg and Pahalgam with overnight stays in each, so you're never rushing back.",
+  "description": [
+    "For travellers who want to go deeper, the Great Kashmir Explorer spends a night in each of the valley's four great destinations. Staying over in Sonmarg means you see the Thajiwas Glacier in the quiet of early morning, long before the day-trippers arrive.",
+    "The pace is relaxed, the stays are comfortable, and there's room for detours — the saffron fields of Pampore, the walnut-wood carvers of Srinagar's old city, and the 9th-century temples at Avantipora."
+  ],
+  "price": {
+    "amount": 42500,
+    "basis": "per person, twin sharing",
+    "note": "Superior hotels. Flights not included."
+  },
+  "duration": { "nights": 7, "days": 8 },
+  "route": [
+    { "city": "Srinagar", "nights": 2 },
+    { "city": "Sonmarg", "nights": 1 },
+    { "city": "Gulmarg", "nights": 2 },
+    { "city": "Pahalgam", "nights": 2 }
+  ],
+  "departureCity": "Srinagar",
+  "badges": ["Most complete"],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/srinagar/pahalgam-valley.jpg",
+      "alt": "Clouds over a pine-covered valley with a river near Pahalgam",
+      "focal": "50% 50%"
+    },
+    "card": {
+      "src": "/images/destinations/srinagar/sonmarg-meadow.jpg",
+      "alt": "Horses grazing in the Sonmarg meadow"
+    },
+    "gallery": [
+      { "src": "/images/destinations/srinagar/sonmarg-meadow.jpg", "alt": "Horses grazing at Sonmarg" },
+      { "src": "/images/destinations/srinagar/gulmarg-gondola.jpg", "alt": "The Gulmarg Gondola" },
+      { "src": "/images/destinations/srinagar/pahalgam-meadow.jpg", "alt": "Sheep in a meadow near Pahalgam" },
+      { "src": "/images/destinations/srinagar/floating-market.jpg", "alt": "Floating market on Dal Lake" },
+      { "src": "/images/destinations/srinagar/hero.jpg", "alt": "Shikaras on Dal Lake" }
+    ]
+  },
+  "highlights": [
+    "Overnight in Sonmarg for a quiet glacier morning",
+    "Two nights each in Gulmarg and Pahalgam",
+    "Old city walk: Jamia Masjid, Shah-e-Hamdan and the spice markets",
+    "Saffron fields of Pampore and Avantipora ruins",
+    "Shikara ride and floating market on Dal Lake"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Srinagar",
+      "description": "Airport pick-up and transfer to your hotel. In the evening, a shikara ride on Dal Lake past the floating gardens.",
+      "meals": ["Dinner"],
+      "overnight": "Hotel in Srinagar"
+    },
+    {
+      "day": 2,
+      "title": "Old city & Mughal gardens",
+      "description": "A guided walk through Srinagar's old city — the wooden Shah-e-Hamdan shrine, Jamia Masjid's 370 cedar pillars and the spice bazaars — followed by an afternoon in the Mughal gardens.",
+      "meals": ["Breakfast", "Dinner"],
+      "overnight": "Hotel in Srinagar"
+    },
+    {
+      "day": 3,
+      "title": "Srinagar to Sonmarg",
+      "description": "Follow the Sindh river up to Sonmarg. Spend the afternoon walking in the meadows ringed by glaciers and fir forests.",
+      "meals": ["Breakfast", "Dinner"],
+      "overnight": "Hotel in Sonmarg"
+    },
+    {
+      "day": 4,
+      "title": "Thajiwas Glacier, then Gulmarg",
+      "description": "An early pony ride or walk to the Thajiwas Glacier before the crowds, then drive to Gulmarg via Srinagar.",
+      "meals": ["Breakfast", "Dinner"],
+      "overnight": "Hotel in Gulmarg"
+    },
+    {
+      "day": 5,
+      "title": "Gulmarg Gondola",
+      "description": "Ride both phases of the Gulmarg Gondola to Apharwat Peak (weather permitting). Free afternoon for walks, golf or snow activities in season.",
+      "meals": ["Breakfast", "Dinner"],
+      "overnight": "Hotel in Gulmarg"
+    },
+    {
+      "day": 6,
+      "title": "Gulmarg to Pahalgam",
+      "description": "Drive to Pahalgam via the saffron fields of Pampore and the Avantipora temple ruins.",
+      "meals": ["Breakfast", "Dinner"],
+      "overnight": "Hotel in Pahalgam"
+    },
+    {
+      "day": 7,
+      "title": "Pahalgam valleys",
+      "description": "Explore Betaab, Aru and Chandanwari valleys, with time for a riverside lunch and a walk in the pine forests.",
+      "meals": ["Breakfast", "Dinner"],
+      "overnight": "Hotel in Pahalgam"
+    },
+    {
+      "day": 8,
+      "title": "Departure",
+      "description": "Transfer to Srinagar airport for your flight home.",
+      "meals": ["Breakfast"]
+    }
+  ],
+  "inclusions": [
+    "7 nights in superior hotels on twin sharing",
+    "Daily breakfast and dinner",
+    "Private sedan for all transfers and sightseeing",
+    "Guided old-city walk in Srinagar",
+    "1-hour shikara ride on Dal Lake",
+    "All tolls, parking and taxes",
+    "24/7 Journey Boom trip support"
+  ],
+  "exclusions": [
+    "Flights to and from Srinagar",
+    "Gondola tickets, pony rides and local union cabs",
+    "Lunches and entry fees",
+    "Travel insurance"
+  ],
+  "knowBeforeYouGo": [
+    "Sonmarg is usually accessible from April to November",
+    "Carry a government photo ID at all times"
+  ],
+  "cta": {
+    "primary": { "type": "enquire" }
+  },
+  "seo": {
+    "title": "Great Kashmir Explorer — 7N/8D Kashmir Tour",
+    "description": "8-day Kashmir tour with overnight stays in Srinagar, Sonmarg, Gulmarg and Pahalgam. From ₹42,500 per person, expertly planned."
+  },
+  "showOnHome": false,
+  "displayOrder": 3
+}

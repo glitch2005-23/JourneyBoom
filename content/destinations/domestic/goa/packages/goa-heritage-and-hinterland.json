@@ -1,0 +1,108 @@
+{
+  "title": "Goa Heritage & Hinterland",
+  "shortDescription": "Five days beyond the beaches — Old Goa's baroque churches, the painted lanes of Fontainhas, a spice plantation lunch and the mighty Dudhsagar Falls.",
+  "description": [
+    "There's far more to Goa than its coastline. This journey shows you the soul of the state: the UNESCO-listed churches of Old Goa, the colourful Latin Quarter of Panaji, and family-run spice farms tucked into the Western Ghats.",
+    "You'll stay in a restored Portuguese-era heritage home in Panaji for two nights, then move to a peaceful South Goa resort — with a jeep safari to Dudhsagar Falls and a final day of beach time to round it off."
+  ],
+  "price": {
+    "amount": 21499,
+    "basis": "per person, twin sharing",
+    "note": "Heritage stay + beach resort. Flights not included."
+  },
+  "duration": { "nights": 4, "days": 5 },
+  "route": [
+    { "city": "Panaji", "nights": 2 },
+    { "city": "South Goa", "nights": 2 }
+  ],
+  "departureCity": "Goa (Dabolim / Mopa)",
+  "badges": ["Culture"],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/goa/church.jpg",
+      "alt": "The white baroque church of Our Lady of the Immaculate Conception in Panaji",
+      "focal": "50% 35%"
+    },
+    "card": {
+      "src": "/images/destinations/goa/fontainhas.jpg",
+      "alt": "Yellow Portuguese-era houses in Fontainhas"
+    },
+    "gallery": [
+      { "src": "/images/destinations/goa/fontainhas.jpg", "alt": "Colourful houses in Fontainhas" },
+      { "src": "/images/destinations/goa/seaside-chapel.jpg", "alt": "A seaside chapel framed by palms" },
+      { "src": "/images/destinations/goa/palms.jpg", "alt": "Palm trees on the Goan coast" },
+      { "src": "/images/destinations/goa/sunset.jpg", "alt": "Sunset over South Goa" },
+      { "src": "/images/destinations/goa/hero.jpg", "alt": "A beach between green headlands" }
+    ]
+  },
+  "highlights": [
+    "Guided walk through Fontainhas, Panaji's Latin Quarter",
+    "Basilica of Bom Jesus and Sé Cathedral in Old Goa",
+    "Spice plantation tour with a traditional Goan lunch",
+    "Jeep safari to the four-tiered Dudhsagar Falls",
+    "Two nights in a restored Portuguese heritage home"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Panaji",
+      "description": "Transfer to your heritage home in Panaji. In the late afternoon, join a local guide for a walk through Fontainhas — ochre and indigo houses, azulejo tiles and tiny bakeries.",
+      "meals": ["Dinner"],
+      "overnight": "Heritage homestay, Panaji"
+    },
+    {
+      "day": 2,
+      "title": "Old Goa & spice country",
+      "description": "Visit the Basilica of Bom Jesus, home to the relics of St Francis Xavier, and the vast Sé Cathedral. Continue to a spice plantation in Ponda for a guided walk and a traditional lunch served on banana leaves.",
+      "meals": ["Breakfast", "Lunch"],
+      "overnight": "Heritage homestay, Panaji"
+    },
+    {
+      "day": 3,
+      "title": "Dudhsagar Falls, then south",
+      "description": "Jeep safari through Bhagwan Mahavir Sanctuary to Dudhsagar Falls — at its most dramatic just after the monsoon. Continue to your South Goa resort.",
+      "meals": ["Breakfast"],
+      "overnight": "Beach resort, South Goa"
+    },
+    {
+      "day": 4,
+      "title": "Beach day in South Goa",
+      "description": "A free day on the quiet beaches of the south. Optional dolphin-spotting boat trip from Palolem or a visit to Cabo de Rama fort.",
+      "meals": ["Breakfast"],
+      "overnight": "Beach resort, South Goa"
+    },
+    {
+      "day": 5,
+      "title": "Departure",
+      "description": "Transfer to the airport for your journey home.",
+      "meals": ["Breakfast"]
+    }
+  ],
+  "inclusions": [
+    "2 nights in a heritage homestay and 2 nights at a beach resort",
+    "Daily breakfast, one dinner and a plantation lunch",
+    "Guided Fontainhas walk and Old Goa tour",
+    "Dudhsagar jeep safari (shared jeep)",
+    "Private AC car for transfers and sightseeing",
+    "24/7 Journey Boom trip support"
+  ],
+  "exclusions": [
+    "Flights to and from Goa",
+    "Meals not mentioned and drinks",
+    "Camera fees and personal expenses",
+    "Travel insurance"
+  ],
+  "knowBeforeYouGo": [
+    "Dudhsagar jeep safaris are closed during the peak monsoon (mid-June to September)",
+    "Shoulders and knees should be covered when visiting churches"
+  ],
+  "cta": {
+    "primary": { "type": "enquire" }
+  },
+  "seo": {
+    "title": "Goa Heritage Tour — 4N/5D Old Goa & Dudhsagar",
+    "description": "5-day Goa heritage holiday with Fontainhas, Old Goa churches, a spice plantation and Dudhsagar Falls. From ₹21,499 per person."
+  },
+  "showOnHome": true,
+  "displayOrder": 2
+}

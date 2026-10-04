@@ -1,0 +1,37 @@
+{
+  "eyebrow": "Legal",
+  "title": "Privacy Policy",
+  "intro": "Your privacy matters to us. This policy explains what information we collect when you use our website or make an enquiry, and how we use it.",
+  "updated": "2026-09-01",
+  "blocks": [
+    { "type": "heading", "text": "Information we collect" },
+    {
+      "type": "paragraph",
+      "text": "When you send an enquiry we collect the details you provide — your name, email address, phone number, preferred destination, travel dates, number of travellers and any message you include."
+    },
+    { "type": "heading", "text": "How we use it" },
+    {
+      "type": "list",
+      "items": [
+        "To respond to your enquiry and prepare quotations",
+        "To arrange and manage bookings you make with us",
+        "To send occasional travel offers, only if you have agreed to receive them",
+        "To improve our website and services"
+      ]
+    },
+    { "type": "heading", "text": "Sharing your information" },
+    {
+      "type": "paragraph",
+      "text": "We share your details only with the hotels, transport providers and partners needed to deliver your holiday, and with service providers who help us run our business (such as our email platform). We never sell your personal information."
+    },
+    { "type": "heading", "text": "Your choices" },
+    {
+      "type": "paragraph",
+      "text": "You can ask us to access, correct or delete your personal information, or unsubscribe from marketing emails at any time, by contacting us using the details on our Contact page."
+    }
+  ],
+  "seo": {
+    "title": "Privacy Policy",
+    "description": "How Journey Boom collects, uses and protects your personal information when you browse our website or make an enquiry."
+  }
+}

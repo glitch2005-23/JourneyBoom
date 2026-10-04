@@ -1,0 +1,118 @@
+{
+  "title": "Dubai & Abu Dhabi Explorer",
+  "shortDescription": "Six days across two Emirates — Dubai's icons and desert, plus Abu Dhabi's Sheikh Zayed Grand Mosque, Louvre Abu Dhabi and Ferrari World.",
+  "description": [
+    "Add the elegance of Abu Dhabi to the energy of Dubai. After four days of skyline views, souks and desert adventures, you'll move to the capital for a night — time enough to see the luminous white marble of the Sheikh Zayed Grand Mosque at sunset.",
+    "Spend the next day choosing between the art and architecture of the Louvre Abu Dhabi and the thrills of Ferrari World on Yas Island, before heading home with the best of both Emirates."
+  ],
+  "price": {
+    "amount": 68999,
+    "basis": "per person, twin sharing",
+    "note": "Includes UAE tourist visa. Flights quoted separately."
+  },
+  "duration": { "nights": 5, "days": 6 },
+  "route": [
+    { "city": "Dubai", "nights": 4 },
+    { "city": "Abu Dhabi", "nights": 1 }
+  ],
+  "departureCity": "Dubai (DXB)",
+  "badges": ["Two Emirates"],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/dubai/sheikh-zayed-mosque.jpg",
+      "alt": "Sheikh Zayed Grand Mosque glowing at dusk and reflected in its pools",
+      "focal": "50% 50%"
+    },
+    "card": {
+      "src": "/images/destinations/dubai/grand-mosque-day.jpg",
+      "alt": "White domes and minarets of Sheikh Zayed Grand Mosque"
+    },
+    "gallery": [
+      { "src": "/images/destinations/dubai/grand-mosque-day.jpg", "alt": "Sheikh Zayed Grand Mosque by day" },
+      { "src": "/images/destinations/dubai/hero.jpg", "alt": "Downtown Dubai at golden hour" },
+      { "src": "/images/destinations/dubai/camels.jpg", "alt": "Camels in the desert" },
+      { "src": "/images/destinations/dubai/burj-al-arab.jpg", "alt": "Burj Al Arab and the Jumeirah coast" },
+      { "src": "/images/destinations/dubai/marina.jpg", "alt": "Dubai Marina" }
+    ]
+  },
+  "highlights": [
+    "Sheikh Zayed Grand Mosque at sunset",
+    "Louvre Abu Dhabi or Ferrari World on Yas Island",
+    "Burj Khalifa 'At the Top' and the Dubai Fountain",
+    "Desert safari with BBQ dinner",
+    "Overnight in Abu Dhabi — no rushed day trip"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Dubai",
+      "description": "Airport pick-up and transfer to your hotel. Evening at leisure — perhaps a stroll along the Dubai Creek or JBR beach.",
+      "meals": [],
+      "overnight": "4-star hotel, Dubai"
+    },
+    {
+      "day": 2,
+      "title": "Dubai city tour & Burj Khalifa",
+      "description": "Explore old Dubai's souks and Al Fahidi district, cross the Creek by abra and see Jumeirah's landmarks. Head up the Burj Khalifa in the afternoon and watch the Dubai Fountain show.",
+      "meals": ["Breakfast"],
+      "overnight": "4-star hotel, Dubai"
+    },
+    {
+      "day": 3,
+      "title": "Desert safari",
+      "description": "Free morning. In the afternoon, a 4x4 dune drive, camel ride and sandboarding, then a BBQ dinner with live entertainment at a desert camp.",
+      "meals": ["Breakfast", "Dinner"],
+      "overnight": "4-star hotel, Dubai"
+    },
+    {
+      "day": 4,
+      "title": "Free day in Dubai",
+      "description": "A day for shopping, a theme park or the beach. Optional add-ons include the Museum of the Future or a seaplane flight.",
+      "meals": ["Breakfast"],
+      "overnight": "4-star hotel, Dubai"
+    },
+    {
+      "day": 5,
+      "title": "To Abu Dhabi — Grand Mosque at sunset",
+      "description": "Drive to Abu Dhabi (approx. 1.5 hours). After check-in, visit the Sheikh Zayed Grand Mosque in the late afternoon, staying as the white marble turns gold and the lights come on.",
+      "meals": ["Breakfast"],
+      "overnight": "4-star hotel, Abu Dhabi"
+    },
+    {
+      "day": 6,
+      "title": "Louvre or Ferrari World, then depart",
+      "description": "Choose between the Louvre Abu Dhabi on Saadiyat Island or the rides of Ferrari World on Yas Island, before your transfer to Abu Dhabi or Dubai airport.",
+      "meals": ["Breakfast"]
+    }
+  ],
+  "inclusions": [
+    "UAE 30-day tourist visa",
+    "4 nights in Dubai and 1 night in Abu Dhabi (4-star) with breakfast",
+    "Desert safari with BBQ dinner",
+    "Burj Khalifa 'At the Top' tickets",
+    "Dubai city tour and Abu Dhabi city tour with Grand Mosque visit",
+    "Louvre Abu Dhabi or Ferrari World ticket",
+    "All transfers on a private basis",
+    "24/7 Journey Boom trip support"
+  ],
+  "exclusions": [
+    "International flights",
+    "Tourism Dirham fees (paid at hotels)",
+    "Meals not mentioned",
+    "Travel insurance",
+    "Personal expenses and tips"
+  ],
+  "knowBeforeYouGo": [
+    "Modest clothing covering arms and legs is required at the Grand Mosque; women need a headscarf",
+    "Passports must be valid for 6 months from your travel date"
+  ],
+  "cta": {
+    "primary": { "type": "enquire" }
+  },
+  "seo": {
+    "title": "Dubai & Abu Dhabi Package — 5N/6D with Visa",
+    "description": "6-day Dubai and Abu Dhabi tour with visa, Burj Khalifa, desert safari, Sheikh Zayed Grand Mosque and Louvre or Ferrari World. From ₹68,999."
+  },
+  "showOnHome": true,
+  "displayOrder": 2
+}

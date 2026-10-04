@@ -1,0 +1,24 @@
+{
+  "about": "Journey Boom designs thoughtful, unhurried holidays — from shikara mornings in Kashmir to desert sunsets in Dubai. Every trip is planned by people who have been there, and supported end to end.",
+  "columns": [
+    {
+      "title": "Destinations",
+      "source": "categories"
+    },
+    {
+      "title": "Company",
+      "source": "links",
+      "links": [
+        { "label": "About Journey Boom", "href": "/about/" },
+        { "label": "Contact us", "href": "/contact/" },
+        { "label": "Plan a custom trip", "href": "/contact/" },
+        { "label": "Traveller reviews", "href": "/#reviews" }
+      ]
+    }
+  ],
+  "legal": [
+    { "label": "Terms & Conditions", "href": "/terms/" },
+    { "label": "Privacy Policy", "href": "/privacy/" }
+  ],
+  "copyright": "© {year} Journey Boom Holidays. All rights reserved."
+}

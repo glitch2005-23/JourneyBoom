@@ -1,0 +1,62 @@
+{
+  "title": "Goa",
+  "region": "Konkan Coast · India",
+  "tagline": "Sun, sand and a slower kind of time",
+  "description": [
+    "Goa is two holidays in one. The north hums with beach shacks, sundowners and night markets; the south slows right down to empty coves, fishing villages and palm-shaded resorts where the only schedule is the tide.",
+    "Step inland and you'll find another Goa altogether — whitewashed baroque churches in Old Goa, the ochre-and-indigo lanes of Fontainhas, spice plantations and the thundering Dudhsagar Falls. Our itineraries mix the two so you leave both rested and inspired."
+  ],
+  "heroImage": {
+    "src": "/images/destinations/goa/hero.jpg",
+    "alt": "A golden beach curving between green headlands and the Arabian Sea in South Goa",
+    "focal": "50% 50%"
+  },
+  "cardImage": {
+    "src": "/images/destinations/goa/card.jpg",
+    "alt": "Colourful beach huts beneath tall palms on Palolem Beach"
+  },
+  "gallery": [
+    { "src": "/images/destinations/goa/sunset.jpg", "alt": "Sunset over a secluded cove on the Goan coast" },
+    { "src": "/images/destinations/goa/fontainhas.jpg", "alt": "Yellow Portuguese-style houses in the Latin Quarter of Panaji" },
+    { "src": "/images/destinations/goa/church.jpg", "alt": "The white baroque facade of Our Lady of the Immaculate Conception, Panaji" },
+    { "src": "/images/destinations/goa/seaside-chapel.jpg", "alt": "A red-roofed chapel beside the sea framed by palm trees" },
+    { "src": "/images/destinations/goa/beach-shack.jpg", "alt": "A beach shack lit up with fairy lights at night" },
+    { "src": "/images/destinations/goa/cliffs.jpg", "alt": "Rugged cliffs above turquoise water in South Goa" },
+    { "src": "/images/destinations/goa/palms.jpg", "alt": "Leaning coconut palms against a clear blue sky" }
+  ],
+  "highlights": [
+    {
+      "icon": "waves",
+      "title": "Beaches for every mood",
+      "text": "Lively Baga and Calangute, laid-back Palolem, and hidden coves like Cola and Butterfly Beach."
+    },
+    {
+      "icon": "landmark",
+      "title": "UNESCO Old Goa",
+      "text": "The Basilica of Bom Jesus and Sé Cathedral — Portuguese baroque at its grandest."
+    },
+    {
+      "icon": "utensils",
+      "title": "Goan flavours",
+      "text": "Fish curry rice, prawn balchão and bebinca at beach shacks and old family kitchens."
+    },
+    {
+      "icon": "sun",
+      "title": "Sunsets & sundowners",
+      "text": "Golden-hour cruises on the Mandovi and clifftop sunsets at Chapora Fort."
+    }
+  ],
+  "quickFacts": {
+    "bestTime": "November – February (monsoon: June – September)",
+    "idealDuration": "4 – 6 days",
+    "language": "Konkani, English, Hindi",
+    "currency": "Indian Rupee (₹)"
+  },
+  "seo": {
+    "title": "Goa Tour Packages — Beaches, Heritage & Resorts",
+    "description": "Goa holiday packages with beach resorts, Old Goa heritage tours, sunset cruises and private transfers. Plan your Goa trip with Journey Boom."
+  },
+  "featured": true,
+  "showOnHome": true,
+  "displayOrder": 2
+}

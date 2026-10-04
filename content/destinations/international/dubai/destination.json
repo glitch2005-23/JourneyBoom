@@ -1,0 +1,62 @@
+{
+  "title": "Dubai",
+  "region": "United Arab Emirates",
+  "tagline": "Where the desert meets the future",
+  "description": [
+    "Dubai does nothing by halves. Watch the city glitter from the 148th floor of the Burj Khalifa, then trade skyscrapers for silence on a dune drive into the Arabian desert, ending with a barbecue under the stars.",
+    "Between the headline sights there's a softer Dubai too — abra rides across the Creek, the spice and gold souks of Deira, and the elegant calm of Abu Dhabi's Sheikh Zayed Grand Mosque. With direct flights from most Indian cities and visas handled by us, it's the easiest big-trip escape there is."
+  ],
+  "heroImage": {
+    "src": "/images/destinations/dubai/hero.jpg",
+    "alt": "Downtown Dubai and the Burj Khalifa glowing in golden evening light",
+    "focal": "50% 40%"
+  },
+  "cardImage": {
+    "src": "/images/destinations/dubai/card.jpg",
+    "alt": "The Burj Khalifa silhouetted against a pink sunset sky"
+  },
+  "gallery": [
+    { "src": "/images/destinations/dubai/camels.jpg", "alt": "Camels in traditional saddles resting on desert sand" },
+    { "src": "/images/destinations/dubai/marina.jpg", "alt": "Skyscrapers along the curving waterway of Dubai Marina" },
+    { "src": "/images/destinations/dubai/dune-drive.jpg", "alt": "A 4x4 crossing rolling red dunes on a desert safari" },
+    { "src": "/images/destinations/dubai/burj-al-arab.jpg", "alt": "Aerial view of the Burj Al Arab and Jumeirah coastline" },
+    { "src": "/images/destinations/dubai/dhow-cruise.jpg", "alt": "Illuminated dhow cruise boats on the water at night" },
+    { "src": "/images/destinations/dubai/sheikh-zayed-mosque.jpg", "alt": "Sheikh Zayed Grand Mosque in Abu Dhabi reflected at dusk" },
+    { "src": "/images/destinations/dubai/skyline-dusk.jpg", "alt": "Dubai skyline across the water at dusk" }
+  ],
+  "highlights": [
+    {
+      "icon": "landmark",
+      "title": "Burj Khalifa",
+      "text": "Sunset views from the world's tallest building — At the Top, levels 124 and 125."
+    },
+    {
+      "icon": "sun",
+      "title": "Desert safari",
+      "text": "Dune bashing, camel rides, henna and a BBQ dinner with live shows under the stars."
+    },
+    {
+      "icon": "ship",
+      "title": "Dhow cruise",
+      "text": "A candlelit dinner cruise along Dubai Marina or the historic Creek."
+    },
+    {
+      "icon": "shopping",
+      "title": "Souks & malls",
+      "text": "Gold and spice souks in Deira, then The Dubai Mall and its dancing fountains."
+    }
+  ],
+  "quickFacts": {
+    "bestTime": "November – March",
+    "idealDuration": "4 – 6 days",
+    "language": "Arabic, English widely spoken",
+    "currency": "UAE Dirham (AED)"
+  },
+  "seo": {
+    "title": "Dubai Tour Packages from India with Visa",
+    "description": "Dubai holiday packages from India including visa, hotels, desert safari, Burj Khalifa and dhow cruise. Expert-planned by Journey Boom."
+  },
+  "featured": true,
+  "showOnHome": true,
+  "displayOrder": 1
+}

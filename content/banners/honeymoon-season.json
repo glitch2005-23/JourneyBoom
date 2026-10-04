@@ -1,0 +1,15 @@
+{
+  "eyebrow": "Honeymoon season",
+  "title": "Begin forever somewhere unforgettable",
+  "text": "Private shikara rides, candlelit houseboat dinners and snow-kissed valleys — our Kashmir honeymoon comes with complimentary flower decor and a cake on arrival.",
+  "image": {
+    "src": "/images/home/promo-honeymoon.jpg",
+    "alt": "A couple sitting together on a rock watching the sunset over mountains",
+    "focal": "60% 50%"
+  },
+  "cta": {
+    "label": "See the honeymoon package",
+    "href": "/domestic/srinagar/kashmir-honeymoon-retreat/",
+    "variant": "accent"
+  }
+}
