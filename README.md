@@ -1,4 +1,4 @@
-# Journey Boom — Travel Website
+# Journey Boom — Travel Website 
 
 A production-ready, file-driven travel website for **Journey Boom** (“Travel more, create memories”).
 
