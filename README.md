@@ -190,22 +190,18 @@ npm start          # preview the exported site
 
 ### GitHub Pages
 
-The repo includes `.github/workflows/deploy.yml`, which builds and publishes the site on every push to `main`.
+The repo includes `.github/workflows/deploy.yml`, which builds and publishes the site on every push to `main`. The live site is **https://journeyboom.com** (custom domain on GitHub Pages).
 
 1. Push the code to GitHub (`main` branch).
 2. In the repo, go to **Settings → Pages → Build and deployment** and set **Source** to **GitHub Actions**.
-3. Watch the **Actions** tab. When the run turns green, the site is live at `https://<user>.github.io/<repo>/`.
+3. Under **Custom domain**, enter `journeyboom.com`, then tick **Enforce HTTPS** once the certificate is ready.
+4. Watch the **Actions** tab. When the run turns green, the new version is live.
 
 How it works:
 
-- `actions/configure-pages` supplies the base path (`/JourneyBoom`) and the public URL. The build receives them as `NEXT_PUBLIC_BASE_PATH` and `SITE_URL`, so links, images, canonical URLs and the sitemap all point to the right place. `content/settings/site.json → siteUrl` stays your production domain.
-- **Custom domain:** add it under Settings → Pages. The base path becomes empty and `SITE_URL` becomes your domain automatically.
+- The site is built for the **root of the domain**: no base path, and canonical URLs, the sitemap and OpenGraph use `content/settings/site.json → siteUrl` (`https://journeyboom.com`).
+- **Serving from `https://<user>.github.io/<repo>/` instead** (no custom domain): add `NEXT_PUBLIC_BASE_PATH: /<repo>` and `SITE_URL: https://<user>.github.io/<repo>` to the build step's `env` in the workflow. Links and images then get the `/<repo>` prefix.
 - **Mailchimp:** add a repository variable `MAILCHIMP_FORM_URL` under Settings → Secrets and variables → Actions → **Variables**.
-- To reproduce a Pages build locally, set the same variables before `npm run build`:
-
-  ```powershell
-  $env:NEXT_PUBLIC_BASE_PATH="/JourneyBoom"; $env:SITE_URL="https://glitch2005-23.github.io/JourneyBoom"; npm run build
-  ```
 
 ## 15. S3
 
@@ -265,7 +261,7 @@ aws cloudfront create-invalidation --distribution-id <DIST_ID> --paths "/*"
 1. Request an **ACM certificate in `us-east-1`** for `journeyboom.com` and `www.journeyboom.com`, validated by DNS.
 2. In the distribution, add both names as **Alternate domain names (CNAMEs)** and select the certificate.
 3. In Route 53 (or your DNS provider), create **A/AAAA alias** records for both names pointing to the distribution. Other DNS providers use a CNAME for `www`.
-4. Set `siteUrl` in `content/settings/site.json` to the final canonical origin (e.g. `https://www.journeyboom.com`) and rebuild. Canonical URLs, the sitemap and OpenGraph all use it.
+4. Set `siteUrl` in `content/settings/site.json` to the final canonical origin (e.g. `https://journeyboom.com`) and rebuild. Canonical URLs, the sitemap and OpenGraph all use it.
 
 ## 18. Future JSON → API/CMS migration
 

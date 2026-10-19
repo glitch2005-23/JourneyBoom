@@ -41,7 +41,7 @@ content/destinations/domestic/srinagar/packages/kashmir-delight.json
 …becomes this page:
 
 ```
-https://www.journeyboom.com/domestic/srinagar/kashmir-delight/
+https://journeyboom.com/domestic/srinagar/kashmir-delight/
 ```
 
 | Folder / file | What it controls |
