@@ -109,7 +109,9 @@ Add `content/destinations/<category>/<destination>/packages/<package-slug>.json`
 
 - Every category, destination, package and page has `seo.title`, `seo.description` and an optional `seo.ogImage` in its JSON.
 - Generated for each page: `<title>`, meta description, canonical URL, OpenGraph and Twitter cards, `BreadcrumbList`, `TouristTrip`/`Offer` and `TravelAgency` JSON-LD.
-- `sitemap.xml` and `robots.txt` are generated from content. Set the production domain in `content/settings/site.json → siteUrl`.
+- `sitemap.xml` and `robots.txt` are generated from content.
+- **Google Search Console:** add your site, choose the *HTML tag* method, and paste only the `content` value into `content/settings/site.json → googleSiteVerification`. After deploying, verify and submit `https://journeyboom.com/sitemap.xml`.
+- Titles longer than ~65 characters drop the "| Journey Boom" suffix automatically so they aren't truncated in search results. Set the production domain in `content/settings/site.json → siteUrl`.
 
 ## 10. Enquiry form (Web3Forms) and Mailchimp
 

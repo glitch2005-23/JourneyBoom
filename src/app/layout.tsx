@@ -23,6 +23,7 @@ export async function generateMetadata(): Promise<Metadata> {
     applicationName: settings.siteName,
     openGraph: { siteName: settings.siteName, type: "website", images: [settings.defaultOgImage] },
     twitter: { card: "summary_large_image" },
+    ...(settings.googleSiteVerification && { verification: { google: settings.googleSiteVerification } }),
   };
 }
 

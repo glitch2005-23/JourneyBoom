@@ -44,9 +44,21 @@ export const siteSettingsSchema = z.strictObject({
     email: z.email(),
     whatsapp: z.string().regex(/^[0-9]{8,15}$/, "Digits only incl. country code, e.g. \"919876543210\"").optional(),
     address: nonEmpty,
+    /** Structured address for search engines (Google Business / rich results). */
+    postalAddress: z
+      .strictObject({
+        streetAddress: nonEmpty,
+        locality: nonEmpty,
+        region: nonEmpty.optional(),
+        postalCode: nonEmpty,
+        country: z.string().length(2, "Use the 2-letter country code, e.g. \"IN\""),
+      })
+      .optional(),
     hours: nonEmpty.optional(),
   }),
   social: z.array(socialLinkSchema).default([]),
+  /** Google Search Console "HTML tag" verification code (the content="..." value only). */
+  googleSiteVerification: nonEmpty.optional(),
   theme: themeSchema,
   /** Short trust points shown in the package booking card, e.g. "No hidden charges". */
   bookingAssurances: z.array(nonEmpty).max(4).default([]),

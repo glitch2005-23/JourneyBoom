@@ -18,12 +18,18 @@ interface BuildMetadataInput {
   absoluteTitle?: boolean;
 }
 
+/** Search results truncate titles around this length, so the brand suffix is dropped beyond it. */
+const MAX_TITLE_LENGTH = 65;
+
 /** Page metadata (title, description, canonical, OpenGraph, Twitter) built entirely from content. */
 export function buildMetadata({ settings, seo, path, image, absoluteTitle = false }: BuildMetadataInput): Metadata {
   const shareImage = seo.ogImage ?? image ?? settings.defaultOgImage;
-  const fullTitle = absoluteTitle ? seo.title : `${seo.title} | ${settings.siteName}`;
+  const branded = `${seo.title} | ${settings.siteName}`;
+  // Keep the "| Journey Boom" suffix only when the whole title still fits in search results.
+  const useBrand = !absoluteTitle && branded.length <= MAX_TITLE_LENGTH;
+  const fullTitle = useBrand ? branded : seo.title;
   return {
-    title: absoluteTitle ? { absolute: seo.title } : seo.title,
+    title: { absolute: fullTitle },
     description: seo.description,
     alternates: { canonical: path },
     openGraph: {
@@ -33,7 +39,7 @@ export function buildMetadata({ settings, seo, path, image, absoluteTitle = fals
       locale: settings.locale.replace("-", "_"),
       title: fullTitle,
       description: seo.description,
-      images: [{ url: shareImage, width: 1200, height: 630, alt: seo.title }],
+      images: [{ url: shareImage, alt: seo.title }],
     },
     twitter: {
       card: "summary_large_image",

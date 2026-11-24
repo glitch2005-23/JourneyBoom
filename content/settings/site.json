@@ -28,6 +28,13 @@
     "email": "support@journeyboom.com",
     "whatsapp": "917827522456",
     "address": "G-379, Street No. 20, Mustafabad, Delhi 110094, India",
+    "postalAddress": {
+      "streetAddress": "G-379, Street No. 20, Mustafabad",
+      "locality": "Delhi",
+      "region": "Delhi",
+      "postalCode": "110094",
+      "country": "IN"
+    },
     "hours": "Mon–Sat, 9:30 am – 7:30 pm IST"
   },
   "social": [

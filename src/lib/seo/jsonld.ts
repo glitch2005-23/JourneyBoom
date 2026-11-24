@@ -15,20 +15,55 @@ export function breadcrumbJsonLd(items: { label: string; href: string }[], siteU
   };
 }
 
+/** Site-wide structured data: the business (TravelAgency) and the website it publishes. */
 export function travelAgencyJsonLd(settings: SiteSettings) {
+  const { contact } = settings;
+  const postal = contact.postalAddress;
+  const agencyId = `${settings.siteUrl}/#organization`;
   return {
     "@context": "https://schema.org",
-    "@type": "TravelAgency",
-    name: settings.siteName,
-    slogan: settings.tagline,
-    description: settings.description,
-    url: settings.siteUrl,
-    logo: absolute(settings.siteUrl, settings.logo.src),
-    image: absolute(settings.siteUrl, settings.defaultOgImage),
-    telephone: settings.contact.phone,
-    email: settings.contact.email,
-    address: settings.contact.address,
-    sameAs: settings.social.map((s) => s.href),
+    "@graph": [
+      {
+        "@type": "TravelAgency",
+        "@id": agencyId,
+        name: settings.siteName,
+        slogan: settings.tagline,
+        description: settings.description,
+        url: settings.siteUrl,
+        logo: absolute(settings.siteUrl, settings.footerLogo.src),
+        image: absolute(settings.siteUrl, settings.defaultOgImage),
+        telephone: contact.phone,
+        email: contact.email,
+        address: postal
+          ? {
+              "@type": "PostalAddress",
+              streetAddress: postal.streetAddress,
+              addressLocality: postal.locality,
+              ...(postal.region && { addressRegion: postal.region }),
+              postalCode: postal.postalCode,
+              addressCountry: postal.country,
+            }
+          : contact.address,
+        contactPoint: {
+          "@type": "ContactPoint",
+          telephone: contact.phone,
+          email: contact.email,
+          contactType: "customer service",
+          areaServed: "IN",
+          availableLanguage: ["English", "Hindi"],
+        },
+        currenciesAccepted: settings.currency,
+        sameAs: settings.social.map((s) => s.href),
+      },
+      {
+        "@type": "WebSite",
+        "@id": `${settings.siteUrl}/#website`,
+        url: settings.siteUrl,
+        name: settings.siteName,
+        inLanguage: settings.locale,
+        publisher: { "@id": agencyId },
+      },
+    ],
   };
 }
 
