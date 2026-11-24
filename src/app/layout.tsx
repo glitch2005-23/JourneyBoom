@@ -5,6 +5,7 @@ import { getContentProvider } from "@/content";
 import { JsonLd } from "@/components/common/JsonLd";
 import { Footer } from "@/components/layout/Footer";
 import { Header } from "@/components/layout/Header";
+import { InPageLinks } from "@/components/layout/InPageLinks";
 import { TopBar } from "@/components/layout/TopBar";
 import { buildNavData } from "@/components/layout/navData";
 import { travelAgencyJsonLd } from "@/lib/seo/jsonld";
@@ -72,6 +73,7 @@ export default async function RootLayout({ children }: { children: ReactNode }) 
         <main id="main">{children}</main>
         <Footer footer={footer} settings={settings} categories={categories} destinations={destinations} />
         <JsonLd data={travelAgencyJsonLd(settings)} />
+        <InPageLinks />
       </body>
     </html>
   );
