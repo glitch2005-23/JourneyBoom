@@ -56,7 +56,15 @@ export const siteSettingsSchema = z.strictObject({
     pay: nonEmpty.default("Pay Now"),
   }),
   enquiry: z.strictObject({
-    provider: z.enum(["mailchimp", "mailto"]),
+    /** "web3forms" emails each enquiry to you (free); "mailto" opens the visitor's email app. */
+    provider: z.enum(["web3forms", "mailchimp", "mailto"]),
+    /** Web3Forms access key from web3forms.com (see docs/ENQUIRY_SETUP.md). Public by design — not a secret. */
+    web3formsAccessKey: z
+      .string()
+      .regex(/^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i, "Paste the access key from Web3Forms (looks like xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx)")
+      .optional(),
+    /** Label for the optional marketing opt-in checkbox on the form. */
+    consentLabel: nonEmpty.default("Send me occasional travel offers and updates from Journey Boom"),
     /** Copy for the enquiry block on category, destination and package pages. */
     title: nonEmpty,
     subtitle: nonEmpty,

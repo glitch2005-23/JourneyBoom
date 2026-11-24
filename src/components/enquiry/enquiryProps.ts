@@ -14,6 +14,8 @@ export function buildEnquiryFormProps(
   return {
     config: {
       provider: enquiry.provider,
+      web3formsAccessKey: enquiry.web3formsAccessKey,
+      siteName: settings.siteName,
       mailchimpFormUrl: process.env.NEXT_PUBLIC_MAILCHIMP_FORM_URL || undefined,
       mailchimpFields: enquiry.mailchimpFields,
       email: contact.email,
@@ -25,6 +27,7 @@ export function buildEnquiryFormProps(
       successTitle: enquiry.successTitle,
       successMessage: enquiry.successMessage,
       errorMessage: enquiry.errorMessage,
+      consentLabel: enquiry.consentLabel,
     },
     destinations: destinations.map((d) => d.title),
     defaultDestination: context.destination,

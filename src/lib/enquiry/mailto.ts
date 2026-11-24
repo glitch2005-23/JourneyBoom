@@ -10,6 +10,7 @@ export function buildMailtoUrl(to: string, subject: string, payload: EnquiryPayl
     payload.destination && `Destination: ${payload.destination}`,
     payload.travelDate && `Travel date: ${payload.travelDate}`,
     `Travellers: ${payload.travellers}`,
+    `Marketing emails: ${payload.marketingConsent ? "Yes" : "No"}`,
     payload.message && `\n${payload.message}`,
     payload.source && `\nSent from: ${payload.source}`,
   ].filter(Boolean);

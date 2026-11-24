@@ -16,6 +16,7 @@ const payload: EnquiryPayload = {
   travelDate: "2030-05-01",
   travellers: 2,
   message: "Anniversary trip",
+  marketingConsent: true,
   packageTitle: "Kashmir Delight",
 };
 
@@ -32,6 +33,7 @@ const config = (overrides: Partial<EnquiryConfig> = {}): EnquiryConfig => ({
   provider: "mailchimp",
   mailchimpFields: fields,
   email: "hello@example.com",
+  siteName: "Journey Boom",
   mailtoSubject: "Holiday enquiry",
   mailtoSuccessMessage: "Email app opened",
   ...overrides,
@@ -81,6 +83,8 @@ describe("enquiry providers", () => {
     expect(createEnquiryProvider(config()).id).toBe("mailto");
     expect(createEnquiryProvider(config({ provider: "mailto", mailchimpFormUrl: "https://x.us1.list-manage.com/subscribe/post?u=1" })).id).toBe("mailto");
     expect(createEnquiryProvider(config({ mailchimpFormUrl: "https://x.us1.list-manage.com/subscribe/post?u=1" })).id).toBe("mailchimp");
+    expect(createEnquiryProvider(config({ provider: "web3forms" })).id).toBe("mailto");
+    expect(createEnquiryProvider(config({ provider: "web3forms", web3formsAccessKey: "1f2e3d4c-aaaa-4bbb-8ccc-0123456789ab" })).id).toBe("web3forms");
   });
 
   it("builds a readable mailto link", () => {

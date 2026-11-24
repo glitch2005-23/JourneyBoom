@@ -69,7 +69,7 @@
     "pay": "Pay Now"
   },
   "enquiry": {
-    "provider": "mailchimp",
+    "provider": "web3forms",
     "title": "Let's plan your perfect trip",
     "subtitle": "Share a few details and a Journey Boom travel expert will call you back within 24 hours with a personalised plan and quote.",
     "image": {
@@ -95,6 +95,7 @@
       "travelDate": "TDATE",
       "travellers": "PAX",
       "message": "MESSAGE"
-    }
+    },
+    "consentLabel": "Send me occasional travel offers and updates from Journey Boom"
   }
 }

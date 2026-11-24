@@ -111,7 +111,11 @@ Add `content/destinations/<category>/<destination>/packages/<package-slug>.json`
 - Generated for each page: `<title>`, meta description, canonical URL, OpenGraph and Twitter cards, `BreadcrumbList`, `TouristTrip`/`Offer` and `TravelAgency` JSON-LD.
 - `sitemap.xml` and `robots.txt` are generated from content. Set the production domain in `content/settings/site.json → siteUrl`.
 
-## 10. Mailchimp configuration
+## 10. Enquiry form (Web3Forms) and Mailchimp
+
+**Recommended — Web3Forms (free, 250 enquiries/month):** enquiries are emailed to you straight from the form on the page — no redirect, server or SMTP. Sign up and paste the access key into `content/settings/site.json → enquiry.web3formsAccessKey` (with `provider: "web3forms"`); see [docs/ENQUIRY_SETUP.md](docs/ENQUIRY_SETUP.md). The access key is public by design. The form also has an optional marketing opt-in checkbox, shown in each email as "Marketing emails: Yes/No".
+
+**Alternative — Mailchimp:**
 
 The enquiry form talks to an `EnquiryProvider` (`src/lib/enquiry/`):
 

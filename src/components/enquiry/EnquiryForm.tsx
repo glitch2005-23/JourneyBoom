@@ -9,7 +9,7 @@ import { cn } from "@/lib/utils/cn";
 
 export interface EnquiryFormProps {
   config: EnquiryConfig;
-  copy: { submitLabel: string; successTitle: string; successMessage: string; errorMessage: string };
+  copy: { submitLabel: string; successTitle: string; successMessage: string; errorMessage: string; consentLabel: string };
   /** Destination names offered in the dropdown (from content). */
   destinations: string[];
   defaultDestination?: string;
@@ -26,6 +26,7 @@ const EMPTY: Omit<EnquiryPayload, "destination"> = {
   travelDate: "",
   travellers: 2,
   message: "",
+  marketingConsent: false,
 };
 
 export function EnquiryForm({ config, copy, destinations, defaultDestination, packageTitle, phone }: EnquiryFormProps) {
@@ -163,6 +164,17 @@ export function EnquiryForm({ config, copy, destinations, defaultDestination, pa
         />
         {errorText("message")}
       </div>
+
+      <label htmlFor={`${uid}-consent`} className="flex cursor-pointer items-start gap-3 text-sm text-ink/80 sm:col-span-2">
+        <input
+          id={`${uid}-consent`}
+          type="checkbox"
+          className="mt-0.5 size-4 shrink-0 accent-[var(--brand-navy)]"
+          checked={values.marketingConsent}
+          onChange={(e) => set("marketingConsent", e.target.checked)}
+        />
+        <span>{copy.consentLabel} (optional)</span>
+      </label>
 
       {/* Spam trap: invisible to people, tempting to bots. */}
       <div className="absolute -left-[9999px]" aria-hidden="true">
