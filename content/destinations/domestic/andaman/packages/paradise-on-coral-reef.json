@@ -1,0 +1,85 @@
+{
+  "title": "Paradise on Coral Reef",
+  "shortDescription": "Andaman Islands are undoubtedly the best tourism destination of India specially for those who love nature.",
+  "description": [
+    "Andaman Islands are undoubtedly the best tourism destination of India specially for those who love nature. Warm ocean water, white sanded unspoilt beaches, enjoy complete isolation and unmatched peace in this beautiful abode. Spend 3 Nights in Port Blair and experience nature at its awesome best.",
+    "About 38 Kms away from Port Blair, explore the stunning beauty of Havelock Island and dive into the warm sea waters to explore the awe-striking coral reef. It is an idyllic resort in the lap of virgin beaches and unpolluted environment."
+  ],
+  "duration": {
+    "nights": 3,
+    "days": 4
+  },
+  "route": [
+    {
+      "city": "Port Blair",
+      "nights": 3
+    }
+  ],
+  "badges": [
+    "Family"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/andaman/beach-aerial.jpg",
+      "alt": "Aerial view of a deserted beach and clear water in the Andamans"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/andaman/hero.jpg",
+        "alt": "An old wooden boat on a turquoise shore beside mangrove trees in the Andaman Islands"
+      },
+      {
+        "src": "/images/destinations/andaman/card.jpg",
+        "alt": "Palm-fringed white sand beach in the Andaman Islands"
+      },
+      {
+        "src": "/images/destinations/andaman/neil-island-shore.jpg",
+        "alt": "A wooden boat on the calm shore of Neil Island at low tide"
+      },
+      {
+        "src": "/images/destinations/andaman/radhanagar-tree.jpg",
+        "alt": "A lone tree arching over the white sand of Radhanagar Beach"
+      },
+      {
+        "src": "/images/destinations/andaman/elephant-beach.jpg",
+        "alt": "An elephant walking along a sunny Andaman beach"
+      }
+    ]
+  },
+  "highlights": [
+    "Boat trips to Ross Island and North Bay Island",
+    "Day trip to Havelock Island by luxury boat",
+    "Port Blair sightseeing with entrance fees included",
+    "3 nights in Port Blair with daily breakfast",
+    "AC vehicle for all transfers and excursions"
+  ],
+  "inclusions": [
+    "3 Nights accommodation at Port Blair",
+    "Daily buffet / fixed Menu Breakfast at Hotel",
+    "Entrance fees in Port Blair Sightseeing",
+    "Boat tickets for Ross Island & North Bay Island",
+    "Boat Charges (Luxury Boat) for Havelock Island",
+    "AC vehicle for Transfers & Sightseeing / Excursions",
+    "All applicable Hotel taxes & Service charges"
+  ],
+  "exclusions": [
+    "Air fare",
+    "Any expenses of personal nature such as- tip to driver / guide, telephone calls, laundry expenses, wines, mineral water, food & drinks not in the regular menu provided by us",
+    "Guide & Any Sports Activities Charges during Sightseeing",
+    "Any service not mentioned in the inclusions",
+    "Surcharge on Long Weekends & Holidays to be Paid Extra - as Applicable"
+  ],
+  "knowBeforeYouGo": [
+    "If cancellation is made any time not less than 45 days prior to departure, Rs. 5,000/- (per person) shall be deducted",
+    "If cancellation is made 45 to 30 days prior to departure, 50% of the tour cost shall be deducted",
+    "If cancellation is made 30 to 15 days prior to departure, 75% of the tour cost shall be deducted",
+    "If cancellation is made within 15 days prior to departure, 100% of the tour cost shall be deducted"
+  ],
+  "seo": {
+    "title": "Paradise on Coral Reef – 3N/4D Andaman Package",
+    "description": "Andaman Islands are undoubtedly the best tourism destination of India specially for those who love nature."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 1
+}

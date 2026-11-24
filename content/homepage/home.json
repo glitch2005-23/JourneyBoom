@@ -1,7 +1,7 @@
 {
   "seo": {
-    "title": "Journey Boom — Kashmir, Goa & Dubai Holiday Packages",
-    "description": "Handcrafted holiday packages to Kashmir, Goa, Dubai and beyond. Expert-planned itineraries, trusted hotels and 24/7 support. Get a free personalised quote."
+    "title": "Journey Boom — Holiday Packages in India & Abroad",
+    "description": "Handcrafted holidays to Kashmir, Kerala, Rajasthan, Ladakh, Goa, Andaman, Dubai, Thailand and Singapore. Expert-planned itineraries and 24/7 support."
   },
   "sections": [
     {
@@ -9,21 +9,41 @@
       "id": "top",
       "eyebrow": "Handcrafted holidays since 2014",
       "title": "Your next journey starts here.",
-      "subtitle": "From the meadows of Kashmir to the beaches of Goa and the skyline of Dubai — thoughtfully planned trips, trusted stays and real people looking after you, every step of the way.",
+      "subtitle": "From Kashmir's lakes and Kerala's backwaters to Rajasthan's forts and the islands of Thailand — thoughtfully planned trips, trusted stays and real people looking after you, every step of the way.",
       "image": {
         "src": "/images/home/hero.jpg",
         "alt": "Golden evening light over a camp in a green Himalayan valley in Kashmir",
         "focal": "50% 45%"
       },
       "ctas": [
-        { "label": "Explore Packages", "href": "/#packages", "variant": "accent" },
-        { "label": "Plan Your Trip", "href": "/#enquire", "variant": "light" }
+        {
+          "label": "Explore Packages",
+          "href": "/#packages",
+          "variant": "accent"
+        },
+        {
+          "label": "Plan Your Trip",
+          "href": "/#enquire",
+          "variant": "light"
+        }
       ],
       "stats": [
-        { "value": "12,000+", "label": "Happy travellers" },
-        { "value": "4.9 / 5", "label": "Average rating" },
-        { "value": "10+ years", "label": "Crafting journeys" },
-        { "value": "24/7", "label": "On-trip support" }
+        {
+          "value": "12,000+",
+          "label": "Happy travellers"
+        },
+        {
+          "value": "4.9 / 5",
+          "label": "Average rating"
+        },
+        {
+          "value": "10+ years",
+          "label": "Crafting journeys"
+        },
+        {
+          "value": "24/7",
+          "label": "On-trip support"
+        }
       ]
     },
     {
@@ -31,12 +51,46 @@
       "id": "quick-links",
       "title": "Popular right now",
       "links": [
-        { "label": "Kashmir", "href": "/domestic/srinagar/", "icon": "mountain" },
-        { "label": "Goa", "href": "/domestic/goa/", "icon": "waves" },
-        { "label": "Dubai", "href": "/international/dubai/", "icon": "landmark" },
-        { "label": "Honeymoon in Kashmir", "href": "/domestic/srinagar/kashmir-honeymoon-retreat/", "icon": "heart" },
-        { "label": "Desert safari", "href": "/international/dubai/dubai-deluxe/", "icon": "sun" },
-        { "label": "International trips", "href": "/international/", "icon": "plane" }
+        {
+          "label": "Kashmir",
+          "href": "/domestic/kashmir/",
+          "icon": "mountain"
+        },
+        {
+          "label": "Kerala",
+          "href": "/domestic/kerala/",
+          "icon": "tree"
+        },
+        {
+          "label": "Rajasthan",
+          "href": "/domestic/rajasthan/",
+          "icon": "landmark"
+        },
+        {
+          "label": "Ladakh",
+          "href": "/domestic/ladakh/",
+          "icon": "compass"
+        },
+        {
+          "label": "Andaman",
+          "href": "/domestic/andaman/",
+          "icon": "waves"
+        },
+        {
+          "label": "Dubai",
+          "href": "/international/dubai/",
+          "icon": "sun"
+        },
+        {
+          "label": "Thailand",
+          "href": "/international/thailand/",
+          "icon": "ship"
+        },
+        {
+          "label": "Honeymoon in Kashmir",
+          "href": "/domestic/kashmir/kashmir-valley-honeymoon-escape/",
+          "icon": "heart"
+        }
       ]
     },
     {
@@ -47,7 +101,11 @@
       "subtitle": "Handpicked places we know inside out — with itineraries refined over hundreds of trips.",
       "source": "featured",
       "limit": 5,
-      "cta": { "label": "All international trips", "href": "/international/", "variant": "outline" }
+      "cta": {
+        "label": "All India destinations",
+        "href": "/domestic/",
+        "variant": "outline"
+      }
     },
     {
       "type": "featuredPackages",

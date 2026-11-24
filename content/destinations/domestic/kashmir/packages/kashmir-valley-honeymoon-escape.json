@@ -1,0 +1,145 @@
+{
+  "title": "Kashmir Valley Honeymoon Escape",
+  "shortDescription": "This thoughtfully planned journey offers a well rounded introduction to Kashmir, blending scenic beauty, cultural landmarks, and relaxed sightseeing.",
+  "description": [
+    "This thoughtfully planned journey offers a well rounded introduction to Kashmir, blending scenic beauty, cultural landmarks, and relaxed sightseeing. From tranquil moments on Dal Lake and garden walks in Srinagar to the alpine meadows of Sonmarg and Gulmarg, the itinerary balances iconic experiences with comfortable pacing.",
+    "The route continues through river valleys and countryside landscapes to Pahalgam, allowing time to unwind amidst nature. With guided excursions, smooth transfers, and a memorable houseboat stay, this tour is ideal for travellers seeking a scenic and unhurried exploration of Kashmir’s most loved highlights."
+  ],
+  "duration": {
+    "nights": 5,
+    "days": 6
+  },
+  "route": [
+    {
+      "city": "Srinagar",
+      "nights": 3
+    },
+    {
+      "city": "Pahalgam",
+      "nights": 1
+    },
+    {
+      "city": "Gulmarg",
+      "nights": 1
+    }
+  ],
+  "badges": [
+    "Honeymoon"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/kashmir/snow-forest.jpg",
+      "alt": "Snow-laden pine forest beneath golden-lit Himalayan peaks"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/kashmir/card.jpg",
+        "alt": "Brightly painted shikaras moored on Dal Lake"
+      },
+      {
+        "src": "/images/destinations/kashmir/houseboat.jpg",
+        "alt": "An intricately carved houseboat reflected in the calm waters of Dal Lake"
+      },
+      {
+        "src": "/images/destinations/kashmir/gulmarg-gondola.jpg",
+        "alt": "The Gulmarg Gondola rising over meadows towards snowy peaks"
+      },
+      {
+        "src": "/images/destinations/kashmir/floating-market.jpg",
+        "alt": "A vendor selling fruit from his boat at the Dal Lake floating market"
+      },
+      {
+        "src": "/images/destinations/kashmir/pahalgam-meadow.jpg",
+        "alt": "Sheep grazing in a green meadow near Pahalgam"
+      }
+    ]
+  },
+  "highlights": [
+    "One-hour shikara ride on Dal Lake",
+    "Night aboard a traditional houseboat",
+    "Sonmarg, the 'Meadow of Gold'",
+    "Gulmarg and the gondola to Kongdoori (optional)",
+    "Pahalgam and the Lidder valley",
+    "Mughal Gardens and Shankaracharya Temple"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Srinagar",
+      "description": "Arrive at Srinagar Airport and transfer to the hotel. Check in and settle into your stay. Enjoy a one-hour shikara ride on Dal Lake at Nehru Park. Visit a local handicrafts showroom showcasing carpets, shawls, and jewellery.",
+      "meals": [
+        "Dinner"
+      ],
+      "overnight": "Srinagar"
+    },
+    {
+      "day": 2,
+      "title": "Sonmarg Day Excursion",
+      "description": "Travel to Sonmarg on a full-day excursion from Srinagar. Explore the Sonmarg valley known as the Meadow of Gold. View Thajiwas Glacier with optional pony hire. Drive back to Srinagar by evening.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ],
+      "overnight": "Srinagar"
+    },
+    {
+      "day": 3,
+      "title": "Gulmarg Mountain Escape",
+      "description": "Drive from Srinagar to Gulmarg after breakfast. Take in views of the surrounding mountains and landscapes. Opt for a short trek to Khilanmarg or a Gondola ride to Kongdoori (on direct payment basis). Spend time exploring Gulmarg at your own pace.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ],
+      "overnight": "Gulmarg"
+    },
+    {
+      "day": 4,
+      "title": "Scenic Drive to Pahalgam",
+      "description": "Depart Gulmarg for Pahalgam after breakfast. Drive via Pampore, Avantipura, and Bijbehara village. Pass through Anantnag while following the Lidder River route. Check in at the hotel and enjoy leisure time.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ],
+      "overnight": "Pahalgam"
+    },
+    {
+      "day": 5,
+      "title": "Pahalgam – Srinagar",
+      "description": "Drive from Pahalgam to Srinagar after breakfast. Visit Chashme Shahi, Shalimar Garden, and Nishat Garden. Stop at Shankaracharya Temple. Transfer to a houseboat in the evening.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ],
+      "overnight": "Srinagar"
+    },
+    {
+      "day": 6,
+      "title": "Departure from Srinagar",
+      "description": "Enjoy breakfast and morning time at leisure. Transfer to Srinagar Airport for onward journey.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "Accommodation at Hotels",
+    "Welcome Drink on Arrival",
+    "Breakfast and Dinner",
+    "Non-AC Vehicle as per itinerary",
+    "Shikara Ride in Dal/Nigeen Lake for 1 Hour",
+    "All present applicable Taxes"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Entry fees to monuments and palaces",
+    "Anything not mentioned in the inclusions",
+    "Porterage at hotels and airports, tips, insurance, laundry, liquor and wine"
+  ],
+  "seo": {
+    "title": "Kashmir Valley Honeymoon Escape – 5N/6D Kashmir Package",
+    "description": "This thoughtfully planned journey offers a well rounded introduction to Kashmir, blending scenic beauty, cultural landmarks, and relaxed sightseeing."
+  },
+  "featured": true,
+  "showOnHome": true,
+  "displayOrder": 2
+}

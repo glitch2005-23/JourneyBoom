@@ -1,0 +1,135 @@
+{
+  "title": "Shopper’s Stop Thailand",
+  "shortDescription": "Thailand is an addictive destination. It addicts you to live in its friendly atmosphere, to shop from its crazy markets, to eat spicy street food, to swim against the waves and to rave in its pulsating nightlife.",
+  "description": [
+    "Thailand is an addictive destination. It addicts you to live in its friendly atmosphere, to shop from its crazy markets, to eat spicy street food, to swim against the waves and to rave in its pulsating nightlife. Amidst the exciting water sports, unlimited beach fun, exotic cabaret shows and raving night parties, don’t forget to gorge on the lip-smacking seafood at Pattaya.",
+    "Then travel to Bangkok, a city of extremes! Enchanting temples vs pulsating nightlife, speedy tuk-tuks vs soothing Chao Phraya Cruise, spicy-yet-irresistible noodles vs fresh fruit salad in floating market and last but not the least, world class shopping malls vs crazy street market shopping! Thailand really has it all."
+  ],
+  "duration": {
+    "nights": 5,
+    "days": 6
+  },
+  "route": [
+    {
+      "city": "Pattaya",
+      "nights": 2
+    },
+    {
+      "city": "Bangkok",
+      "nights": 3
+    }
+  ],
+  "badges": [
+    "Family"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/thailand/grand-palace.jpg",
+      "alt": "The golden chedi of the Grand Palace in Bangkok"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/thailand/longtail-boats.jpg",
+        "alt": "Longtail boats anchored near a limestone island"
+      },
+      {
+        "src": "/images/destinations/thailand/krabi-karsts.jpg",
+        "alt": "Limestone karsts rising from the Andaman Sea"
+      },
+      {
+        "src": "/images/destinations/thailand/phuket-bay.jpg",
+        "alt": "A tropical bay in Phuket seen from the hillside"
+      },
+      {
+        "src": "/images/destinations/thailand/phi-phi-viewpoint.jpg",
+        "alt": "Phi Phi Don's twin bays from the viewpoint"
+      },
+      {
+        "src": "/images/destinations/thailand/maya-bay.jpg",
+        "alt": "Boats floating in clear water between towering cliffs"
+      }
+    ]
+  },
+  "highlights": [
+    "3 nights in Bangkok for malls and markets",
+    "Coral Island tour",
+    "Pattaya city tour and Gem Gallery",
+    "Daily buffet breakfast"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Bangkok – Transfer to Pattaya Hotel",
+      "description": "First you arrive at Bangkok. After custom clearance, visa processing and baggage claim, Local Tour representative will transfer you to Pattaya. Enjoy outside views. Check in at the hotel and relax. Rest of the day is at leisure. In the evening, you can go for self strolls in the nearby areas or can opt for Alcazar Show (at an extra cost). It is a world famous cabaret with vibrant light and sound system, beautiful stage design, enticing dance performances and extravagant costumes. Return to hotel afterwards.",
+      "overnight": "Pattaya"
+    },
+    {
+      "day": 2,
+      "title": "Pattaya (Coral Island Tour)",
+      "description": "Have a fill at morning breakfast at hotel and set out for a thrill filled tour to Coral Island. A few miles off coast Pattaya, Coral Island or Koh Larn is the most famous attraction for visitors of Pattaya. Laze off on white sandy beach basking in the sun or go for deep sea or scuba diving to explore the beautiful and extensive corals. Enjoy snorkeling in crystal clear sea waters and indulge in adventurous water sports like parasailing, water-skiing, etc. Later, return to hotel and relax or go to visit the famous Floating Market of Pattaya.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Pattaya"
+    },
+    {
+      "day": 3,
+      "title": "Pattaya (City tour) – Transfer to Bangkok",
+      "description": "Have your fill at morning breakfast at the hotel, pack your bags and check out from the hotel. Today we drive back to Bangkok. En-route we take a panoramic city tour of Pattaya and visit World’s biggest Gem Gallery. Check-in at the Bangkok hotel and relax. In the evening, you can head out to explore the city’s famous nightlife or you could opt for Chao Phraya River Dinner Cruise (on an extra cost). It is a beautiful tour offering amazing night views of Thailand's historical landmarks like Grand Palace, Temple of the Emerald Buddha, Wat Arun (Temple of the Dawn), the Rama 8 Bridge, etc. Cruise leisurely along the river, seeing dramatic sights and enjoying an elaborate dining and wining along with live entertainment. Post tour, return to the hotel and sleep peacefully.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Bangkok"
+    },
+    {
+      "day": 4,
+      "title": "Bangkok (Day free for Leisure)",
+      "description": "Have a fill at morning breakfast and set out to explore the wonderful city at your own. Visit to Bangkok remains incomplete if you don’t shop! Explore the markets and grab great deals at the local markets or world-class malls for absolutely everything you buy right from trendy clothes and accessories to designer goods and electronic gadgets. If shopping is not that you are looking for, opt for any sightseeing tour (on an extra cost) that suits your interest. Return to the hotel afterwards.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Bangkok"
+    },
+    {
+      "day": 5,
+      "title": "Bangkok (Day free for Leisure)",
+      "description": "Wake up to a vibrant morning in the land of unlimited delights and recharge with morning breakfast. Today is free at your own leisure. Explore the city attractions on your own, visit its world class malls, enjoy a tuk tuk ride or explore Bangkok’s exciting street markets. Oh! How can you forget about gorging on some lip smacking local Thai food?!! This being your last night of the trip, you may as well explore the famous city nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Bangkok"
+    },
+    {
+      "day": 6,
+      "title": "Bangkok (Departure)",
+      "description": "Pack your bags, have a fill at morning breakfast and check out from the hotel (as per hotel’s check out timing). Grab onto some shopping deals before returning (as per your flight timing). Today we transfer you to the Bangkok Airport for your flight back home.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "2 Nights Accommodation in Pattaya",
+    "3 Nights Accommodation in Bangkok",
+    "5 Buffet Breakfast at Hotel",
+    "Coral Island tour (max 4 hours)(Not valid for Senior Citizens)",
+    "Pattaya City tour (max 3 hours)",
+    "Airport Transfers from / to Suvarnabhumi Airport on Seat In Coach (shared) Basis",
+    "All Hotel taxes"
+  ],
+  "exclusions": [
+    "Airfare",
+    "You will need to Pay Rs. 1,000/- per person (Extra), If your transfer timings are not between 7 AM - 6 PM",
+    "On Arrival Visa fee of 2000 Thai baht (to be Paid directly by the Guest at Thailand airport) OR Visa fee from India Rs. 4,000/- (per person) Extra",
+    "Travel Insurance(Strongly recommended for Senior Citizens)",
+    "Any service not mentioned in the inclusions",
+    "Hotel Surcharge (as Applicable) to be Paid Extra.(During Peak & Super Peak Season)"
+  ],
+  "seo": {
+    "title": "Shopper’s Stop Thailand – 5N/6D Thailand Package",
+    "description": "Thailand is an addictive destination. It addicts you to live in its friendly atmosphere, to shop from its crazy markets, to eat spicy street food, to swim…"
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 4
+}

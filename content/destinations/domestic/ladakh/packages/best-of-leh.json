@@ -1,0 +1,85 @@
+{
+  "title": "Best of Leh",
+  "shortDescription": "Embark on a magical journey through breathtaking scenery, stark landscapes and unique monuments nestled in the mighty Himalayas. Encounter the hardworking and hospitable people and learn about their lives.",
+  "description": [
+    "Embark on a magical journey through breathtaking scenery, stark landscapes and unique monuments nestled in the mighty Himalayas. Encounter the hardworking and hospitable people and learn about their lives. Visit the unique Magnetic Hill and Druk Padma Karpo School (Rancho’s school from 3 Idiots). Marvel at the turquoise waters of Pangong Lake and the unique architecture of stupas and monasteries that dot the villages of this fascinating place."
+  ],
+  "duration": {
+    "nights": 5,
+    "days": 6
+  },
+  "route": [
+    {
+      "city": "Leh",
+      "nights": 5
+    }
+  ],
+  "badges": [
+    "Flights included",
+    "Best price"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/ladakh/card.jpg",
+      "alt": "Leh town spread beneath snow-capped peaks"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/ladakh/hero.jpg",
+        "alt": "The turquoise waters of Pangong Lake beneath barren Himalayan mountains"
+      },
+      {
+        "src": "/images/destinations/ladakh/pangong-shore.jpg",
+        "alt": "Travellers on the shore of Pangong Lake"
+      },
+      {
+        "src": "/images/destinations/ladakh/pangong-blue.jpg",
+        "alt": "The deep blue water of Pangong Lake under a cloud-dotted sky"
+      },
+      {
+        "src": "/images/destinations/ladakh/pangong-mirror.jpg",
+        "alt": "Mountains mirrored in the still surface of Pangong Lake"
+      },
+      {
+        "src": "/images/destinations/ladakh/mountain-highway.jpg",
+        "alt": "A Himalayan highway leading towards snowy mountains in Ladakh"
+      }
+    ]
+  },
+  "highlights": [
+    "Return economy airfare Delhi–Leh–Delhi",
+    "5 nights in Leh on twin sharing",
+    "Choice of meal plan: CP, MAP or AP",
+    "Return airport transfers"
+  ],
+  "inclusions": [
+    "Economy Class Return Airfare (Delhi - Leh - Delhi)",
+    "5 Nights Accommodation (on twin sharing basis)",
+    "Meals as per the Meal plan (Kindly check the Timings & Venue from the Hotel)",
+    "Return Airport transfers by Non AC Vehicle (on Sharing basis)",
+    "All Presently applicable Hotel & Airline taxes",
+    "Should there be any further levy of Govt. / statutory taxes or charges, the same shall be chargeable extra as and when applicable",
+    "Meals as per your chosen plan — CP (breakfast), MAP (breakfast & dinner) or AP (all meals)"
+  ],
+  "exclusions": [
+    "Inner-line permits, Environmental fees & any Sightseeing tour",
+    "Items of personal nature like laundry, telephone calls, room service charges, soft drinks and hard drink charges, etc",
+    "Any service not mentioned in the inclusions",
+    "The payments for additional services taken at the hotel are to be settled directly at the hotel",
+    "Any expenses caused by factors beyond our control, like- medical emergencies, cancellation of flights, changes in flight timings, unexpected lockdown, natural calamity, civil unrest, landslides, road blockage, political disturbances (strikes), etc",
+    "Surcharges Extra (if applicable) on Long Weekends & Holidays"
+  ],
+  "knowBeforeYouGo": [
+    "Only post-paid mobile phones work in Leh. Please check with your mobile service provider before leaving for the tour",
+    "Kindly carry your 2 passport size photographs and 1 photo id for the permits",
+    "It is very important to take complete rest on the first day to acclimatize with the climate",
+    "If any sightseeing is not covered due to natural calamity or due to personal problem of the client there will be no refund for the same"
+  ],
+  "seo": {
+    "title": "Best of Leh – 5N/6D Ladakh Package",
+    "description": "Embark on a magical journey through breathtaking scenery, stark landscapes and unique monuments nestled in the mighty Himalayas. Encounter the hardworking…"
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 1
+}

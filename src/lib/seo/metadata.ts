@@ -10,7 +10,7 @@ interface PageSeo {
 interface BuildMetadataInput {
   settings: SiteSettings;
   seo: PageSeo;
-  /** Site-relative canonical path, e.g. "/domestic/srinagar/". */
+  /** Site-relative canonical path, e.g. "/domestic/kashmir/". */
   path: string;
   /** Fallback share image when seo.ogImage is not set (usually the page hero). */
   image?: string;

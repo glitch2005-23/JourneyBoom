@@ -2,7 +2,7 @@
   "siteName": "Journey Boom",
   "tagline": "Travel more, create memories",
   "siteUrl": "https://journeyboom.com",
-  "description": "Handcrafted holidays across India and the world — Kashmir, Goa, Dubai and more. Expert-planned itineraries, trusted stays and 24/7 support from Journey Boom.",
+  "description": "Handcrafted holidays across India and the world — Kashmir, Kerala, Rajasthan, Ladakh, Dubai, Thailand and more. Expert planning and 24/7 support.",
   "logo": {
     "src": "/images/brand/logo-horizontal.png",
     "alt": "Journey Boom",
@@ -31,9 +31,18 @@
     "hours": "Mon–Sat, 9:30 am – 7:30 pm IST"
   },
   "social": [
-    { "platform": "instagram", "href": "https://www.instagram.com/journeyboom" },
-    { "platform": "facebook", "href": "https://www.facebook.com/journeyboom" },
-    { "platform": "youtube", "href": "https://www.youtube.com/@journeyboom" }
+    {
+      "platform": "instagram",
+      "href": "https://www.instagram.com/journeyboom"
+    },
+    {
+      "platform": "facebook",
+      "href": "https://www.facebook.com/journeyboom"
+    },
+    {
+      "platform": "youtube",
+      "href": "https://www.youtube.com/@journeyboom"
+    }
   ],
   "theme": {
     "colors": {

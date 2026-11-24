@@ -1,0 +1,132 @@
+{
+  "title": "Floating Paradise Kashmir",
+  "shortDescription": "This thoughtfully planned journey offers a well rounded introduction to Kashmir, blending scenic beauty, cultural landmarks, and relaxed sightseeing.",
+  "description": [
+    "This thoughtfully planned journey offers a well rounded introduction to Kashmir, blending scenic beauty, cultural landmarks, and relaxed sightseeing. From tranquil moments on Dal Lake and garden walks in Srinagar to the alpine meadows of Sonmarg and Gulmarg, the itinerary balances iconic experiences with comfortable pacing.",
+    "The route continues through river valleys and countryside landscapes to Pahalgam, allowing time to unwind amidst nature. With guided excursions, smooth transfers, and a memorable houseboat stay, this tour is ideal for travellers seeking a scenic and unhurried exploration of Kashmir’s most loved highlights."
+  ],
+  "duration": {
+    "nights": 5,
+    "days": 6
+  },
+  "route": [
+    {
+      "city": "Srinagar",
+      "nights": 5
+    }
+  ],
+  "badges": [],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/kashmir/houseboat.jpg",
+      "alt": "An intricately carved houseboat reflected in the calm waters of Dal Lake"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/kashmir/pahalgam-valley.jpg",
+        "alt": "A river winding through the green Pahalgam valley under dramatic clouds"
+      },
+      {
+        "src": "/images/destinations/kashmir/gulmarg-snow.jpg",
+        "alt": "Snow-covered chalets in Gulmarg in winter"
+      },
+      {
+        "src": "/images/destinations/kashmir/sonmarg-meadow.jpg",
+        "alt": "Horses grazing beside a boulder in the Sonmarg valley"
+      },
+      {
+        "src": "/images/destinations/kashmir/dal-lake-dusk.jpg",
+        "alt": "A shikara on Dal Lake under a purple evening sky"
+      },
+      {
+        "src": "/images/destinations/kashmir/snow-forest.jpg",
+        "alt": "Snow-laden pine forest beneath golden-lit Himalayan peaks"
+      }
+    ]
+  },
+  "highlights": [
+    "Houseboat stay and shikara ride on Dal Lake",
+    "Day trips to Sonmarg, Gulmarg and Pahalgam",
+    "Gulmarg Gondola (optional)",
+    "Saffron fields of Pampore",
+    "Mughal Gardens and Shankaracharya Temple",
+    "5 nights in a 3-star hotel"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrival in Srinagar",
+      "description": "Arrive at Srinagar Airport and meet the representative before proceeding towards the houseboat for check-in. Enjoy a relaxing Shikara ride on Dal Lake, offering beautiful views of the lake, floating markets, and surrounding mountains. Later, visit a local handicrafts showroom known for traditional Kashmiri hand-knotted silk carpets, shawls, and jewellery items. Overnight stay at the houseboat in Srinagar.",
+      "meals": [
+        "Dinner"
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Srinagar – Sonmarg – Srinagar",
+      "description": "After breakfast, proceed for a full-day excursion to Sonmarg, popularly known as the “Meadow of Gold\". Located at an altitude of around 9,000 feet, Sonmarg is surrounded by flower-filled valleys, rivers, and majestic Himalayan mountains. The destination also serves as the base for several high-altitude trekking routes and glacier excursions. Guests may hire ponies at their own expense to visit the famous Thajiwas Glacier, a major attraction during the summer season. Later, drive back to Srinagar for an overnight stay at the hotel.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Srinagar – Gulmarg – Srinagar",
+      "description": "After breakfast, proceed towards Gulmarg, also known as the “Meadow of Flowers\", situated at an altitude of approximately 2,730 metres above sea level. Enjoy the scenic drive via Tangmarg, known for its picturesque mountain views. Gulmarg is famous for its ski slopes, scenic landscapes, and one of the world’s highest golf courses. Guests may enjoy a ride on the famous Gulmarg Gondola Cable Car to witness panoramic mountain views; gondola tickets are available on a direct payment basis. Visitors may also opt for a short trek towards Khilanmarg depending on weather and time conditions. Return to Srinagar for an overnight stay at the hotel.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Srinagar – Pahalgam – Srinagar",
+      "description": "After breakfast, proceed towards Pahalgam via Pampore, known for its saffron fields, and pass through Avantipura and Bijbehara, often referred to as the bread basket of Kashmir. Continue the scenic drive through Anantnag while enjoying beautiful stretches running parallel to the flowing Lidder River. Spend time amidst the peaceful valley surroundings before returning to Srinagar in the evening.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ],
+      "overnight": "Srinagar"
+    },
+    {
+      "day": 5,
+      "title": "Srinagar Local Sightseeing",
+      "description": "After breakfast, proceed for local sightseeing in Srinagar. Visit the famous Mughal Gardens, including Chashme Shahi, known as the “Royal Spring\"; Shalimar Bagh, referred to as the “Garden of Love\"; and Nishat Garden, also called the “Garden of Pleasure\". Later, visit the revered Shankaracharya Temple, situated on a hilltop overlooking Srinagar and Dal Lake.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ],
+      "overnight": "Srinagar"
+    },
+    {
+      "day": 6,
+      "title": "Srinagar – Airport – Onward destination",
+      "description": "After breakfast, enjoy some free time in Srinagar before proceeding towards Srinagar Airport for your onwards journey. The tour concludes with memorable experiences from Kashmir.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "05 Nights Accommodation in 3 star Hotel",
+    "Breakfast and Dinner",
+    "Shikara Ride facility(01 Hour)",
+    "Non-AC Vehicle as per itinerary",
+    "All Applicable hotel taxes"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Entry fees to monuments and palaces",
+    "Anything not mentioned in the inclusions",
+    "Porterage at hotels and airports, tips, insurance, laundry, liquor and wine",
+    "Any monument charges like Garden fee, Cable car ticket ,etc in ladakh and kashmir"
+  ],
+  "seo": {
+    "title": "Floating Paradise Kashmir – 5N/6D Kashmir Package",
+    "description": "This thoughtfully planned journey offers a well rounded introduction to Kashmir, blending scenic beauty, cultural landmarks, and relaxed sightseeing."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 6
+}

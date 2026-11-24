@@ -1,0 +1,91 @@
+{
+  "title": "Wonderful Dubai Getaway with Cruise",
+  "shortDescription": "Combine four nights in Dubai with two nights at sea aboard Resorts World One. In the city you'll enjoy a half-day tour, a desert safari with dinner and a Marina dhow cruise.",
+  "description": [
+    "Combine four nights in Dubai with two nights at sea aboard Resorts World One. In the city you'll enjoy a half-day tour, a desert safari with dinner and a Marina dhow cruise.",
+    "Then step on board for two nights of ocean views, entertainment and all meals included on the cruise — a relaxed way to add a sea voyage to your Dubai holiday."
+  ],
+  "duration": {
+    "nights": 6,
+    "days": 7
+  },
+  "route": [
+    {
+      "city": "Dubai",
+      "nights": 4
+    },
+    {
+      "city": "Cruise",
+      "nights": 2
+    }
+  ],
+  "badges": [
+    "Family"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/dubai/sheikh-zayed-mosque.jpg",
+      "alt": "Sheikh Zayed Grand Mosque reflected at dusk"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/dubai/skyline-dusk.jpg",
+        "alt": "The Dubai skyline across the water at dusk"
+      },
+      {
+        "src": "/images/destinations/dubai/hero.jpg",
+        "alt": "Downtown Dubai and the Burj Khalifa glowing in golden evening light"
+      },
+      {
+        "src": "/images/destinations/dubai/card.jpg",
+        "alt": "The Burj Khalifa silhouetted against a pink sunset sky"
+      },
+      {
+        "src": "/images/destinations/dubai/camels.jpg",
+        "alt": "Camels in traditional saddles resting on desert sand"
+      },
+      {
+        "src": "/images/destinations/dubai/dune-drive.jpg",
+        "alt": "A 4x4 crossing rolling red dunes on a desert safari"
+      }
+    ]
+  },
+  "highlights": [
+    "2 nights aboard Resorts World One",
+    "All meals on the cruise",
+    "4 nights in Dubai with breakfast",
+    "Marina dhow cruise with dinner",
+    "Desert safari with dinner",
+    "Half-day Dubai city tour"
+  ],
+  "inclusions": [
+    "4 Nights accommodation in Dubai",
+    "2 Nights Stay on Resorts World Cruises- Resorts World One (Interior Stateroom)",
+    "4 Buffet Breakfast at Hotel & All Meals on Cruise (Kindly check the Timings & Venue from the Hotel)",
+    "Marina Dhow Cruise with Dinner",
+    "Desert Safari with Dinner",
+    "Half day Dubai City tour",
+    "Airport & Cruise transfers",
+    "All tours & transfers on Seat in Coach (Shared) basis",
+    "GST"
+  ],
+  "exclusions": [
+    "Airfare & Visa Charges",
+    "Passenger travelling to Dubai must carry at least 2000 AED (per person) or equivalent US $ with Bill",
+    "Medical Travel Insurance (Note: It is Mandatory for all the Passengers)",
+    "Any service not mentioned in the inclusions",
+    "Surcharges (if Any)",
+    "Tourism Dirham (hotel tax) to be paid by the guest directly at hotel at the time of Checkout",
+    "Gratuity fees: USD 20 (per person / per night) to be paid on board Cruise directly",
+    "TCS* 5% will be applicable on the total package cost",
+    "Tax Collected at Source is the tax payable by a seller which he collects from the buyer at the time of sale",
+    "With a view to widen the tax-net, the Indian Govt. (vide the Finance Act, 2020) has extended the scope of Tax Collected at Source (“TCS”) provided under Section 206C of the Income-tax Act, 1961"
+  ],
+  "seo": {
+    "title": "Wonderful Dubai Getaway with Cruise – 6N/7D Dubai Package",
+    "description": "Combine four nights in Dubai with two nights at sea aboard Resorts World One. In the city you'll enjoy a half-day tour, a desert safari with dinner and a…"
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 10
+}

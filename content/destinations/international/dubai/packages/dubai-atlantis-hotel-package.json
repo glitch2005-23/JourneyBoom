@@ -1,0 +1,80 @@
+{
+  "title": "Dubai Atlantis Hotel Package",
+  "shortDescription": "Two indulgent nights at the iconic Atlantis, The Palm — home to Aquaventure Waterpark and The Lost Chambers Aquarium — with the essential Dubai experiences built in.",
+  "description": [
+    "Two indulgent nights at the iconic Atlantis, The Palm — home to Aquaventure Waterpark and The Lost Chambers Aquarium — with the essential Dubai experiences built in.",
+    "Your stay includes a half-day city tour, an evening desert safari with dune bashing, belly dancing and a barbecue dinner, and a dinner cruise aboard a traditional dhow."
+  ],
+  "duration": {
+    "nights": 2,
+    "days": 3
+  },
+  "route": [
+    {
+      "city": "Dubai",
+      "nights": 2
+    }
+  ],
+  "badges": [
+    "Honeymoon",
+    "Family"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/dubai/burj-al-arab.jpg",
+      "alt": "Aerial view of the Burj Al Arab and the Jumeirah coastline"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/dubai/dune-drive.jpg",
+        "alt": "A 4x4 crossing rolling red dunes on a desert safari"
+      },
+      {
+        "src": "/images/destinations/dubai/buggies.jpg",
+        "alt": "Dune buggies racing across the Dubai desert"
+      },
+      {
+        "src": "/images/destinations/dubai/marina.jpg",
+        "alt": "Skyscrapers along the curving waterway of Dubai Marina"
+      },
+      {
+        "src": "/images/destinations/dubai/dhow-cruise.jpg",
+        "alt": "Illuminated dhow cruise boats on the water at night"
+      },
+      {
+        "src": "/images/destinations/dubai/sheikh-zayed-mosque.jpg",
+        "alt": "Sheikh Zayed Grand Mosque reflected at dusk"
+      }
+    ]
+  },
+  "highlights": [
+    "2 nights at Atlantis, The Palm",
+    "Half-day Dubai city tour",
+    "Desert safari with dune bashing, belly dance and BBQ dinner",
+    "Dhow cruise with dinner"
+  ],
+  "inclusions": [
+    "2 Nights accommodation at Atlantis, The Palm",
+    "Daily Breakfast",
+    "Dubai Half Day City Tour",
+    "Desert Safari with Dinner (with Dune Bashing, Belly Dance and Barbeque Dinner)",
+    "Dhow Cruise with Dinner",
+    "Airport Hotel Return Transfers",
+    "All Hotel taxes and Service charges"
+  ],
+  "exclusions": [
+    "Flights",
+    "Any service not mentioned in the inclusions",
+    "Travel Insurance",
+    "Visa Charges",
+    "Surcharges if any",
+    "Tourism Dirham (hotel tax) to be paid by the guest directly at hotel at the time of Checkout"
+  ],
+  "seo": {
+    "title": "Dubai Atlantis Hotel Package – 2N/3D Dubai Package",
+    "description": "Two indulgent nights at the iconic Atlantis, The Palm — home to Aquaventure Waterpark and The Lost Chambers Aquarium — with the essential Dubai experiences…"
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 4
+}

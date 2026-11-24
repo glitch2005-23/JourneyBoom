@@ -1,0 +1,109 @@
+{
+  "title": "Darjeeling Hill Escape",
+  "shortDescription": "Darjeeling doesn't need to announce itself; the mist, the mountain air and the distant outline of Kanchenjunga do that quietly on its behalf.",
+  "description": [
+    "Darjeeling doesn't need to announce itself; the mist, the mountain air and the distant outline of Kanchenjunga do that quietly on its behalf. Perched in the foothills of West Bengal, the town carries its British-era past lightly through old churches, heritage buildings and the famous Himalayan Railway that still winds its way through the hills with unhurried charm. Tiger Hill's sunrise views kick the classic experiences off convincingly, the Himalayan panorama doing what it always does best.",
+    "Scenic drives through Kurseong and Mirik, monastery visits, tea garden walks and lively Mall Road evenings fill the days between with texture and warmth. It's the kind of hill station that slows you down whether you planned for it or not, and you leave grateful for that."
+  ],
+  "duration": {
+    "nights": 3,
+    "days": 4
+  },
+  "route": [
+    {
+      "city": "Darjeeling",
+      "nights": 3
+    }
+  ],
+  "badges": [],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/north-east/tea-hills.jpg",
+      "alt": "A road winding through green tea hills near Darjeeling"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/north-east/toy-train-tea.jpg",
+        "alt": "The Darjeeling toy train steaming past tea gardens"
+      },
+      {
+        "src": "/images/destinations/north-east/toy-train.jpg",
+        "alt": "The Darjeeling Himalayan Railway steam engine in the forest"
+      },
+      {
+        "src": "/images/destinations/north-east/tsomgo-lake.jpg",
+        "alt": "Tsomgo Lake surrounded by snowy mountains"
+      },
+      {
+        "src": "/images/destinations/north-east/buddha-park.jpg",
+        "alt": "The giant Buddha statue at Ravangla wrapped in mist"
+      },
+      {
+        "src": "/images/destinations/north-east/prayer-flags.jpg",
+        "alt": "Colourful prayer flags strung across a Sikkim mountain pass"
+      }
+    ]
+  },
+  "highlights": [
+    "Scenic drive via Kurseong along the toy train route",
+    "Tiger Hill sunrise over Kanchenjunga",
+    "Ghoom Monastery and Batasia Loop",
+    "Day trip to Mirik and Sumendu Lake"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Bagdogra to Darjeeling",
+      "description": "Arrive at New Jalpaiguri Railway Station or Bagdogra Airport and transfer to Darjeeling via the scenic hill town of Kurseong. Enjoy picturesque views along the historic Darjeeling Himalayan Railway (Toy Train) route, passing through Tung, Sonada, and Ghoom. Check in to the hotel upon arrival and relax amidst the cool mountain atmosphere. Spend the evening exploring the lively Mall Road, enjoying a leisurely walk, pony rides, local cafés, and views of the surrounding hills.",
+      "overnight": "Darjeeling"
+    },
+    {
+      "day": 2,
+      "title": "Darjeeling Sightseeing",
+      "description": "Begin the day early with a visit to Tiger Hill to witness a spectacular sunrise over Mount Kanchenjunga (weather permitting). En route back, visit the historic Ghoom Monastery and the engineering marvel of Batasia Loop. After breakfast, explore Himalayan Mountaineering Institute, Padmaja Naidu Himalayan Zoological Park, Tenzing Rock, Ropeway View Point, Tibetan Refugee Self-Help Centre, Happy Valley Tea Garden (outer view), and the peaceful Japanese Peace Pagoda. Return to the hotel after a day filled with cultural and natural attractions.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Darjeeling"
+    },
+    {
+      "day": 3,
+      "title": "Mirik Excursion",
+      "description": "After breakfast, proceed for a scenic excursion to Mirik, a charming hill destination surrounded by pine forests and tea gardens. Visit the beautiful Sumendu Lake (Mirik Lake) and enjoy the serene surroundings. Optional boating is available at an additional cost. Stop at the Indo–Nepal border (Pashupati Market), where Indian citizens can enjoy a brief walk into the neighbouring Nepalese market area. Return to Darjeeling while enjoying panoramic views of the hills and tea plantations.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Darjeeling"
+    },
+    {
+      "day": 4,
+      "title": "Departure",
+      "description": "Enjoy breakfast at the hotel and spend some time at leisure. Check out and transfer to New Jalpaiguri Railway Station or Bagdogra Airport for your onwards journey. Depart with wonderful memories of Darjeeling's mountains, tea gardens, and Himalayan landscapes.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "Accommodation on twin sharing basis",
+    "Breakfast at Hotel",
+    "All pick up drop & sightseeing",
+    "Toll taxes, parking, driver charges etc",
+    "All Applicable Taxes"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Any expenses for optional activities",
+    "Items of personal nature like portage, tips, laundry",
+    "Any expenses arising out of unforeseen circumstances like flight delay / cancellation / hike in fare, strike or any other natural calamities or any emergency evacuation expenses",
+    "Any additional meals",
+    "Tiger Hill are Direct Payment Basis"
+  ],
+  "seo": {
+    "title": "Darjeeling Hill Escape – 3N/4D Sikkim & Darjeeling Package",
+    "description": "Darjeeling doesn't need to announce itself; the mist, the mountain air and the distant outline of Kanchenjunga do that quietly on its behalf."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 3
+}

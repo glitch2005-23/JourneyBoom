@@ -1,0 +1,64 @@
+{
+  "title": "Sikkim & Darjeeling",
+  "region": "Gangtok · Darjeeling · Eastern Himalaya",
+  "tagline": "Monasteries, tea gardens and Kanchenjunga sunrises",
+  "description": [
+    "Two of the Eastern Himalaya's most loved hill towns sit within a day's drive of each other. Gangtok, Sikkim's capital, is a calm, colourful city of monasteries and prayer flags, and the gateway to the glacial Tsomgo Lake and the shrine of Baba Mandir high on the road to Nathula.",
+    "Darjeeling unfolds across tea-covered ridges, with the toy train puffing through town and Kanchenjunga — the world's third-highest mountain — glowing pink and gold at sunrise from Tiger Hill. Add Mirik, Namchi and a cup of first-flush tea, and the mountains do the rest."
+  ],
+  "heroImage": {
+    "src": "/images/destinations/north-east/hero.jpg",
+    "alt": "Kanchenjunga towering above the hill town of Darjeeling",
+    "focal": "50% 45%"
+  },
+  "cardImage": {
+    "src": "/images/destinations/north-east/card.jpg",
+    "alt": "Gangtok's hillside houses beneath drifting clouds"
+  },
+  "gallery": [
+    { "src": "/images/destinations/north-east/toy-train-tea.jpg", "alt": "The Darjeeling toy train steaming past tea gardens" },
+    { "src": "/images/destinations/north-east/tsomgo-lake.jpg", "alt": "Tsomgo Lake surrounded by snowy mountains" },
+    { "src": "/images/destinations/north-east/kanchenjunga-sunrise.jpg", "alt": "Sunrise turning the Kanchenjunga range gold" },
+    { "src": "/images/destinations/north-east/buddha-park.jpg", "alt": "The giant Buddha statue at Ravangla wrapped in mist" },
+    { "src": "/images/destinations/north-east/tea-hills.jpg", "alt": "A road winding through green tea hills near Darjeeling" },
+    { "src": "/images/destinations/north-east/prayer-flags.jpg", "alt": "Colourful prayer flags strung across a Sikkim mountain pass" },
+    { "src": "/images/destinations/north-east/toy-train.jpg", "alt": "The Darjeeling Himalayan Railway steam engine in the forest" },
+    { "src": "/images/destinations/north-east/gangtok-sunset.jpg", "alt": "Gangtok glowing at sunset across the valley" },
+    { "src": "/images/destinations/north-east/kanchenjunga.jpg", "alt": "The snowy face of Kanchenjunga framed by trees" }
+  ],
+  "highlights": [
+    {
+      "icon": "sun",
+      "title": "Tiger Hill sunrise",
+      "text": "Watch first light sweep across Kanchenjunga and, on clear days, catch a glimpse of Everest."
+    },
+    {
+      "icon": "snowflake",
+      "title": "Tsomgo Lake & Baba Mandir",
+      "text": "A sacred glacial lake at 3,750 m ringed by snowy peaks, with yak rides along its shore."
+    },
+    {
+      "icon": "landmark",
+      "title": "Monasteries & viewpoints",
+      "text": "Enchey and Ghoom monasteries, Do Drul Chorten, Ganesh Tok and the Batasia Loop."
+    },
+    {
+      "icon": "tree",
+      "title": "Darjeeling tea & toy train",
+      "text": "Walk the estates that grow the 'champagne of teas' and ride the UNESCO-listed Himalayan Railway."
+    }
+  ],
+  "quickFacts": {
+    "bestTime": "March – June and October – December",
+    "idealDuration": "4 – 6 days",
+    "language": "Nepali, Hindi, Bengali, English",
+    "currency": "Indian Rupee (₹)"
+  },
+  "seo": {
+    "title": "Gangtok & Darjeeling Tour Packages",
+    "description": "Sikkim and Darjeeling holiday packages with Tsomgo Lake, Baba Mandir, Tiger Hill sunrise, the toy train and Namchi. Planned end to end by Journey Boom."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 6
+}

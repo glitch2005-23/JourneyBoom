@@ -1,0 +1,123 @@
+{
+  "title": "Abode of Clouds Escape",
+  "shortDescription": "Exhibiting the mountainous beauty of unexplored Sikkim, Gangtok and Darjeeling belong to the northeastern part of India.",
+  "description": [
+    "Exhibiting the mountainous beauty of unexplored Sikkim, Gangtok and Darjeeling belong to the northeastern part of India. The trip begins in New Jalpaiguri, where you take a car 105 miles to Gangtok, streaming along the Teesta River and passing through Sikkim’s quaint villages. The next day, witness the frozen beauty of Tsomgo Lake and the sacred Baba Mandir.",
+    "From here the tour proceeds to Darjeeling, where an early-morning drive up Tiger Hill yields a spectacular view of sunrise over Kangchenjunga, the world’s third-highest peak. We can just throw in a visit to Ghoom Monastery, Batasia Loop and Himalayan Mountaineering Institute before you head back from Bagdogra and round off your memorable mountain retreat."
+  ],
+  "duration": {
+    "nights": 4,
+    "days": 5
+  },
+  "route": [
+    {
+      "city": "Gangtok",
+      "nights": 2
+    },
+    {
+      "city": "Darjeeling",
+      "nights": 2
+    }
+  ],
+  "badges": [],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/north-east/prayer-flags.jpg",
+      "alt": "Colourful prayer flags strung across a Sikkim mountain pass"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/north-east/tea-hills.jpg",
+        "alt": "A road winding through green tea hills near Darjeeling"
+      },
+      {
+        "src": "/images/destinations/north-east/tsomgo-lake.jpg",
+        "alt": "Tsomgo Lake surrounded by snowy mountains"
+      },
+      {
+        "src": "/images/destinations/north-east/buddha-park.jpg",
+        "alt": "The giant Buddha statue at Ravangla wrapped in mist"
+      },
+      {
+        "src": "/images/destinations/north-east/kanchenjunga-sunrise.jpg",
+        "alt": "Sunrise turning the Kanchenjunga range gold"
+      },
+      {
+        "src": "/images/destinations/north-east/kanchenjunga.jpg",
+        "alt": "The snowy face of Kanchenjunga framed by trees"
+      }
+    ]
+  },
+  "highlights": [
+    "Drive along the Teesta River",
+    "Tsomgo Lake and Baba Mandir",
+    "Kanchenjunga views on the way to Darjeeling",
+    "Tiger Hill sunrise",
+    "Ghoom Monastery and Batasia Loop",
+    "Himalayan Mountaineering Institute and zoo"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrival in Gangtok",
+      "description": "Arrive at NJP Railway Station or Bagdogra Airport. Enjoy a scenic drive to Gangtok via Mahananda Wildlife Sanctuary and the Teesta River. Stop at Rangpo, the gateway to Sikkim.",
+      "overnight": "Gangtok"
+    },
+    {
+      "day": 2,
+      "title": "Tsomgo Lake & Baba Mandir Excursion",
+      "description": "Enjoy breakfast at the hotel. Visit the stunning Tsomgo (Changu) Lake, a glacial lake surrounded by snow-capped mountains. Continue to the sacred Baba Mandir. Spend time admiring the spectacular Himalayan landscapes. Return to Gangtok.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Gangtok"
+    },
+    {
+      "day": 3,
+      "title": "Gangtok to Darjeeling",
+      "description": "Enjoy breakfast and check out from the hotel. Drive to the picturesque hill town of Darjeeling. Admire panoramic views of the majestic Kanchenjunga range en route. Check in to the hotel upon arrival. Spend the evening at leisure.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Darjeeling"
+    },
+    {
+      "day": 4,
+      "title": "Darjeeling Sightseeing",
+      "description": "Early morning excursion to Tiger Hill to witness a spectacular sunrise over Mt. Kanchenjunga. Return to the hotel for breakfast. Visit Ghoom Monastery and the famous Batasia Loop. Explore the Himalayan Mountaineering Institute and Padmaja Naidu Himalayan Zoological Park (subject to weekly closures). Visit Tenzing Rock, the Tibetan Refugee Self-Help Centre, Tea Garden (outer view), Japanese Temple, and Peace Pagoda. Return to the hotel.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Darjeeling"
+    },
+    {
+      "day": 5,
+      "title": "Darjeeling to Bagdogra Airport/ NJP Railway Station",
+      "description": "Enjoy breakfast at the hotel. Check out and drive to Bagdogra Airport or NJP Railway Station.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "Accommodation in 4 star Hotel",
+    "Daily Breakfast",
+    "Exclusive Non-AC vehicle for transfers & sightseeing",
+    "Pick up and drop from Airport by a private Car",
+    "All Applicable hotel taxes"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Cost for add on services, optional tours, Guide services, Sightseeing entrance fees & Porters",
+    "Cost for Airfare, Train fare, rafting, medical urgency, insurance, additional meal / tea snacks",
+    "Cost for anything which is not mentioned under “Package inclusions”",
+    "Tiger Hill is on Direct Payment Basis"
+  ],
+  "seo": {
+    "title": "Abode of Clouds Escape – 4N/5D Sikkim & Darjeeling Package",
+    "description": "Exhibiting the mountainous beauty of unexplored Sikkim, Gangtok and Darjeeling belong to the northeastern part of India."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 5
+}

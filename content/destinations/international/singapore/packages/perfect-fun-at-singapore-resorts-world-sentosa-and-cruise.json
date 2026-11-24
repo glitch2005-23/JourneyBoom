@@ -1,0 +1,144 @@
+{
+  "title": "Perfect Fun at Singapore, Resorts World Sentosa & Cruise",
+  "shortDescription": "Welcome to the lion city Singapore! See the modern high-rise buildings along with lovely green gardens to be seen everywhere. Different cultures, ethnicities and beliefs coexist harmoniously at Singapore.",
+  "description": [
+    "Welcome to the lion city Singapore! See the modern high-rise buildings along with lovely green gardens to be seen everywhere. Different cultures, ethnicities and beliefs coexist harmoniously at Singapore. Stay at Resorts World Sentosa and make your holiday more fun and memorable.",
+    "The concept of sheer entertainment and perfect hospitality is defined uniquely by all hotels of Resorts World Sentosa. Further add a luxurious stay on Cruise on your trip to Singapore to make it more fun, more unique and much more memorable."
+  ],
+  "duration": {
+    "nights": 5,
+    "days": 6
+  },
+  "route": [
+    {
+      "city": "Singapore",
+      "nights": 2
+    },
+    {
+      "city": "Resorts World Sentosa",
+      "nights": 1
+    },
+    {
+      "city": "Cruise",
+      "nights": 2
+    }
+  ],
+  "badges": [
+    "Honeymoon",
+    "Family"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/singapore/sentosa-beach.jpg",
+      "alt": "Palm trees and umbrellas on a Sentosa beach"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/singapore/supertree-walkway.jpg",
+        "alt": "Visitors on the OCBC Skyway among the Supertrees"
+      },
+      {
+        "src": "/images/destinations/singapore/supertrees.jpg",
+        "alt": "The Supertree Grove at Gardens by the Bay"
+      },
+      {
+        "src": "/images/destinations/singapore/supertrees-night.jpg",
+        "alt": "The Supertrees glowing at night, seen from above"
+      },
+      {
+        "src": "/images/destinations/singapore/cloud-forest.jpg",
+        "alt": "Walkways spiralling through the Cloud Forest dome"
+      },
+      {
+        "src": "/images/destinations/singapore/sentosa-sunset.jpg",
+        "alt": "Palm silhouettes at sunset on Sentosa Island"
+      }
+    ]
+  },
+  "highlights": [
+    "A night at Resorts World Sentosa",
+    "Universal Studios Singapore",
+    "2 nights at sea with all meals",
+    "2-in-1 Hippo Pass with a Duck Tour ride",
+    "2 nights in Singapore with breakfast"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Singapore (Resorts World Sentosa)",
+      "description": "Welcome to the glitzy city of Singapore. On arrival at Changi International Airport, you will be greeted by our local tour representative outside the baggage hall area at the airport and transfer you to Resorts World Sentosa. Sit back in the coach and enjoy the first glances of the city while on your drive to the most vibrant place of Singapore. Check-in as per the hotel’s check-in time and relax (Standard Check in time: 1400 - 1500 hours). Rest of the day is at your own leisure. Welcome to a world of unlimited and non-stop entertainment at Resorts World Sentosa. Today evening, step out from the comforts of your room after some rest and explore the wide range of shops and dining options at your leisure.",
+      "overnight": "Resorts World Sentosa"
+    },
+    {
+      "day": 2,
+      "title": "Visit to Universal Studios – Onboard Cruise",
+      "description": "Have a fill at morning breakfast, check out from the hotel and get transported to a world where screams of joy and excitement and revelry abound. Visit Universal Studios. One of the most fun filled Theme Parks of Asia, Universal Studios is divided into seven zones including Jurassic Park, Shrek, Sci-Fi City, New York, Hollywood, Madagascar and Ancient Egypt. Enjoy nerve tickling rides here. Don’t miss Revenge of the Mummy, Jurassic Park Rapids Adventure and Magic Potion Spin among many that leave you at the extreme stage of adrenaline rush. Enjoy hilarious house entertainment like Shrek 4D Adventure and Donkey Live & Light. Later return to hotel lobby to catch your transfer to Harbour Front Centre to get onboard your cruise. Boarding starts 4 hours prior to departure. After a warm welcome on board, explore and enjoy the various facilities offered. Stay overnight onboard Cruise.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Onboard Cruise",
+      "description": "Wake up to an exotic morning over the seas. Enjoy a bed tea while taking stunning sea views. Refresh and enjoy a wide spread of morning breakfast on board. Enjoy all meals on cruise. Stay overnight onboard Cruise.",
+      "meals": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Disembark Cruise – Evening Free for Leisure",
+      "description": "Enjoy another beautiful morning over the deep seas. Relish wide spread breakfast and enjoy the aura for a while longer before going back to the land. Cruise arrives back to Singapore. Disembark and meet our local tour representative who transfers you to the hotel. Check-in and relax. Rest of the day is free at your own leisure. Later in the evening, you can explore Singapore as per your own convenience and leisure with 2-in-1 Hippo Pass which offers 2 days unlimited ride on Hippo hop on-hop off bus + one Duck Tour ride. Hippo Pass enables you to cover all major attractions of Singapore city and you can hop on-hop off from the bus as many times as you want. This is a good way to enjoy the attractions of Singapore as per your choice.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 5,
+      "title": "Full day Free for Leisure",
+      "description": "Optional - Afternoon Trip to Sentosa. Enjoy a leisurely breakfast today. The day is free at your own leisure. It’s a good time for the explorer kinds to explore the city in your own way. For the second consecutive day, you can avail your Hippo Pass to get to several city attractions. In the second half of the day, you can opt for some sightseeing tour (at an extra cost). Sentosa Island is the feature attraction of Singapore that should not be missed. After availing Hippo Passes in the first half of the day, spurge to a fun-filled afternoon trip to Sentosa (at an extra cost). Enjoy the remaining day & later return to your hotel for a relaxed sleep.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 6,
+      "title": "Singapore – Departure",
+      "description": "Morning have a fill at breakfast, pack your bags and check out from the hotel. Today your unique and exclusive Singapore vacation comes to an end and you get transferred to airport for your flight back home. Hope you will join us again for your next trip.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "2 Nights Accommodation in Singapore",
+    "1 Night Accommodation at Resort World Sentosa",
+    "2 Nights Stay on Cruise",
+    "Daily Buffet Breakfast at Hotel",
+    "All Meals on Cruise",
+    "2-in-1 Hippo Pass (2 days unlimited ride on Hippo hop on-hop off bus + one Duck Tour ride)",
+    "Universal Studios Pass",
+    "Airport & Cruise transfers",
+    "All Tours & Transfers on Seat In Coach (Shared) basis",
+    "All Hotel taxes and Service charges"
+  ],
+  "exclusions": [
+    "Airfare",
+    "You will need to Pay Rs. 1,000/- per person (Extra), If your transfer timings are not between 7 AM - 6 PM",
+    "Visa fees (As Applicable)",
+    "Travel Insurance",
+    "Any service not mentioned in the inclusions",
+    "Hotel Surcharge (as Applicable) to be Paid Extra.(During Peak & Super Peak Season)"
+  ],
+  "seo": {
+    "title": "Perfect Fun at Singapore, Resorts World Sentosa & Cruise – 5N/6D",
+    "description": "Welcome to the lion city Singapore! See the modern high-rise buildings along with lovely green gardens to be seen everywhere. Different cultures…"
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 4
+}

@@ -1,0 +1,149 @@
+{
+  "title": "Women Special Kashmir Group Departure",
+  "shortDescription": "Discover a paradise of snow-capped mountains, serene valleys, shimmering lakes and breathtaking landscapes with an unforgettable ladies-only escape to Kashmir.",
+  "description": [
+    "Discover a paradise of snow-capped mountains, serene valleys, shimmering lakes and breathtaking landscapes with an unforgettable ladies-only escape to Kashmir. Let the beauty of the Valley slow you down as you experience its picturesque surroundings, charming local culture and timeless appeal. From scenic mountain vistas and tranquil waters to memorable sightseeing and delightful local experiences, Kashmir offers the perfect setting for a refreshing break from the everyday.",
+    "This special group departure is created for women who want to explore, connect and make beautiful memories together in one of India’s most captivating destinations. Travel comfortably with a like-minded group, embrace the beauty around you and return with stories you'll love sharing. Some journeys give you photographs; the best ones give you memories for a lifetime. Kashmir is ready to give you both."
+  ],
+  "duration": {
+    "nights": 5,
+    "days": 6
+  },
+  "route": [
+    {
+      "city": "Srinagar",
+      "nights": 3
+    },
+    {
+      "city": "Pahalgam",
+      "nights": 1
+    },
+    {
+      "city": "Gulmarg",
+      "nights": 1
+    }
+  ],
+  "badges": [
+    "Women only",
+    "Group departure"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/kashmir/dal-lake-dusk.jpg",
+      "alt": "A shikara on Dal Lake under a purple evening sky"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/kashmir/hero.jpg",
+        "alt": "Colourful shikara boats gliding across Dal Lake beneath misty mountains"
+      },
+      {
+        "src": "/images/destinations/kashmir/card.jpg",
+        "alt": "Brightly painted shikaras moored on Dal Lake"
+      },
+      {
+        "src": "/images/destinations/kashmir/houseboat.jpg",
+        "alt": "An intricately carved houseboat reflected in the calm waters of Dal Lake"
+      },
+      {
+        "src": "/images/destinations/kashmir/gulmarg-gondola.jpg",
+        "alt": "The Gulmarg Gondola rising over meadows towards snowy peaks"
+      },
+      {
+        "src": "/images/destinations/kashmir/floating-market.jpg",
+        "alt": "A vendor selling fruit from his boat at the Dal Lake floating market"
+      }
+    ]
+  },
+  "highlights": [
+    "Ladies-only group with dedicated assistance",
+    "Celebration cake and special dinner on Day 3",
+    "Sonmarg and views of the Thajiwas Glacier",
+    "Gulmarg, with the gondola or Khilanmarg trek (optional)",
+    "Night on a Dal Lake houseboat",
+    "One-hour shikara ride on Dal Lake"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrival Srinagar",
+      "description": "Arrive at Srinagar Airport and transfer to the hotel. Check in and settle into your stay. Enjoy a one-hour shikara ride on Dal Lake at Nehru Park. Visit a local handicrafts showroom showcasing carpets, shawls, and jewellery.",
+      "meals": [
+        "Dinner"
+      ],
+      "overnight": "Srinagar"
+    },
+    {
+      "day": 2,
+      "title": "Sonmarg Day Excursion",
+      "description": "Travel to Sonmarg on a full-day excursion from Srinagar. Explore the Sonmarg valley known as the Meadow of Gold. View Thajiwas Glacier with optional pony hire. Drive back to Srinagar by evening.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ],
+      "overnight": "Srinagar"
+    },
+    {
+      "day": 3,
+      "title": "Gulmarg Mountain Escape",
+      "description": "Drive from Srinagar to Gulmarg after breakfast. Take in views of the surrounding mountains and landscapes. Opt for a short trek to Khilanmarg or a Gondola ride to Kongdoori (on direct payment basis). Spend time exploring Gulmarg at your own pace.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ],
+      "overnight": "Gulmarg"
+    },
+    {
+      "day": 4,
+      "title": "Scenic Drive to Pahalgam",
+      "description": "Depart Gulmarg for Pahalgam after breakfast. Drive via Pampore, Avantipura, and Bijbehara village. Pass through Anantnag while following the Lidder River route. Check in at the hotel and enjoy leisure time.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ],
+      "overnight": "Pahalgam"
+    },
+    {
+      "day": 5,
+      "title": "Mughal Gardens and Houseboat",
+      "description": "Drive from Pahalgam to Srinagar after breakfast. Visit Chashme Shahi, Shalimar Garden, and Nishat Garden. Stop at Shankaracharya Temple. Transfer to a houseboat in the evening.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ],
+      "overnight": "Srinagar"
+    },
+    {
+      "day": 6,
+      "title": "Departure from Srinagar",
+      "description": "Enjoy breakfast and morning time at leisure. Transfer to Srinagar Airport for onward journey.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "Accommodation on double sharing basis",
+    "Welcome Drink on Arrival",
+    "Daily Breakfast and Dinner at the respective hotels",
+    "Comfortable vehicle for all transfers and sightseeing as per the itinerary",
+    "Shikara Ride in Dal/Nigeen Lake for 1 Hour",
+    "Special Ladies Celebration on Day 3, including a celebration cake and special dinner",
+    "Dedicated assistance to ensure a safe, comfortable and hassle-free travel experience for the ladies' group",
+    "All applicable hotel taxes"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Entry fees to monuments and palaces",
+    "Anything not mentioned in the inclusions",
+    "Porterage at hotels and airports, tips, insurance, laundry, liquor and wine",
+    "Any monument charges like Garden fee, Cable car ticket"
+  ],
+  "seo": {
+    "title": "Women Special Kashmir Group Departure – 5N/6D Kashmir Package",
+    "description": "Discover a paradise of snow-capped mountains, serene valleys, shimmering lakes and breathtaking landscapes with an unforgettable ladies-only escape to Kashmir."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 1
+}

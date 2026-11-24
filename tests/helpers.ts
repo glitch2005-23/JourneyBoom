@@ -45,5 +45,5 @@ export function errorsOf(result: ReturnType<typeof load>) {
   return result.issues.filter((i) => i.severity === "error");
 }
 
-export const PKG = "destinations/domestic/srinagar/packages/kashmir-delight.json";
-export const DEST = "destinations/domestic/srinagar/destination.json";
+export const PKG = "destinations/domestic/kashmir/packages/kashmir-valley-honeymoon-escape.json";
+export const DEST = "destinations/domestic/kashmir/destination.json";

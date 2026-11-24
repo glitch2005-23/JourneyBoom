@@ -8,7 +8,7 @@ A production-ready, file-driven travel website for **Journey Boom** (“Travel m
 
 ## 1. Project overview
 
-- **Pages:** home, category (`/domestic/`), destination (`/domestic/srinagar/`), package (`/domestic/srinagar/kashmir-delight/`), plus About, Contact, Terms and Privacy.
+- **Pages:** home, category (`/domestic/`), destination (`/domestic/kashmir/`), package (`/domestic/kashmir/kashmir-valley-honeymoon-escape/`), plus About, Contact, Terms and Privacy.
 - **Content source:** every page is generated from JSON in `content/`. Adding a folder or file adds a page, with no code changes.
 - **Validation:** content is checked against strict Zod schemas. Invalid content fails the build with the exact file and field.
 - **Enquiries:** sent through a pluggable `EnquiryProvider`. It uses the Mailchimp public embed today and can be swapped for an API or CRM later.
@@ -68,7 +68,7 @@ docs/CONTENT_GUIDE.md        guide for content editors
 
 ## 5. Content model
 
-- **Category → Destination → Package.** The URL is the folder path: `content/destinations/domestic/goa/packages/beach-escape.json` → `/domestic/goa/beach-escape/`.
+- **Category → Destination → Package.** The URL is the folder path: `content/destinations/domestic/goa/packages/goa-unplugged.json` → `/domestic/goa/goa-unplugged/`.
 - **Slugs** come from folder and file names: lowercase letters, numbers and hyphens. An optional `"slug"` field must match the name.
 - **Visibility fields** on categories, destinations, packages and reviews:
   - `enabled` (default `true`): hidden items get no page at all, and disabling a category or destination hides everything under it.
@@ -76,7 +76,7 @@ docs/CONTENT_GUIDE.md        guide for content editors
   - `showOnHome`: used by homepage sections.
   - `displayOrder` (default `100`): lower values come first. Order applies within the parent, so homepage lists follow category → destination → package order.
 - **Packages** support:
-  - price (with an optional struck-through `originalAmount`), duration, route, badges and images
+  - an optional price (with an optional struck-through `originalAmount`) — without one the site shows "Click to enquire" — plus duration, route, badges and images
   - highlights, itinerary, inclusions, exclusions and "know before you go"
   - SEO fields and CTAs
 - **Payment-ready CTAs:** `cta.primary` / `cta.secondary` take `type: "enquire" | "book" | "pay"`. `book` and `pay` need an `https://` URL, such as a Razorpay or Stripe payment page. No secrets ever go in content.
@@ -169,7 +169,7 @@ In development, content errors are logged in the terminal and invalid files are 
 Each problem is reported with its file and field, and the script exits non-zero:
 
 ```
-content/destinations/domestic/srinagar/packages/kashmir-delight.json
+content/destinations/domestic/kashmir/packages/kashmir-valley-honeymoon-escape.json
   ✖ error   price.amount: Invalid input: expected number, received string
 ```
 
@@ -280,6 +280,6 @@ The same pattern applies to enquiries (`EnquiryProvider`) and payments (package 
 - Contact details, address and social links in `content/settings/site.json`.
 - Hero stats ("12,000+ travellers", "4.9/5", "since 2014") in `content/homepage/home.json`.
 - **Sample reviews** in `content/reviews/`. Replace them with genuine customer reviews.
-- The placeholder payment URL on `dubai-deluxe.json` (`cta.secondary`).
-- Prices, itineraries, terms and privacy text, checked against your actual offers and policies.
+- **Prices:** packages have no `price` yet, so they show "Click to enquire". Add a `price` block to any package JSON to publish its price.
+- Itineraries, terms and privacy text, checked against your actual offers and policies.
 - `siteUrl`, and `NEXT_PUBLIC_MAILCHIMP_FORM_URL`.

@@ -15,10 +15,10 @@ describe("shipped content", () => {
 describe("content validation", () => {
   it("reports an invalid field with its exact file and field path", () => {
     const { contentRoot, file } = tempContent();
-    editJson(file(PKG), (pkg) => ((pkg.price as Record<string, unknown>).amount = "cheap"));
+    editJson(file(PKG), (pkg) => ((pkg.duration as Record<string, unknown>).nights = "five"));
     const errors = errorsOf(load(contentRoot));
     expect(errors).toContainEqual(
-      expect.objectContaining({ file: `content/${PKG}`, field: "price.amount" }),
+      expect.objectContaining({ file: `content/${PKG}`, field: "duration.nights" }),
     );
   });
 
@@ -85,7 +85,7 @@ describe("content validation", () => {
 
   it("reports links to disabled content", () => {
     const { contentRoot, file } = tempContent();
-    editJson(file("destinations/domestic/srinagar/packages/kashmir-honeymoon-retreat.json"), (p) => (p.enabled = false));
+    editJson(file(PKG), (p) => (p.enabled = false));
     const errors = errorsOf(load(contentRoot));
     expect(errors.some((e) => e.file === "content/banners/honeymoon-season.json" && e.message.includes("disabled content"))).toBe(true);
   });

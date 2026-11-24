@@ -1,0 +1,127 @@
+{
+  "title": "Goa Nightlife Escape",
+  "shortDescription": "Goa is one of India’s most popular coastal destinations, known for its relaxed beach culture, scenic shoreline, and vibrant local life.",
+  "description": [
+    "Goa is one of India’s most popular coastal destinations, known for its relaxed beach culture, scenic shoreline, and vibrant local life. The destination blends sandy beaches, Portuguese-influenced architecture, historic churches, and lively markets, creating a balanced travel experience. From calm seaside stretches to bustling streets and sunset views, Goa suits a wide range of travellers looking for leisure, culture, and easy-paced coastal holidays."
+  ],
+  "duration": {
+    "nights": 6,
+    "days": 7
+  },
+  "route": [
+    {
+      "city": "Goa",
+      "nights": 6
+    }
+  ],
+  "badges": [],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/goa/beach-shack.jpg",
+      "alt": "A beach shack lit up with fairy lights at night"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/goa/church.jpg",
+        "alt": "The white baroque facade of Our Lady of the Immaculate Conception, Panaji"
+      },
+      {
+        "src": "/images/destinations/goa/seaside-chapel.jpg",
+        "alt": "A red-roofed chapel beside the sea framed by palm trees"
+      },
+      {
+        "src": "/images/destinations/goa/cliffs.jpg",
+        "alt": "Rugged cliffs above turquoise water in South Goa"
+      },
+      {
+        "src": "/images/destinations/goa/palms.jpg",
+        "alt": "Leaning coconut palms against a clear blue sky"
+      },
+      {
+        "src": "/images/destinations/goa/hero.jpg",
+        "alt": "A golden beach curving between green headlands and the Arabian Sea in South Goa"
+      }
+    ]
+  },
+  "highlights": [
+    "6 nights in a 4-star hotel",
+    "North and South Goa sightseeing",
+    "Dudhsagar Waterfalls safari",
+    "Two free days for beaches, shacks and nightlife"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrived at Goa",
+      "description": "Our travel agent will pick you up from Goa Airport and will take you towards your pre-booked hotel."
+    },
+    {
+      "day": 2,
+      "title": "North Goa Sightseeing",
+      "description": "The second day of your Goa holiday takes you to explore the gems of North Goa. Have breakfast and get ready to embark on a full-day North Goa sightseeing tour. The first attraction that you will visit on your North Goa tour is the ancient Fort Aguada. Later, explore Coco Beach, Calangute Annexe, Calangute Beach, Baga Beach and Anjuna Beach. As the second day of your Goa tour itinerary comes to an end, come back to the hotel and sleep off the night.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "South Goa Sightseeing",
+      "description": "After Breakfast drive to South goa & check in the hotel & move to South Goa sightseeing tour , explore the eye-catching attractions of South Goa. Relish a delicious breakfast and get ready to explore the tourist hotspots of South Goa on the third day of your Goa tour. Visit Shri Shantadurga Temple at Kavlem and Shri Manguesh Temple at Priol. Next, take a trip to the churches of Old Goa like Basilica of Bom Jesus and Se Cathedral. Post lunch, visit the Dona Paula Bay and Miramar Beach. Later on, your Goa holiday, indulge in street shopping at the Panjim Market. In the evening, enjoy a . Towards the end of the day, return to the hotel and sleep off the night.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Dudhsagar waterfall Sightseeing",
+      "description": "After breakfast, we are ready to visit one of the beautiful waterfalls in India, Dudhsagar waterfall. Enjoy the Safari over there and Lunch (extra cost). Towards the end of the day, return to the hotel and sleep off the night.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Day Free",
+      "description": "After Breakfast day free for your own activity.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Day Free",
+      "description": "After Breakfast day free for your own activity.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Departure",
+      "description": "This is the last day of your Goa tour package. Bid goodbye to Goa with nostalgic memories. Post breakfast, check-out from the hotel and you will be transferred to the airport/railway station to reach your home destination, thereby marking an end to your fun-filled Goa holiday.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "6 Nights accommodation in 4 star Hotel",
+    "Breakfast",
+    "AC Cab for all transfers and sightseeing exactly as per the itinerary",
+    "Toll, Parking, driver allowance, road tax & fuel charges",
+    "All Applicable Taxes"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Extra Meals (Additional food charge) or Drinks & meal supplement for children like:- Milk and cornflakes",
+    "Any expenses arising out of unforeseen circumstances like flight delay / cancellation / hike in fare, strike or any other natural calamities or any emergency evacuation expenses",
+    "Any expenses of personal nature"
+  ],
+  "seo": {
+    "title": "Goa Nightlife Escape – 6N/7D Goa Package",
+    "description": "Goa is one of India’s most popular coastal destinations, known for its relaxed beach culture, scenic shoreline, and vibrant local life."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 5
+}

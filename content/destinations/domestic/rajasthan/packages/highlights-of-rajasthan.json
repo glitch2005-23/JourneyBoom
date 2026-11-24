@@ -1,0 +1,193 @@
+{
+  "title": "Highlights of Rajasthan",
+  "shortDescription": "A classic grand tour of Rajasthan that starts in Delhi and loops through the desert state's most storied cities.",
+  "description": [
+    "A classic grand tour of Rajasthan that starts in Delhi and loops through the desert state's most storied cities. Pray at Pushkar's Brahma temple, walk the ramparts of Jodhpur's Mehrangarh Fort and spend two nights among the golden havelis and sand dunes of Jaisalmer.",
+    "The journey continues to Bikaner's Junagarh Fort and ends in the Pink City of Jaipur — Amber Fort, Hawa Mahal, City Palace and an evening of Rajasthani food and folk dance at Chokhi Dhani — before returning to Delhi."
+  ],
+  "duration": {
+    "nights": 9,
+    "days": 10
+  },
+  "route": [
+    {
+      "city": "Delhi",
+      "nights": 2
+    },
+    {
+      "city": "Pushkar",
+      "nights": 1
+    },
+    {
+      "city": "Jodhpur",
+      "nights": 1
+    },
+    {
+      "city": "Jaisalmer",
+      "nights": 2
+    },
+    {
+      "city": "Bikaner",
+      "nights": 1
+    },
+    {
+      "city": "Jaipur",
+      "nights": 2
+    }
+  ],
+  "badges": [
+    "Family",
+    "Group"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/rajasthan/hawa-mahal.jpg",
+      "alt": "The honeycomb pink facade of Hawa Mahal in Jaipur"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/rajasthan/hero.jpg",
+        "alt": "Udaipur's City Palace on the banks of Lake Pichola at golden hour"
+      },
+      {
+        "src": "/images/destinations/rajasthan/card.jpg",
+        "alt": "Decorated horses passing the pink facade of Hawa Mahal in Jaipur"
+      },
+      {
+        "src": "/images/destinations/rajasthan/desert-camels.jpg",
+        "alt": "Camels resting on the golden dunes of the Thar Desert"
+      },
+      {
+        "src": "/images/destinations/rajasthan/jaisalmer-fort.jpg",
+        "alt": "Birds circling the golden sandstone walls of Jaisalmer Fort"
+      },
+      {
+        "src": "/images/destinations/rajasthan/camel-sunset.jpg",
+        "alt": "A camel rider silhouetted against a desert sunset"
+      }
+    ]
+  },
+  "highlights": [
+    "Two nights in Delhi with city sightseeing",
+    "Brahma Temple, Pushkar",
+    "Mehrangarh Fort, Jodhpur",
+    "Jaisalmer's fort, havelis and dunes",
+    "Junagarh Fort, Bikaner",
+    "Amber Fort, Hawa Mahal and Chokhi Dhani, Jaipur"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Delhi",
+      "description": "Arrive Delhi. Meet and Assist by Representative of Local Tour operator. You will be transferred to the hotel, where you will Check In. Remaining day is Free at own Leisure. Overnight stay at Hotel in Delhi.",
+      "overnight": "Hotel in Delhi"
+    },
+    {
+      "day": 2,
+      "title": "Delhi",
+      "description": "After Breakfast at Hotel, in the morning. You will proceed for Sightseeing Tour of Delhi & visit- India Gate, Raj Ghat, Gurdwara Bangla Sahib, Jama Masjid, Akshardham Temple. You will drive through Parliament House, Rashtrarpati Bhawan. You can visit Dilli Haat, which is an open-air food plaza cum craft bazaar (an Ethnic Shopping Point for Tourists). Overnight stay at Hotel in Delhi.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Hotel in Delhi"
+    },
+    {
+      "day": 3,
+      "title": "Delhi – Pushkar",
+      "description": "After breakfast, drive to Pushkar which is one of the most sacred town of Rajasthan situated in Ajmer District. It is located on the shore of Pushkar Lake. As per legends Lord Brahma created this city hence there is one Temple dedicated to Lord Brahma. Pushkar is also famous for Cattle Fair (held in November). Overnight stay at Hotel in Pushkar.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Hotel in Pushkar"
+    },
+    {
+      "day": 4,
+      "title": "Pushkar – Jodhpur",
+      "description": "After Breakfast, depart for Jodhpur. Arrive to Jodhpur and Check in at the Hotel. Later, proceed for Sightseeing Tour visiting Mehrangarh Fort which is located at the city center and is spread over 05 kilometers atop a high hill. Within the fort notable structures are Moti Mahal, Phool Mahal & Sheesha Mahal. Later visit to Jaswant thada which is a white marble memorial built by Sardar Singh in 1899 in memory of Maharaja Jaswant Singh-II. Overnight stay at Hotel in Jodhpur.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Hotel in Jodhpur"
+    },
+    {
+      "day": 5,
+      "title": "Jodhpur – Jaisalmer",
+      "description": "After Breakfast, depart for Jaisalmer. Arrive Jaisalmer and Check in at the Hotel. Remaining day is Free at own Leisure. Overnight stay at Hotel in Jaisalmer.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Hotel in Jaisalmer"
+    },
+    {
+      "day": 6,
+      "title": "Jaisalmer",
+      "description": "In the morning after Breakfast, proceed for Sightseeing Tour. You will visit Jaisalmer Fort. It is one of the largest fort in the world. It was built in 1156 AD by ruler Rawal Jaisal. Due to its massive sand stone walls it is also known as “Golden Fort”. Later visit to Patwon ki Haveli, Nathmal ki Haveli. In the Afternoon proceed for Camel Ride on Sam Sand Dunes. Overnight stay at hotel in Jaisalmer. <b>Tentative Itinerary</b>Note: Above Itinerary is just indicative. Do not consider it as a Final Schedule. Date & Time of Tours can be changed by Local Agent / Tour Operator.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Jaisalmer – Bikaner",
+      "description": "In the morning, have Breakfast in Hotel. Further drive to Bikaner. Visit to Junagarh Fort which is built by Rai Singh in 1593. The major structures with the fort are Anup Mahal, Hawa Mahal, Badal Mahal, Phool Mahal, Rang Mahal and Ganga Mahal. Overnight stay at Hotel in Bikaner.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Hotel in Bikaner"
+    },
+    {
+      "day": 8,
+      "title": "Bikaner – Jaipur",
+      "description": "After Breakfast in the morning at your Hotel, drive to Jaipur also popularly known as the 'Pink City'. Check in at hotel. In the evening, visit to Chokhi Dhani. Chokhi Dhani Village is a right mix of rich Rajasthani Tradition in the ethnic environment. It is full of fun, Games, Rajasthani cuisine, Rajasthani folk dances and much more. Overnight stay at hotel in Jaipur.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Jaipur"
+    },
+    {
+      "day": 9,
+      "title": "Jaipur",
+      "description": "After Breakfast at the hotel, Visit to Amber Fort (11 kms from the city) built by Raja Mansingh-I in 1592. It is located high on a hill overlooking Maota Lake on the forefront and can be reached by Jeep or on the elephant back. After this visit to Jaigarh Fort (15 kms from the city). It is located 400 m higher than Amber fort and was built by Swai Jai Singh-III. One of the important feature of the fort is Cannon named “jaivana” which was then worlds largest cannon on the wheel. After this Drive past to Hawa Mahal - the palace of wind & visit to City Palace which is located in the heart of the city. It was constructed by Maharaja Sawai Mansingh-II. The most famous structure of the city palace are the Chandra Mahal, the Mubarak Mahal, Maharani’s Palace, Shri Govind Dev Temple and City Palace Museum. Nearby walk to Jantar Mantar an astronomical observatory. Overnight stay at Hotel in Jaipur.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Hotel in Jaipur"
+    },
+    {
+      "day": 10,
+      "title": "Jaipur – Delhi",
+      "description": "After Breakfast, Check out from the hotel. You will drive back to Delhi. You will be dropped at the Railway Station / Airport for your onward Journey. Tentative Itinerary. Note: Above Itinerary is just indicative. Do not consider it as a Final Schedule. Date & Time of Tours can be changed by Local Agent / Tour Operator.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "2 Nights accommodation in Delhi",
+    "1 Night accommodation in Pushkar",
+    "1 Night accommodation in Jodhpur",
+    "2 Nights accommodation in Jaisalmer",
+    "1 Night accommodation in Bikaner",
+    "2 Nights accommodation in Jaipur",
+    "Daily Buffet Breakfast at Hotel",
+    "Transfers & Sightseeing tours (as mentioned in the itinerary)",
+    "All Transfers & Tours by Air-Conditioned vehicle",
+    "All Presently applicable Hotel taxes",
+    "Should there be any further levy of Govt. / statutory taxes / charges, the same shall be chargeable extra as and when applicable"
+  ],
+  "exclusions": [
+    "Airfare / Train fare",
+    "Items of Personal Nature, such as- Laundry, Telephone Bills, Drinks, Tip, etc",
+    "Monument Entry fees, Elephant Ride charges & Guide Service to be Paid directly by the Guest",
+    "Any service not mentioned in the inclusions",
+    "The payments for additional services taken at the hotel are to be settled directly at the hotel",
+    "Weekend or Holiday Surcharge (if applicable)"
+  ],
+  "seo": {
+    "title": "Highlights of Rajasthan – 9N/10D Rajasthan Package",
+    "description": "A classic grand tour of Rajasthan that starts in Delhi and loops through the desert state's most storied cities."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 1
+}

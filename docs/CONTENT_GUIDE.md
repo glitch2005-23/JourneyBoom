@@ -33,7 +33,7 @@ This guide is for anyone updating the website's content: destinations, packages,
 The **folders are the website.** This file…
 
 ```
-content/destinations/domestic/srinagar/packages/kashmir-delight.json
+content/destinations/domestic/kashmir/packages/kashmir-valley-honeymoon-escape.json
                      ────────  ────────          ───────────────
                      category  destination       package
 ```
@@ -41,7 +41,7 @@ content/destinations/domestic/srinagar/packages/kashmir-delight.json
 …becomes this page:
 
 ```
-https://journeyboom.com/domestic/srinagar/kashmir-delight/
+https://journeyboom.com/domestic/kashmir/kashmir-valley-honeymoon-escape/
 ```
 
 | Folder / file | What it controls |
@@ -60,7 +60,7 @@ https://journeyboom.com/domestic/srinagar/kashmir-delight/
 
 **Naming rules for folders and files:** lowercase letters, numbers and hyphens only, with no spaces. The name becomes part of the web address.
 
-- ✅ `kashmir-delight`, `goa-beach-escape-2027`
+- ✅ `kashmir-valley-honeymoon-escape`, `goa-unplugged-2027`
 - ❌ `Kashmir Delight`, `goa_beach`, `Goa!`
 
 ---
@@ -240,12 +240,14 @@ Example: `content/destinations/domestic/kerala/packages/kerala-backwaters-escape
 
 **Good to know:**
 
+- **`price` is optional.** Leave it out and cards and pages show **"Click to enquire"** instead of a price — the *Enquire Now* button is always there. Add a `price` block whenever you have one and it appears automatically, including the "from ₹" figure on the destination.
 - `originalAmount` (optional) shows as a struck-through "was" price. It must be higher than `amount`.
+- **`itinerary` is optional.** Without it, the page shows *"Detailed itinerary coming soon"* followed by the destination's highlights as *"Things to do in …"* — so add good `highlights` to the destination.
 - `duration.days` is normally `nights + 1`.
 - Itinerary days must be numbered **1, 2, 3…** in order.
 - `meals` can only contain `"Breakfast"`, `"Lunch"` and `"Dinner"`.
 - `badges` holds at most 2 short labels, such as `"Bestseller"` or `"Visa included"`.
-- **Optional fields:** `originalAmount`, `note`, `route`, `departureCity`, `badges`, `images.card`, `images.gallery`, `exclusions`, `knowBeforeYouGo` and `cta`.
+- **Optional fields:** `price` (or just its `originalAmount` and `note`), `itinerary`, `route`, `departureCity`, `badges`, `images.card`, `images.gallery`, `exclusions`, `knowBeforeYouGo` and `cta`.
 
 The package automatically appears on its destination page, in "Similar packages" on related pages, in the sitemap, and on the homepage if `showOnHome` is `true`.
 
@@ -393,7 +395,7 @@ One file per review in `content/reviews/`, for example `content/reviews/asha-rao
   "text": "What the traveller said (max 600 characters).",
   "trip": "Kashmir Delight",
   "date": "2026-06",
-  "package": "domestic/srinagar/kashmir-delight",
+  "package": "domestic/kashmir/kashmir-valley-honeymoon-escape",
   "displayOrder": 1
 }
 ```
@@ -414,7 +416,7 @@ Banners live in `content/banners/`. Here is `honeymoon-season.json`:
   "title": "Begin forever somewhere unforgettable",
   "text": "Supporting text…",
   "image": { "src": "/images/home/promo-honeymoon.jpg", "alt": "Couple watching the sunset" },
-  "cta": { "label": "See the honeymoon package", "href": "/domestic/srinagar/kashmir-honeymoon-retreat/", "variant": "accent" }
+  "cta": { "label": "See the honeymoon package", "href": "/domestic/kashmir/kashmir-valley-honeymoon-escape/", "variant": "accent" }
 }
 ```
 
@@ -488,7 +490,7 @@ By default a package shows **"Enquire Now"**, which scrolls to the enquiry form.
    ✔ means you're good. Otherwise you'll see the file and field to fix:
 
    ```
-   content/destinations/domestic/goa/packages/beach-escape.json
+   content/destinations/domestic/goa/packages/goa-unplugged.json
      ✖ error   price.amount: Invalid input: expected number, received string
      ✖ error   highlights: Required field is missing
      ✖ error   Unknown field "feautred" — check the spelling

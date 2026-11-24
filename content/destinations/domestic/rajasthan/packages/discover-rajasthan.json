@@ -1,0 +1,184 @@
+{
+  "title": "Discover Rajasthan",
+  "shortDescription": "Magnificent forts, heritage-rich culture, and havelis to explore with our road trip to Rajasthan, along with high-speed Shatabdi train journeys – our all-in-one package “Royal Rajasthan by Road” draws the attention…",
+  "description": [
+    "Magnificent forts, heritage-rich culture, and havelis to explore with our road trip to Rajasthan, along with high-speed Shatabdi train journeys – our all-in-one package “Royal Rajasthan by Road” draws the attention of thousands of tourists every year. There’s no better way to explore a new place than by road, especially when it comes to Rajasthan.",
+    "With lovely people to meet along the way, countryside roads, and incredible fortresses & shrines to visit, a road trip is a great way to truly embrace the vibrant royal Rajasthani spirit. Explore more with our Royal Rajasthan by Road package with train journeys, especially crafted for all types of travelers from standard to luxury."
+  ],
+  "duration": {
+    "nights": 8,
+    "days": 9
+  },
+  "route": [
+    {
+      "city": "Jaipur",
+      "nights": 1
+    },
+    {
+      "city": "Bikaner",
+      "nights": 1
+    },
+    {
+      "city": "Jaisalmer",
+      "nights": 2
+    },
+    {
+      "city": "Jodhpur",
+      "nights": 1
+    },
+    {
+      "city": "Udaipur",
+      "nights": 2
+    },
+    {
+      "city": "Pushkar",
+      "nights": 1
+    }
+  ],
+  "badges": [
+    "Group",
+    "Friends"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/rajasthan/amber-fort.jpg",
+      "alt": "The zigzagging ramparts of Amber Fort near Jaipur"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/rajasthan/jaisalmer-fort.jpg",
+        "alt": "Birds circling the golden sandstone walls of Jaisalmer Fort"
+      },
+      {
+        "src": "/images/destinations/rajasthan/camel-sunset.jpg",
+        "alt": "A camel rider silhouetted against a desert sunset"
+      },
+      {
+        "src": "/images/destinations/rajasthan/camel-cart-dunes.jpg",
+        "alt": "A camel cart crossing the dunes near Jaisalmer"
+      },
+      {
+        "src": "/images/destinations/rajasthan/jaisalmer-havelis.jpg",
+        "alt": "Carved sandstone havelis lining a lane in Jaisalmer"
+      },
+      {
+        "src": "/images/destinations/rajasthan/udaipur-city-palace.jpg",
+        "alt": "The City Palace of Udaipur seen from Lake Pichola"
+      }
+    ]
+  },
+  "highlights": [
+    "Shatabdi Express from Delhi to Jaipur",
+    "Junagarh Fort, Bikaner",
+    "Jaisalmer city tour and Sam sand dunes",
+    "Mehrangarh Fort, Jodhpur",
+    "Full-day Udaipur city tour",
+    "Pushkar and Ajmer"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "New Delhi to Jaipur (Shatabdi Exp., Dep. at 0610 hrs – Arr. at 1045 hrs)",
+      "description": "Early morning Shatabdi train to Jaipur, which departs from New Delhi Railway Station at 0610 hrs and arrives at Jaipur Railway Station at 1045 hrs. Pick up on arrival at the railway station and transfer to the hotel for check-in. In the afternoon, we will start half-day sightseeing of Amer Fort, Jantar Mantar, Hawa Mahal, and a market visit.",
+      "overnight": "Jaipur"
+    },
+    {
+      "day": 2,
+      "title": "Drive to Bikaner (330 Kms/ 6 Hrs)",
+      "description": "Morning, after breakfast, we will check out from the hotel and start our road trip to Bikaner. On arrival, check in at the hotel. Later, if time permits, we will visit the Old Town and the camel breeding farm. The rest of the day is at leisure.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Bikaner"
+    },
+    {
+      "day": 3,
+      "title": "Drive to Jaisalmer City (320 Kms / 5–6 Hours)",
+      "description": "Today morning, after breakfast, we will check out and go for city sightseeing in Bikaner – Junagadh Fort, constructed by Raja Rai Singh. During the early part of the 15th century, it was renamed the Old Fort. Also visit Lalgarh Palace – built in red sandstone. The palace showcases a wonderful blend of Rajput, Mughal, and European architectural styles. Later, we will hit the road again and drive to Jaisalmer – the Golden City of Rajasthan. On arrival at Jaisalmer, check in at the hotel.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Jaisalmer City"
+    },
+    {
+      "day": 4,
+      "title": "In Jaisalmer – Morning City Tour / Drive to Sam Sand Dunes",
+      "description": "Today we explore Jaisalmer City – visit the Golden Fort, a UNESCO World Heritage Site and one of the very few living forts in the world, as nearly one-fourth of the city’s population still resides within the fort, followed by a visit to the Jain Mandir – carved in yellow sandstone and dedicated to Jain hermits known as Tirthankars. Later, we visit Patwon Ki Haveli and Nathmalji Ki Haveli. Later, we proceed to the famous Sam Sand Dunes. Upon arrival, we experience thrilling dune bashing over the golden sands of Jaisalmer. In the evening, we get an opportunity to witness the spectacular beauty of the sandy terrain by taking a joyful camel ride and viewing the red-orange color splash of sunset on the desert horizon. Overnight stay in tent at Sam Sand Dunes, Jaisalmer.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Drive to Jodhpur (280 Kms/ 5 Hrs)",
+      "description": "Today morning, after breakfast, we will check out from the Jaisalmer camp and drive to the Blue City of Rajasthan – Jodhpur. The drive will take about 4–5 hours. On arrival at your hotel in Jodhpur, check in and after freshening up, we will visit Mehrangarh Fort, the most famous Jodhpur attraction. It spreads over 5 kms and stands atop a high hill. Within the fort, we see notable and beautiful structures like Moti Mahal and Phool Mahal. After visiting the fort, we will visit Jaswant Thada, a beautiful white marble memorial built by Sardar Singh in 1899 in memory of Maharaja Jaswant Singh II.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Jodhpur"
+    },
+    {
+      "day": 6,
+      "title": "Drive to Udaipur (250 Kms/ 5 Hrs)",
+      "description": "Today morning, after breakfast and check out, continue our road trip journey to Udaipur. The drive will take around 5 hours. Known as the “Venice of the East,” Udaipur is a must-visit destination in Rajasthan. On arrival in Udaipur, check in to the hotel. The evening is free at your leisure to relax and explore nearby on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Udaipur"
+    },
+    {
+      "day": 7,
+      "title": "In Udaipur – Full Day City Tour",
+      "description": "After breakfast, we will proceed for the Udaipur city tour. Visit Fateh Sagar, Saheliyon Ki Bari – the Queen’s resort for her friends, Sukhadia Circle (drive past), and Bhartiya Lok Kala Museum – a museum of folk art that displays a rich collection of folk dresses, ornaments, puppets, masks, dolls, etc. Next, visit City Palace – the largest palace complex in Rajasthan, and Jagdish Temple – built by Maharana Jagat Singh and dedicated to Lord Vishnu. Visit Lake Pichola in the evening. If you wish to enjoy a boat ride on Lake Pichola, it is available on a direct payment basis.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Udaipur"
+    },
+    {
+      "day": 8,
+      "title": "Drive to Pushkar (300 Kms/ 6 Hours)",
+      "description": "Morning after breakfast, drive towards Pushkar. Pushkar is a famous town in Rajasthan, India. Pushkar refers to being born from a flower. According to Hindu mythology, a swan was released by the Gods, carrying a lotus in its beak. The idea was that when the lotus fell to the earth, Lord Brahma would perform a grand Yagna at that spot. Overnight stay at hotel/ camp in Pushkar.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 9,
+      "title": "Drive to Ajmer / Train to New Delhi",
+      "description": "Morning after breakfast, we will go for Pushkar town sightseeing – visit the Brahma Temple and Pushkar Lake, followed by a walk through the market. Late morning, check out and enjoy a 1-hour drive to Ajmer to visit the Dargah of Khwaja Muin-ud-din Chishti “Dargah Sharif,” reckoned as the tomb of the Sufi saint Khwaja Muin-ud-din Chishti, constructed during the Mughal period. Devotees of all sects and faiths visit here to seek the saint’s blessings. After visiting the Dargah, you will be transferred and dropped at Ajmer Railway Station in time to board the Shatabdi Express train to New Delhi. Tentative Itinerary. Note: Above Itinerary is just indicative. Do not consider it as a Final Schedule. Date & Time of Tours can be changed by Local Agent / Tour Operator."
+    }
+  ],
+  "inclusions": [
+    "1 Night accommodation in Jaipur",
+    "1 Night accommodation in Bikaner",
+    "2 Night accommodation in Jaisalmer",
+    "1 Night accommodation in Jodhpur",
+    "2 Nights accommodation in Udaipur",
+    "1 Night accommodation in Pushkar",
+    "Daily Buffet Breakfast & Dinner at Hotel",
+    "City tour & Sightseeing tours (as mentioned in Itinerary)",
+    "All Tours & Transfers by Air conditioned vehicle",
+    "All Presently applicable Hotel taxes"
+  ],
+  "exclusions": [
+    "Guide charges & Entrance fees at the different Sightseeing locations (Directly payable by the Guest)",
+    "Expenses of Personal Nature, such as- laundry, telephone calls, tips, camera fees, optional tours, extra meals, etc",
+    "Any cost arising due to flight cancellation, natural calamities like- landslides, road blockage, political disturbances (strikes), lockdown etc",
+    "Any service not mentioned in the inclusions",
+    "Surcharges Extra (if applicable) on Long Weekends & Holidays"
+  ],
+  "knowBeforeYouGo": [
+    "The tour cost is based on minimum 04 pax, all transfers, drives & city tour on sharing basis",
+    "02 Pax Cost in private vehicle - The supplement cost for operating a trip with 02 pax in private exclusive vehicle @Rs. 5,999/- per person additional on tour cost",
+    "Train Fare – The tour cost including AC Chair Car train tickets, the supplement cost to upgrade the train tickets into AC EXECUTIVE Class @ Rs. 1,999/- per seat (Subject to availability at the time of booking)"
+  ],
+  "seo": {
+    "title": "Discover Rajasthan – 8N/9D Rajasthan Package",
+    "description": "Magnificent forts, heritage-rich culture, and havelis to explore with our road trip to Rajasthan, along with high-speed Shatabdi train journeys – our…"
+  },
+  "featured": true,
+  "showOnHome": true,
+  "displayOrder": 4
+}

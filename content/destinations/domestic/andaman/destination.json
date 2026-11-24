@@ -1,0 +1,84 @@
+{
+  "title": "Andaman",
+  "region": "Andaman & Nicobar Islands · India",
+  "tagline": "Turquoise water, white sand and coral reefs",
+  "description": [
+    "Scattered across the Bay of Bengal, the Andaman Islands are India's most beautiful escape to the sea. Powder-white beaches meet water so clear you can see the coral from the boat, and rainforest runs right down to the shore.",
+    "Base yourself in Port Blair to explore the islands' history at the Cellular Jail and Ross Island, then take the ferry to Havelock for Radhanagar Beach — regularly ranked among Asia's finest — and some of the country's best snorkelling and diving."
+  ],
+  "heroImage": {
+    "src": "/images/destinations/andaman/hero.jpg",
+    "alt": "An old wooden boat on a turquoise shore beside mangrove trees in the Andaman Islands",
+    "focal": "40% 55%"
+  },
+  "cardImage": {
+    "src": "/images/destinations/andaman/card.jpg",
+    "alt": "Palm-fringed white sand beach in the Andaman Islands"
+  },
+  "gallery": [
+    { "src": "/images/destinations/andaman/radhanagar-tree.jpg", "alt": "A lone tree arching over the white sand of Radhanagar Beach" },
+    { "src": "/images/destinations/andaman/elephant-beach.jpg", "alt": "An elephant walking along a sunny Andaman beach" },
+    { "src": "/images/destinations/andaman/north-bay-aerial.jpg", "alt": "Aerial view of North Bay Island with boats moored at the jetty" },
+    { "src": "/images/destinations/andaman/port-blair-sunset.jpg", "alt": "Boats silhouetted against a fiery sunset at Port Blair" },
+    { "src": "/images/destinations/andaman/neil-island-shore.jpg", "alt": "A wooden boat on the calm shore of Neil Island at low tide" },
+    { "src": "/images/destinations/andaman/beach-aerial.jpg", "alt": "Aerial view of a deserted beach and clear water in the Andamans" },
+    { "src": "/images/destinations/andaman/island-road.jpg", "alt": "Aerial view of a coastal road winding through Andaman rainforest" },
+    { "src": "/images/destinations/andaman/havelock-jetty.jpg", "alt": "Speedboats waiting on the sand at Havelock Island" },
+    { "src": "/images/destinations/andaman/hero.jpg", "alt": "An old wooden boat on a turquoise shore beside mangrove trees" }
+  ],
+  "highlights": [
+    {
+      "icon": "waves",
+      "title": "Radhanagar Beach, Havelock",
+      "text": "A sweeping arc of white sand backed by forest — one of Asia's most celebrated beaches, perfect at sunset."
+    },
+    {
+      "icon": "landmark",
+      "title": "Cellular Jail Light & Sound Show",
+      "text": "Walk the corridors of the historic 'Kala Pani' prison, then watch its freedom-struggle story told in light and sound."
+    },
+    {
+      "icon": "ship",
+      "title": "Ross Island & North Bay",
+      "text": "Explore the ruins of the British-era capital reclaimed by banyan trees, then snorkel among the corals of North Bay."
+    },
+    {
+      "icon": "sparkles",
+      "title": "Scuba diving & snorkelling",
+      "text": "Discover vibrant reefs, sea turtles and tropical fish at Havelock and Neil Island — beginner dives need no experience."
+    },
+    {
+      "icon": "sun",
+      "title": "Elephant Beach",
+      "text": "A short boat ride from Havelock to clear shallows for snorkelling, glass-bottom boat rides and sea walking."
+    },
+    {
+      "icon": "tree",
+      "title": "Natural Bridge, Neil Island",
+      "text": "A rock arch carved by the sea, revealed at low tide along with rock pools full of corals and starfish."
+    },
+    {
+      "icon": "camera",
+      "title": "Sunset at Chidiya Tapu",
+      "text": "Watch the sun sink into the sea from the southern tip of South Andaman, a haven for birdwatchers."
+    },
+    {
+      "icon": "compass",
+      "title": "Baratang's limestone caves",
+      "text": "Cruise through mangrove creeks to walk among ancient limestone formations deep in the forest."
+    }
+  ],
+  "quickFacts": {
+    "bestTime": "October – May",
+    "idealDuration": "4 – 6 days",
+    "language": "Hindi, Bengali, English",
+    "currency": "Indian Rupee (₹)"
+  },
+  "seo": {
+    "title": "Andaman Tour Packages — Port Blair & Havelock",
+    "description": "Andaman holiday packages with Port Blair, Ross Island, North Bay and Havelock's Radhanagar Beach. Plan your island escape with Journey Boom."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 7
+}

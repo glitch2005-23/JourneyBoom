@@ -50,13 +50,15 @@ export function touristTripJsonLd(pkg: TravelPackage, settings: SiteSettings) {
         name: `Day ${day.day}: ${day.title}`,
       })),
     },
-    offers: {
-      "@type": "Offer",
-      price: pkg.price.amount,
-      priceCurrency: settings.currency,
-      availability: "https://schema.org/InStock",
-      url: absolute(settings.siteUrl, pkg.href),
-    },
+    ...(pkg.price && {
+      offers: {
+        "@type": "Offer",
+        price: pkg.price.amount,
+        priceCurrency: settings.currency,
+        availability: "https://schema.org/InStock",
+        url: absolute(settings.siteUrl, pkg.href),
+      },
+    }),
     provider: { "@type": "TravelAgency", name: settings.siteName, url: settings.siteUrl },
   };
 }

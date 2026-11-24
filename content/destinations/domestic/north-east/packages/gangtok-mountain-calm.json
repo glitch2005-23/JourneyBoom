@@ -1,0 +1,114 @@
+{
+  "title": "Gangtok Mountain Calm",
+  "shortDescription": "Gangtok, a lively place in the capital of Sikkim, is a memorable destination that combines Himalayan views with Buddhist culture and tranquil mountain living.",
+  "description": [
+    "Gangtok, a lively place in the capital of Sikkim, is a memorable destination that combines Himalayan views with Buddhist culture and tranquil mountain living. Nestled at an altitude of approximately 1,670 metres in the mountains bordered with low hills, colourful monasteries, gushing waterfalls and 360-degree views of the eastern Himalayas. Everything from placid lakes and holy shrines to busy indigenous markets and local handicrafts showcasing the unique culture in the region is available for visitors.",
+    "Expanding past the city, scenic roadways connect to higher altitude and intriguing scenery, tea estates, and sacred locations for pilgrims that enliven the trip. Perfect for family, friends or a partner, this itinerary is a perfect blend of sightseeing, spirituality, nature and leisure that will help you explore the charm and beauty of Sikkim."
+  ],
+  "duration": {
+    "nights": 4,
+    "days": 5
+  },
+  "route": [
+    {
+      "city": "Gangtok",
+      "nights": 4
+    }
+  ],
+  "badges": [],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/north-east/tsomgo-lake.jpg",
+      "alt": "Tsomgo Lake surrounded by snowy mountains"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/north-east/toy-train.jpg",
+        "alt": "The Darjeeling Himalayan Railway steam engine in the forest"
+      },
+      {
+        "src": "/images/destinations/north-east/tea-hills.jpg",
+        "alt": "A road winding through green tea hills near Darjeeling"
+      },
+      {
+        "src": "/images/destinations/north-east/buddha-park.jpg",
+        "alt": "The giant Buddha statue at Ravangla wrapped in mist"
+      },
+      {
+        "src": "/images/destinations/north-east/prayer-flags.jpg",
+        "alt": "Colourful prayer flags strung across a Sikkim mountain pass"
+      },
+      {
+        "src": "/images/destinations/north-east/kanchenjunga-sunrise.jpg",
+        "alt": "Sunrise turning the Kanchenjunga range gold"
+      }
+    ]
+  },
+  "highlights": [
+    "Tsomgo Lake and Baba Mandir",
+    "Enchey Monastery and Do Drul Chorten",
+    "Tashi View Point, Ganesh Tok and Hanuman Tok",
+    "Char Dham and the Guru Padmasambhava statue, Namchi"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrival and Transfer to Gangtok",
+      "description": "Arrive at New Jalpaiguri Railway Station (NJP), Bagdogra Airport (IXB), or Tenzing Norgay Bus Stand, where a representative will welcome you and assist with your transfer to Gangtok. Enjoy a scenic drive through the Himalayan foothills before reaching the capital city of Sikkim. Check in to your hotel and relax after your journey. Spend the evening exploring M.G. Marg, browsing local markets, cafés, and souvenir shops at your own pace.",
+      "overnight": "Gangtok"
+    },
+    {
+      "day": 2,
+      "title": "Excursion to Tsomgo Lake & Baba Mandir",
+      "description": "Begin the day with breakfast before setting out on a full-day excursion to the stunning Tsomgo Lake, a beautiful high-altitude glacial lake surrounded by snow-capped mountains. Continue to the revered Baba Mandir, a shrine dedicated to the legendary soldier Baba Harbhajan Singh. Enjoy breathtaking Himalayan scenery throughout the drive and capture memorable photographs. Optional visit to Nathu La Pass (subject to permit availability and additional charges). Return to Gangtok in the evening and spend leisure time at M.G. Marg before your overnight stay.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Gangtok Local Sightseeing",
+      "description": "Enjoy breakfast before embarking on a comprehensive city tour of Gangtok. Visit the Directorate of Handicrafts & Handloom, Namgyal Institute of Tibetology, Do Drul Chorten, Enchey Monastery, White Hall, Flower Exhibition Centre, Ganesh Tok, Hanuman Tok, Tashi View Point, Banjhakri Falls, and Ranka Monastery. Admire the city's blend of Buddhist heritage, scenic viewpoints, and cultural attractions throughout the day. Return to the hotel in the evening, with free time to explore M.G. Marg or enjoy local shopping.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Gangtok"
+    },
+    {
+      "day": 4,
+      "title": "Excursion to Namchi",
+      "description": "After breakfast, drive to Namchi, one of South Sikkim's most popular spiritual destinations. Explore the impressive Char Dham Complex, featuring replicas of India's sacred Jyotirlingas and temples. Visit the towering Guru Padmasambhava (Samdruptse) Statue, one of the tallest statues of the revered Buddhist master. En route, admire the lush surroundings of the Temi Tea Estate, where you can also purchase authentic Sikkim tea. Return to Gangtok in the evening for an overnight stay.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Departure to Bagdogra Airport / NJP Railway Station",
+      "description": "Enjoy breakfast and check out from the hotel. Drive towards Bagdogra Airport (IXB) or New Jalpaiguri Railway Station (NJP) along the scenic Teesta River. Pause at Rangpo, Chitrey, or Melli for refreshments if time permits. Make a brief stop at the iconic Coronation Bridge for photographs (subject to schedule). Continue to the airport or railway station for your onwards journey, carrying wonderful memories of your Sikkim holiday.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "04 Night Accommodation at Gangtok",
+    "Daily Breakfast",
+    "Exclusive Non-AC vehicle for transfers & sightseeing",
+    "Gangtok local sightseeing",
+    "All applicable taxes"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Cost for add on services, optional tours, Guide services, Sightseeing entrance fees & Porters",
+    "Cost for Airfare, Train fare, rafting, medical urgency, insurance, additional meal / tea snacks",
+    "Cost for anything which is not mentioned under “Package inclusions”"
+  ],
+  "seo": {
+    "title": "Gangtok Mountain Calm – 4N/5D Sikkim & Darjeeling Package",
+    "description": "Gangtok, a lively place in the capital of Sikkim, is a memorable destination that combines Himalayan views with Buddhist culture and tranquil mountain living."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 4
+}

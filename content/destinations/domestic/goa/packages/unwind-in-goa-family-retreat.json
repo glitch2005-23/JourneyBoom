@@ -1,0 +1,113 @@
+{
+  "title": "Unwind in Goa Family Retreat",
+  "shortDescription": "This easy paced Goa journey blends beach time, cultural landmarks, and lively coastal experiences.",
+  "description": [
+    "This easy paced Goa journey blends beach time, cultural landmarks, and lively coastal experiences. Beginning with a relaxed arrival, the itinerary allows time to enjoy Goa’s sun drenched beaches and local flavours at leisure. Guided sightseeing across North and South Goa showcases historic forts, vibrant beach stretches, heritage churches, temples, and scenic waterfronts.",
+    "An evening river cruise and time for local shopping add a leisurely touch to the experience. Designed for travellers seeking a balanced introduction to Goa, this tour offers a comfortable mix of exploration, relaxation, and local charm over a short and enjoyable break."
+  ],
+  "duration": {
+    "nights": 3,
+    "days": 4
+  },
+  "route": [
+    {
+      "city": "Goa",
+      "nights": 3
+    }
+  ],
+  "badges": [],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/goa/card.jpg",
+      "alt": "Colourful beach huts beneath tall palms on Palolem Beach"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/goa/hero.jpg",
+        "alt": "A golden beach curving between green headlands and the Arabian Sea in South Goa"
+      },
+      {
+        "src": "/images/destinations/goa/sunset.jpg",
+        "alt": "Sunset over a secluded cove on the Goan coast"
+      },
+      {
+        "src": "/images/destinations/goa/fontainhas.jpg",
+        "alt": "Yellow Portuguese-style houses in the Latin Quarter of Panaji"
+      },
+      {
+        "src": "/images/destinations/goa/church.jpg",
+        "alt": "The white baroque facade of Our Lady of the Immaculate Conception, Panaji"
+      },
+      {
+        "src": "/images/destinations/goa/seaside-chapel.jpg",
+        "alt": "A red-roofed chapel beside the sea framed by palm trees"
+      }
+    ]
+  },
+  "highlights": [
+    "Fort Aguada and the beaches of Calangute, Baga and Anjuna",
+    "South Goa temples at Kavlem and Priol",
+    "Basilica of Bom Jesus and Se Cathedral in Old Goa",
+    "Dona Paula Bay, Miramar Beach and Panjim market",
+    "4-star stay with breakfast and dinner"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrival and Leisure",
+      "description": "Arrive at Goa airport or railway station and transfer to the hotel. Complete check-in formalities and relax. Spend the day at leisure exploring nearby beaches or local areas on your own. Return to the hotel by evening.",
+      "meals": [
+        "Dinner"
+      ],
+      "overnight": "Goa"
+    },
+    {
+      "day": 2,
+      "title": "North Goa sightseeing",
+      "description": "Proceed for a full-day North Goa sightseeing tour after breakfast. Visit Fort Aguada. Explore Coco Beach and Calangute Annexe. Spend time at Calangute Beach, Baga Beach, and Anjuna Beach. Return to the hotel after sightseeing.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ],
+      "overnight": "Goa"
+    },
+    {
+      "day": 3,
+      "title": "South Goa sightseeing",
+      "description": "Start the day with a South Goa sightseeing tour. Visit Shri Shantadurga Temple at Kavlem and Shri Manguesh Temple at Priol. Explore Old Goa churches including Basilica of Bom Jesus and Se Cathedral. Visit Dona Paula Bay and Miramar Beach. Spend time shopping at Panjim Market. Opt for an evening Mandovi River boat cruise at own cost. Return to the hotel.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ],
+      "overnight": "Goa"
+    },
+    {
+      "day": 4,
+      "title": "Departure from Goa",
+      "description": "Check out from the hotel after breakfast. Transfer to the airport or railway station for onward journey.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "3 Nights Accommodation in 4 Star Hotel or similar (Double Room)",
+    "Buffet Breakfast & Dinner",
+    "AC Cab for all transfers and sightseeing exactly by shared (SIC) basis as per the itinerary",
+    "Toll, Parking, driver allowance, road tax & fuel charges",
+    "All Applicable Taxes"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Meals not mentioned above",
+    "Anything not mentioned in the inclusions",
+    "Personal expense"
+  ],
+  "seo": {
+    "title": "Unwind in Goa Family Retreat – 3N/4D Goa Package",
+    "description": "This easy paced Goa journey blends beach time, cultural landmarks, and lively coastal experiences."
+  },
+  "featured": true,
+  "showOnHome": false,
+  "displayOrder": 1
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Goa Unplugged",
+  "shortDescription": "Goa, a picturesque coastal state on the southwestern coast of India, is renowned for its pristine beaches, vibrant nightlife, and rich cultural heritage.",
+  "description": [
+    "Goa, a picturesque coastal state on the southwestern coast of India, is renowned for its pristine beaches, vibrant nightlife, and rich cultural heritage. It's a melting pot of Indian and Portuguese influences, evident in its architecture, cuisine, and festivals. Goa's golden sandy beaches, such as Baga and Calangute, draw travelers seeking sun and relaxation.",
+    "The region also boasts lush forests, spice plantations, and the Dudhsagar Waterfalls, creating a haven for nature enthusiasts. Goa's colonial churches, like the Basilica of Bom Jesus, reflect its historical significance. Beyond the beaches, Goa pulsates with music festivals, beach parties, and a laid-back atmosphere, making it a magnet for tourists worldwide."
+  ],
+  "duration": {
+    "nights": 4,
+    "days": 5
+  },
+  "route": [
+    {
+      "city": "Goa",
+      "nights": 4
+    }
+  ],
+  "badges": [],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/goa/cliffs.jpg",
+      "alt": "Rugged cliffs above turquoise water in South Goa"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/goa/sunset.jpg",
+        "alt": "Sunset over a secluded cove on the Goan coast"
+      },
+      {
+        "src": "/images/destinations/goa/fontainhas.jpg",
+        "alt": "Yellow Portuguese-style houses in the Latin Quarter of Panaji"
+      },
+      {
+        "src": "/images/destinations/goa/church.jpg",
+        "alt": "The white baroque facade of Our Lady of the Immaculate Conception, Panaji"
+      },
+      {
+        "src": "/images/destinations/goa/seaside-chapel.jpg",
+        "alt": "A red-roofed chapel beside the sea framed by palm trees"
+      },
+      {
+        "src": "/images/destinations/goa/beach-shack.jpg",
+        "alt": "A beach shack lit up with fairy lights at night"
+      }
+    ]
+  },
+  "highlights": [
+    "Fort Aguada and the beaches of North Goa",
+    "South Goa temples and Old Goa churches",
+    "Day trip to Dudhsagar Waterfalls",
+    "Breakfast and dinner daily"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrived at Goa",
+      "description": "Welcome to the party capital of India. Your 5-day Goa tour package starts now. As you arrive at the Goa airport/railway station, an agent’s representative will receive you and escort you to the hotel. Complete-check-in formalities and relax for some time. Spend the entire first day of your Goa trip leisurely. Explore the sun-kissed beaches of Goa or try some amazing Goan delicacies like pork vindaloo and Goan fish curry. As you bid goodbye today one of your Goa holiday, come back to the hotel and have a goodnight’s sleep.",
+      "meals": [
+        "Dinner"
+      ]
+    },
+    {
+      "day": 2,
+      "title": "North Goa Sightseeing",
+      "description": "The second day of your Goa holiday takes you to explore the gems of North Goa. Have breakfast and get ready to embark on a full-day North Goa sightseeing tour. The first attraction that you will visit on your North Goa tour is the ancient Fort Aguada. Later, explore Coco Beach, Calangute Annexe, Calangute Beach, Baga Beach and Anjuna Beach. As the second day of your Goa tour itinerary comes to an end, come back to the hotel and sleep off the night.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "South Goa Sightseeing",
+      "description": "Today on your Goa vacation, explore the eye-catching attractions of South Goa. Relish a delicious breakfast and get ready to explore the tourist hotspots of South Goa on the third day of your Goa tour. Visit Shri Shantadurga Temple at Kavlem and Shri Manguesh Temple at Priol. Next, take a trip to the churches of Old Goa like Basilica of Bom Jesus and Se Cathedral. Post lunch, visit the Dona Paula Bay and Miramar Beach. Later on, your Goa holiday, indulge in street shopping at the Panjim Market. In the evening, enjoy a boat cruise at the Mandovi River( at your own cost). Towards the end of the day, return to the hotel and sleep off the night.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Dudhsagar Falls Trip",
+      "description": "After breakfast, we are ready to visit one of the beautiful waterfalls in India, Dudhsagar waterfall. Enjoy the Safari over there and Lunch. Towards the end of the day, return to the hotel and sleep off the night.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Departure to Airport",
+      "description": "This is the last day of your Goa tour package. Bid goodbye to Goa with nostalgic memories. Post breakfast, check-out from the hotel and you will be transferred to the airport/railway station to reach your home destination, thereby marking an end to your fun-filled Goa holiday.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "Accommodation in base category room",
+    "Breakfast & Dinner",
+    "Sedan AC Cab for all transfers and sightseeing exactly as per the itinerary",
+    "Toll, Parking, driver allowance, road tax & fuel charges",
+    "Visit Dudhsagar Water fall (Shared Coach Pick-up & Drop )",
+    "All Applicable Taxes"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Meals not mentioned above",
+    "Entry fees to monuments and palaces",
+    "Porterage at hotels and airports, tips, insurance, laundry, liquor and wine",
+    "Any Cost Arising Due to Natural Calamities Like Landslides, Roadblocks, Etc",
+    "All items of personal nature"
+  ],
+  "seo": {
+    "title": "Goa Unplugged – 4N/5D Goa Package",
+    "description": "Goa, a picturesque coastal state on the southwestern coast of India, is renowned for its pristine beaches, vibrant nightlife, and rich cultural heritage."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 3
+}

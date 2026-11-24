@@ -1,0 +1,106 @@
+{
+  "title": "Lions & Legends of Gujarat",
+  "shortDescription": "Gujarat, located on the western coast of India, is a vibrant state known for its rich cultural heritage, spiritual significance, diverse landscapes, and historical landmarks.",
+  "description": [
+    "Gujarat, located on the western coast of India, is a vibrant state known for its rich cultural heritage, spiritual significance, diverse landscapes, and historical landmarks. From sacred pilgrimage sites like Dwarka and Somnath to the majestic Statue of Unity, Gujarat offers a unique blend of tradition, history, and modern attractions. The state is famous for its colorful festivals, traditional handicrafts, delicious cuisine, and warm hospitality."
+  ],
+  "duration": {
+    "nights": 3,
+    "days": 4
+  },
+  "route": [
+    {
+      "city": "Sasan Gir",
+      "nights": 3
+    }
+  ],
+  "badges": [],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/gujarat/gir-lion.jpg",
+      "alt": "An Asiatic lion roaring in Gir National Park"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/gujarat/sun-temple-kund.jpg",
+        "alt": "The Modhera Sun Temple and its stepped tank reflected in water"
+      },
+      {
+        "src": "/images/destinations/gujarat/gir-lion-resting.jpg",
+        "alt": "A maned Asiatic lion resting in the grass at Gir"
+      },
+      {
+        "src": "/images/destinations/gujarat/temple-spire.jpg",
+        "alt": "The towering carved spire of a temple in Gujarat"
+      },
+      {
+        "src": "/images/destinations/gujarat/temple-carvings.jpg",
+        "alt": "Ornate sandstone carvings of a Gujarat temple against a blue sky"
+      },
+      {
+        "src": "/images/destinations/gujarat/palace.jpg",
+        "alt": "The ornate sandstone facade of a royal palace in Gujarat"
+      }
+    ]
+  },
+  "highlights": [
+    "Jeep safari in Gir National Park (included)",
+    "Spot Asiatic lions, leopards and deer with a trained guide",
+    "Optional second safari for better sightings",
+    "Wildlife resort stay in Sasan Gir"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrival in Sasan Gir & Leisure",
+      "description": "Arrive in Sasan Gir, the gateway to the famous Gir National Park, and transfer to your wildlife resort. After check-in and some relaxation, spend your day soaking in the peaceful forest surroundings. You may explore the nearby village area or opt to visit the Devalia Interpretation Zone (optional) for a short wildlife experience. Enjoy the natural ambiance, birdwatching, and fresh air. Dinner and overnight stay at the resort."
+    },
+    {
+      "day": 2,
+      "title": "Jungle Safari & Wildlife Experience",
+      "description": "Early morning, proceed for an exciting jeep safari in Gir National Park accompanied by a trained guide. Explore the dense forests, grasslands, and riverine ecosystem while spotting wildlife such as the majestic Asiatic Lion, leopards, deer, and various bird species. Return to the resort for breakfast and relaxation. Later, visit the Crocodile Breeding Centre or enjoy a nature walk around the outskirts. Evening at leisure. Dinner and overnight stay in Sasan Gir.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Sasan Gir"
+    },
+    {
+      "day": 3,
+      "title": "Second Safari / Nature Exploration",
+      "description": "After breakfast, you can opt for another jeep safari in Gir National Park (optional but recommended for better chances of wildlife sightings). Alternatively, enjoy birdwatching, photography, or relax within the resort premises. You can also explore nearby tribal villages to experience the local culture. Spend the day at leisure amidst nature. Dinner and overnight stay in Sasan Gir.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Sasan Gir"
+    },
+    {
+      "day": 4,
+      "title": "Departure from Sasan Gir",
+      "description": "After breakfast, check out from the resort and proceed for your onward journey, carrying unforgettable memories of your wildlife adventure in Sasan Gir.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "03 Night accommodation at 3 Star Hotel",
+    "Breakfast",
+    "AC car for entire trip as per itinerary",
+    "Toll, Parking, driver allowance, road tax & fuel charges",
+    "Sasan Gir Jungle Cater safari (Sharing Basis)",
+    "All Applicable hotel taxes"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Air/ train fare",
+    "Anything not mentioned in the inclusions",
+    "Entry Fees & Local Guide Charges"
+  ],
+  "seo": {
+    "title": "Lions & Legends of Gujarat – 3N/4D Gujarat Package",
+    "description": "Gujarat, located on the western coast of India, is a vibrant state known for its rich cultural heritage, spiritual significance, diverse landscapes, and…"
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 5
+}

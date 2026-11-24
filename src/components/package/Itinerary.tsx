@@ -1,8 +1,16 @@
-import { BedDouble, ChevronDown, Utensils } from "lucide-react";
-import type { ItineraryDay } from "@/types/content";
+import { BedDouble, CalendarClock, ChevronDown, Utensils } from "lucide-react";
+import type { Destination, ItineraryDay } from "@/types/content";
+import { Icon } from "@/components/common/Icon";
+
+interface ItineraryProps {
+  days: ItineraryDay[];
+  /** Shown instead of the timeline when a package has no day-by-day plan yet. */
+  destination: Pick<Destination, "title" | "highlights">;
+}
 
 /** Day-by-day timeline of native <details> accordions — accessible and JS-free. */
-export function Itinerary({ days }: { days: ItineraryDay[] }) {
+export function Itinerary({ days, destination }: ItineraryProps) {
+  if (!days.length) return <ItineraryComingSoon destination={destination} />;
   return (
     <section id="itinerary" className="scroll-mt-36">
       <p className="eyebrow">Day by day</p>
@@ -47,6 +55,45 @@ export function Itinerary({ days }: { days: ItineraryDay[] }) {
           </li>
         ))}
       </ol>
+    </section>
+  );
+}
+
+/** No day-by-day plan yet: say so honestly, and give travellers the destination's best experiences. */
+function ItineraryComingSoon({ destination }: { destination: ItineraryProps["destination"] }) {
+  return (
+    <section id="itinerary" className="scroll-mt-36">
+      <p className="eyebrow">Day by day</p>
+      <h2 className="heading-2 mt-3">Itinerary</h2>
+      <div className="mt-8 flex flex-col gap-4 rounded-(--radius-card) border border-dashed border-sky/40 bg-sky/5 p-6 sm:flex-row sm:items-center sm:p-7">
+        <span className="grid size-12 shrink-0 place-items-center rounded-full bg-sky/15 text-sky">
+          <CalendarClock className="size-6" aria-hidden="true" />
+        </span>
+        <div>
+          <p className="font-display text-lg font-semibold text-navy">Detailed itinerary coming soon</p>
+          <p className="mt-1 text-[15px] text-ink/75">
+            We&rsquo;re finalising the day-by-day plan. Enquire now and our travel expert will share it with you, tailored to your dates.
+          </p>
+        </div>
+      </div>
+      {destination.highlights.length > 0 && (
+        <div className="mt-10">
+          <h3 className="heading-3">Things to do in {destination.title}</h3>
+          <ul className="mt-5 grid gap-4 sm:grid-cols-2">
+            {destination.highlights.map((h) => (
+              <li key={h.title} className="card flex gap-4 p-5">
+                <span className="grid size-11 shrink-0 place-items-center rounded-xl bg-orange/10 text-orange">
+                  <Icon name={h.icon} className="size-5" />
+                </span>
+                <span>
+                  <span className="block font-display font-semibold text-navy">{h.title}</span>
+                  <span className="mt-1 block text-[15px] leading-relaxed text-muted">{h.text}</span>
+                </span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
     </section>
   );
 }

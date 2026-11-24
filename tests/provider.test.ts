@@ -11,65 +11,66 @@ const provider = (contentRoot = path.join(ROOT, "content"), strict = true) =>
 
 describe("FileSystemContentProvider", () => {
   it("looks up packages by category, destination and slug", async () => {
-    const pkg = await provider().getPackage("domestic", "srinagar", "kashmir-delight");
-    expect(pkg?.title).toBe("Kashmir Delight");
-    expect(pkg?.href).toBe("/domestic/srinagar/kashmir-delight/");
+    const pkg = await provider().getPackage("domestic", "kashmir", "kashmir-valley-honeymoon-escape");
+    expect(pkg?.title).toBe("Kashmir Valley Honeymoon Escape");
+    expect(pkg?.href).toBe("/domestic/kashmir/kashmir-valley-honeymoon-escape/");
     expect(pkg?.destinationTitle).toBe("Kashmir");
   });
 
   it("returns null for unknown or mismatched slugs", async () => {
     const p = provider();
-    expect(await p.getPackage("domestic", "srinagar", "nope")).toBeNull();
-    expect(await p.getPackage("international", "srinagar", "kashmir-delight")).toBeNull();
+    expect(await p.getPackage("domestic", "kashmir", "nope")).toBeNull();
+    expect(await p.getPackage("international", "kashmir", "kashmir-valley-honeymoon-escape")).toBeNull();
     expect(await p.getDestination("domestic", "dubai")).toBeNull();
     expect(await p.getCategory("Domestic")).toBeNull();
   });
 
   it("lists destinations of a category and computes their stats", async () => {
     const destinations = await provider().getDestinations("domestic");
-    expect(destinations.map((d) => d.slug)).toEqual(["srinagar", "goa"]);
-    const srinagar = destinations[0]!;
-    expect(srinagar.packageCount).toBe(3);
-    expect(srinagar.startingPrice).toBe(24999);
+    expect(destinations.map((d) => d.slug).slice(0, 2)).toEqual(["kashmir", "kerala"]);
+    const kashmir = destinations[0]!;
+    expect(kashmir.packageCount).toBe(6);
+    // No package has a published price yet, so there is no "from ₹" figure.
+    expect(kashmir.startingPrice).toBeNull();
   });
 
   it("puts same-destination packages first in related packages", async () => {
     const p = provider();
-    const pkg = (await p.getPackage("domestic", "srinagar", "kashmir-delight"))!;
+    const pkg = (await p.getPackage("domestic", "kashmir", "kashmir-valley-honeymoon-escape"))!;
     const related = await p.getRelatedPackages(pkg, 3);
     expect(related).toHaveLength(3);
-    expect(related.map((r) => r.slug)).not.toContain("kashmir-delight");
-    expect(related.slice(0, 2).every((r) => r.destinationSlug === "srinagar")).toBe(true);
+    expect(related.map((r) => r.slug)).not.toContain("kashmir-valley-honeymoon-escape");
+    expect(related.every((r) => r.destinationSlug === "kashmir")).toBe(true);
   });
 
   it("filters reviews by destination (including its packages)", async () => {
-    const reviews = await provider().getReviews({ destination: "domestic/srinagar" });
+    const reviews = await provider().getReviews({ destination: "domestic/kashmir" });
     expect(reviews.length).toBeGreaterThan(0);
-    expect(reviews.every((r) => r.destination === "domestic/srinagar" || r.package?.startsWith("domestic/srinagar/"))).toBe(true);
+    expect(reviews.every((r) => r.destination === "domestic/kashmir" || r.package?.startsWith("domestic/kashmir/"))).toBe(true);
   });
 
   it("hides disabled packages everywhere", async () => {
     const { contentRoot, file } = tempContent();
-    editJson(file("destinations/domestic/srinagar/packages/great-kashmir-explorer.json"), (p) => (p.enabled = false));
+    editJson(file("destinations/domestic/kashmir/packages/kashmir-nature-break.json"), (p) => (p.enabled = false));
     const p = provider(contentRoot);
-    expect(await p.getPackage("domestic", "srinagar", "great-kashmir-explorer")).toBeNull();
-    expect((await p.getAllPackages()).some((x) => x.slug === "great-kashmir-explorer")).toBe(false);
-    expect((await p.getRoutes()).some((r) => r.path.includes("great-kashmir-explorer"))).toBe(false);
+    expect(await p.getPackage("domestic", "kashmir", "kashmir-nature-break")).toBeNull();
+    expect((await p.getAllPackages()).some((x) => x.slug === "kashmir-nature-break")).toBe(false);
+    expect((await p.getRoutes()).some((r) => r.path.includes("kashmir-nature-break"))).toBe(false);
   });
 
   it("throws in strict mode when content is invalid", async () => {
     const { contentRoot, file } = tempContent();
-    editJson(file(PKG), (pkg) => delete pkg.price);
+    editJson(file(PKG), (pkg) => delete pkg.title);
     await expect(provider(contentRoot, true).getCategories()).rejects.toBeInstanceOf(ContentValidationError);
   });
 
   it("skips invalid files and falls back for missing images when not strict", async () => {
     const { contentRoot, file } = tempContent();
-    editJson(file(PKG), (pkg) => delete pkg.price);
+    editJson(file(PKG), (pkg) => delete pkg.title);
     editJson(file(DEST), (d) => ((d.heroImage as Record<string, unknown>).src = "/images/missing.jpg"));
     const p = provider(contentRoot, false);
-    expect(await p.getPackage("domestic", "srinagar", "kashmir-delight")).toBeNull();
-    const destination = await p.getDestination("domestic", "srinagar");
+    expect(await p.getPackage("domestic", "kashmir", "kashmir-valley-honeymoon-escape")).toBeNull();
+    const destination = await p.getDestination("domestic", "kashmir");
     expect(destination?.heroImage.src).toBe("/images/fallback.jpg");
     expect(destination?.heroImage.alt).toBeTruthy();
   });
@@ -102,9 +103,9 @@ describe("visibility", () => {
 
   it("orders packages by category, then destination, then their own displayOrder", () => {
     const order = publish(tree).packages.map((p) => `${p.destinationSlug}/${p.displayOrder}`);
-    expect(order[0]).toBe("srinagar/1");
-    expect(order.indexOf("goa/1")).toBeGreaterThan(order.indexOf("srinagar/3"));
-    expect(order.indexOf("dubai/1")).toBeGreaterThan(order.indexOf("goa/2"));
+    expect(order[0]).toBe("kashmir/1");
+    expect(order.indexOf("kerala/1")).toBeGreaterThan(order.indexOf("kashmir/6"));
+    expect(order.indexOf("dubai/1")).toBeGreaterThan(order.indexOf("gujarat/5"));
   });
 
   it("selects featured and showOnHome items", () => {
@@ -126,11 +127,11 @@ describe("routes", () => {
         "/about/",
         "/domestic/",
         "/international/",
-        "/domestic/srinagar/",
+        "/domestic/kashmir/",
         "/domestic/goa/",
         "/international/dubai/",
-        "/domestic/srinagar/kashmir-delight/",
-        "/international/dubai/dubai-deluxe/",
+        "/domestic/kashmir/kashmir-valley-honeymoon-escape/",
+        "/international/thailand/explore-thailand/",
       ]),
     );
     expect(new Set(paths).size).toBe(paths.length);

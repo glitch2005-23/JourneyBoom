@@ -9,7 +9,7 @@ export const reviewSchema = z.strictObject({
   /** Trip name shown under the reviewer, e.g. "Kashmir Delight · May 2026". */
   trip: nonEmpty.optional(),
   date: z.string().regex(/^\d{4}-\d{2}(-\d{2})?$/, "Use YYYY-MM or YYYY-MM-DD"),
-  /** Optional link to content: "domestic/srinagar" or "domestic/srinagar/kashmir-delight". */
+  /** Optional link to content: "domestic/kashmir" or "domestic/kashmir/kashmir-delight". */
   destination: z.string().regex(/^[a-z0-9-]+\/[a-z0-9-]+$/, "Use \"category/destination\"").optional(),
   package: z.string().regex(/^[a-z0-9-]+\/[a-z0-9-]+\/[a-z0-9-]+$/, "Use \"category/destination/package\"").optional(),
   ...visibilityShape,

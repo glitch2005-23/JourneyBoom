@@ -1,0 +1,125 @@
+{
+  "title": "Stay in the Comforts of Royal Ascot Hotel, Dubai",
+  "shortDescription": "Set out on a fun filled holiday at Dubai with your loved ones. Dubai is a wonderful destination that promises a great vacation in sun, sand, beach and not to forget- Shopping.",
+  "description": [
+    "Set out on a fun filled holiday at Dubai with your loved ones. Dubai is a wonderful destination that promises a great vacation in sun, sand, beach and not to forget- Shopping. Stay in full comfort with all required facilities at Hotel Royal Ascot.",
+    "Located in Bur Dubai, you’ll be close to several city highlights such as the popular Burjuman Shopping Mall, Dubai Museum, Dubai Creek and more. Relax in the comforts of the hotel and create unlimited memories on your 4 nights break to Dubai."
+  ],
+  "duration": {
+    "nights": 4,
+    "days": 5
+  },
+  "route": [
+    {
+      "city": "Dubai",
+      "nights": 4
+    }
+  ],
+  "badges": [
+    "Family"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/dubai/camels.jpg",
+      "alt": "Camels in traditional saddles resting on desert sand"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/dubai/marina.jpg",
+        "alt": "Skyscrapers along the curving waterway of Dubai Marina"
+      },
+      {
+        "src": "/images/destinations/dubai/burj-al-arab.jpg",
+        "alt": "Aerial view of the Burj Al Arab and the Jumeirah coastline"
+      },
+      {
+        "src": "/images/destinations/dubai/dhow-cruise.jpg",
+        "alt": "Illuminated dhow cruise boats on the water at night"
+      },
+      {
+        "src": "/images/destinations/dubai/sheikh-zayed-mosque.jpg",
+        "alt": "Sheikh Zayed Grand Mosque reflected at dusk"
+      },
+      {
+        "src": "/images/destinations/dubai/grand-mosque-day.jpg",
+        "alt": "White domes and minarets of Sheikh Zayed Grand Mosque"
+      }
+    ]
+  },
+  "highlights": [
+    "4 nights at Royal Ascot Hotel, Bur Dubai",
+    "Half-day Dubai city tour",
+    "Desert safari with BBQ dinner, Tanoura and belly dance shows",
+    "Dhow cruise with dinner",
+    "Return airport transfers with meet & greet"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Dubai",
+      "description": "Welcome to the city of glitz, Dubai! On arrival, clear customs and immigration, collect your baggage and exit the airport. Our tour operator will meet you there for your transfer to the hotel. After check in, you can relax in your room for a while and remove jet lag. In the evening, you can go for a self exploration of the glistening city. Just a stroll would give you a good experience of flamboyance of the city. Indulge in some local Arabic cuisine on your way back to the hotel.",
+      "overnight": "Dubai"
+    },
+    {
+      "day": 2,
+      "title": "Half Day City Tour + Desert Safari",
+      "description": "This morning, after having breakfast at the hotel, we proceed for a half day city tour of Dubai. The city is a perfect blend of vibrant cosmopolitan life and age old culture and heritage. We first visit the most famous landmark of Dubai, Burj Al Arab Hotel. Take loads of pictured from different angles in-front of this world famous luxury hotel. We’ll also visit Jumeirah, the spectacular palace of Dubai where we will visit the renowned Jumeirah Mosque. We then go to see Dubai’s age old culture at Al Fahidi Fort, home to Dubai’s famous museum. There are several other attractions also that we would witness while on the tour. Evening is for the exciting Desert Safari, the biggest attraction of Dubai. Get aboard an exciting dune drive across the desert. Witness the beautiful sunset over sand dunes, enjoy camel ride and sand boarding. Camel ride in the desert is not that easy and it will make you hungry too! So then we enjoy delicious barbecue dinner and shisha (the famous Arabic water pipe). Relax and enjoy the amazing belly dance show by the campfire. Return back to hotel after an awesome day.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ],
+      "overnight": "Dubai"
+    },
+    {
+      "day": 3,
+      "title": "Leisure time – Dhow Cruise in evening",
+      "description": "Laze off in your bed as you have a relaxed morning today. Freshen up and enjoy the breakfast. Day is free for your own leisure. You can opt for some tour or you can go shopping. Dubai is famous for its extensive-n-expensive malls with all the latest fashion, designs and technology, teeming with top brands and addictive designer boutiques. You could also opt to go to the traditional markets called souks. It will be a nice experience altogether in the traditional lanes of trade. Evening is going to be luxuriously romantic on a Dhow Cruise. It is a traditional wooden boat that glides along the Dubai creek under starlit sky while a sumptuous dinner is served to you in true Arabic hospitality. Savour the delicacies and spend some cosy moments with your partner. Return to hotel afterwards. Stay overnight at the hotel.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Day Free for Leisure/Shopping/Optional tour",
+      "description": "After all it’s a holiday and it should go in your own way with the flow of your mood right? So, enjoy your breakfast all relaxed in your hotel. The whole day is at your own disposal to spend it your way. You can select an optional tour from different options provided by us like going for an early morning Hot Air Balloon ride or spending a thrill filled day at Ferrari World or enjoy splashes at Yas Water World! Or maybe you are not yet satiated of the thirst of shopping? How about a relaxed day at Jumeirah Beach? Any way, spend it your way. Return to hotel by night.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Dubai"
+    },
+    {
+      "day": 5,
+      "title": "Departure",
+      "description": "After having a fill at the breakfast, pack your bags and check out from the hotel. Bid byes to the flamboyant city. Transfer to the airport for your return flight.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "4 Nights accommodation at Royal Ascot Hotel",
+    "Daily Breakfast",
+    "Return Dubai Airport Transfer with Meet & Greet service",
+    "Half day Dubai City Tour",
+    "Dhow Cruise with Dinner",
+    "Desert Safari (with BBQ Dinner, Tanoura Show & Belly Dancing)",
+    "All tours & transfers on Seat In Coach (Shared) basis",
+    "All Hotel taxes"
+  ],
+  "exclusions": [
+    "Airfare",
+    "Any service not mentioned in the inclusions",
+    "Travel Insurance",
+    "Visa Charges",
+    "Hotel Surcharge (if Any)",
+    "Tourism Dirham (hotel tax) to be paid by the guest directly at hotel at the time of Checkout"
+  ],
+  "seo": {
+    "title": "Stay in the Comforts of Royal Ascot Hotel, Dubai – 4N/5D Dubai Package",
+    "description": "Set out on a fun filled holiday at Dubai with your loved ones. Dubai is a wonderful destination that promises a great vacation in sun, sand, beach and not…"
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 5
+}

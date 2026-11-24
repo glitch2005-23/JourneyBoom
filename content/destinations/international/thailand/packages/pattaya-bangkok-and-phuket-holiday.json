@@ -1,0 +1,148 @@
+{
+  "title": "Pattaya, Bangkok & Phuket Holiday",
+  "shortDescription": "Three faces of Thailand in one week. Start on the beaches of Phuket with a half-day city tour, then fly to Bangkok and transfer to Pattaya for a coral island trip and easy beach days.",
+  "description": [
+    "Three faces of Thailand in one week. Start on the beaches of Phuket with a half-day city tour, then fly to Bangkok and transfer to Pattaya for a coral island trip and easy beach days.",
+    "End in Bangkok with the city's temples, gem galleries and street food, with return economy airfare from Delhi on Thai Airways included."
+  ],
+  "duration": {
+    "nights": 6,
+    "days": 7
+  },
+  "route": [
+    {
+      "city": "Pattaya",
+      "nights": 2
+    },
+    {
+      "city": "Bangkok",
+      "nights": 2
+    },
+    {
+      "city": "Phuket",
+      "nights": 2
+    }
+  ],
+  "badges": [
+    "Flights included",
+    "Family"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/thailand/phuket-bay.jpg",
+      "alt": "A tropical bay in Phuket seen from the hillside"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/thailand/card.jpg",
+        "alt": "Wat Arun on the banks of the Chao Phraya River in Bangkok"
+      },
+      {
+        "src": "/images/destinations/thailand/phi-phi-cliffs.jpg",
+        "alt": "Boats in a sheltered bay between jungle-clad cliffs"
+      },
+      {
+        "src": "/images/destinations/thailand/longtail-boats.jpg",
+        "alt": "Longtail boats anchored near a limestone island"
+      },
+      {
+        "src": "/images/destinations/thailand/krabi-karsts.jpg",
+        "alt": "Limestone karsts rising from the Andaman Sea"
+      },
+      {
+        "src": "/images/destinations/thailand/phi-phi-viewpoint.jpg",
+        "alt": "Phi Phi Don's twin bays from the viewpoint"
+      }
+    ]
+  },
+  "highlights": [
+    "Return flights on Thai Airways",
+    "Half-day Phuket city tour",
+    "Coral Island tour from Pattaya",
+    "World Gems Collection, Bangkok",
+    "Bangkok city tour",
+    "2 nights each in Phuket, Pattaya and Bangkok"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Delhi – Bangkok – Phuket",
+      "description": "Arrive Bangkok after clearing custom, visa processing, baggage claim take a connecting flight to Phuket. On arrival you will be met and transferred to your hotel Overnight stay at Hotel."
+    },
+    {
+      "day": 2,
+      "title": "Phuket",
+      "description": "Breakfast in the hotel (7 A.M. to 9 A.M). After breakfast you will be taken on a half day city of Phuket Evening is at leisure. Overnight at the Hotel.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Phuket – Bangkok – Pattaya",
+      "description": "Breakfast in the hotel (7 A.M. to 9 A.M). After breakfast take a flight to Bangkok, arrive Bangkok airport, met and transfer to Pattaya hotel, Day free at Leisure. Overnight stay at Hotel.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Pattaya",
+      "description": "Breakfast in the hotel (7 A.M. to 9 A.M). After breakfast, proceed for half day coral island tour. Day free at leisure. Overnight at the Hotel.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Pattaya – Bangkok",
+      "description": "Breakfast in the hotel (7 A.M. to 9 A.M). After breakfast check out from the hotel for Bangkok and visit to World Gems Collection show room.. Check in the Bangkok hotel. Overnight at hotel.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Bangkok",
+      "description": "Breakfast in the hotel (7 A.M. to 9 A.M). Day free at leisure. Overnight at hotel.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Bangkok – Delhi",
+      "description": "Breakfast in the hotel (7 A.M. to 9 A.M) Check out from the hotel for the city tour (Max 3 hrs). After city tour Transferred to the airport and get transfer to Airport to catch your flight back to Delhi.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "Economy Class return Airfare on Thai Airways (Note: Airfare Subject to availability)",
+    "02 Nights accommodation at Phuket",
+    "02 Nights accommodation at Pattaya",
+    "02 Nights accommodation at Bangkok",
+    "06 Breakfast",
+    "Airport Hotel return transfers on Seat-In-Coach basis",
+    "Coral Island tour at Pattaya on Seat-In-Coach basis",
+    "Half Day city tour at Bangkok on Seat-In-Coach basis",
+    "Half Day city tour at Phuket on Seat-In-Coach basis",
+    "All hotel taxes and service charges",
+    "Airport taxes"
+  ],
+  "exclusions": [
+    "Any Services not mentioned in the Inclusions",
+    "Travel Insurance (Strongly recommended for Senior Citizens)",
+    "Any expenses of personal nature such as tips to drivers, guides, representative laundry expenses, wines, mineral water, food and drinks not in the regular menus provided by us",
+    "Surcharges (if Any)",
+    "On Arrival Visa fee of 2000 Thai baht (to be Paid directly by the Guest at Thailand airport) OR Visa fee from India Rs. 4,000/- (per person) Extra"
+  ],
+  "seo": {
+    "title": "Pattaya, Bangkok & Phuket Holiday – 6N/7D Thailand Package",
+    "description": "Three faces of Thailand in one week. Start on the beaches of Phuket with a half-day city tour, then fly to Bangkok and transfer to Pattaya for a coral…"
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 2
+}

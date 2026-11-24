@@ -1,0 +1,161 @@
+{
+  "title": "Rajasthan Treasures",
+  "shortDescription": "If you are planning to visit the fascinating travel destinations of Rajasthan, our 6 Nights package will take you to the famous destinations in Rajasthan, from Jodhpur to Jaisalmer to Ranakpur and Udaipur.",
+  "description": [
+    "If you are planning to visit the fascinating travel destinations of Rajasthan, our 6 Nights package will take you to the famous destinations in Rajasthan, from Jodhpur to Jaisalmer to Ranakpur and Udaipur. Our 7-day journey covers and showcases Rajasthan’s blend of rich culture, ancient history, desert landscapes, camel safaris, lakes, and natural beauty. Experience the heritage and rich culture of Rajasthan with DPauls tour packages, ranging from standard to luxury."
+  ],
+  "duration": {
+    "nights": 6,
+    "days": 7
+  },
+  "route": [
+    {
+      "city": "Jaisalmer",
+      "nights": 2
+    },
+    {
+      "city": "Jodhpur",
+      "nights": 1
+    },
+    {
+      "city": "Ranakpur",
+      "nights": 1
+    },
+    {
+      "city": "Udaipur",
+      "nights": 2
+    }
+  ],
+  "badges": [
+    "Flights included",
+    "Family"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/rajasthan/lake-pichola.jpg",
+      "alt": "Lake Pichola and the palaces of Udaipur from above"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/rajasthan/camel-sunset.jpg",
+        "alt": "A camel rider silhouetted against a desert sunset"
+      },
+      {
+        "src": "/images/destinations/rajasthan/camel-cart-dunes.jpg",
+        "alt": "A camel cart crossing the dunes near Jaisalmer"
+      },
+      {
+        "src": "/images/destinations/rajasthan/jaisalmer-havelis.jpg",
+        "alt": "Carved sandstone havelis lining a lane in Jaisalmer"
+      },
+      {
+        "src": "/images/destinations/rajasthan/udaipur-city-palace.jpg",
+        "alt": "The City Palace of Udaipur seen from Lake Pichola"
+      },
+      {
+        "src": "/images/destinations/rajasthan/amber-fort.jpg",
+        "alt": "The zigzagging ramparts of Amber Fort near Jaipur"
+      }
+    ]
+  },
+  "highlights": [
+    "Return flights from Delhi included",
+    "Jaisalmer Fort and the Sam sand dunes",
+    "Jodhpur city tour",
+    "Jain temples of Ranakpur",
+    "Full-day Udaipur city tour",
+    "Breakfast and dinner daily"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Jodhpur and Drive to Jaisalmer City (280 Kms / 5 Hrs)",
+      "description": "On arrival at Jodhpur Airport, pick up and drive straight to Jaisalmer – the Golden City of Rajasthan. On arrival at Jaisalmer, check in at the hotel, and the rest of the day is at leisure to self-explore the city on your own.",
+      "overnight": "Jaisalmer City"
+    },
+    {
+      "day": 2,
+      "title": "In Jaisalmer – Morning City Tour / Drive to Sam Sand Dunes",
+      "description": "Today, we explore Jaisalmer City – visit the Golden Fort, a UNESCO World Heritage Site and one of the very few living forts in the world, as nearly one-fourth of the city’s population still resides within the fort, followed by a visit to Jain Mandir – carved in yellow sandstone and dedicated to Jain hermits known as Tirthankars. Later, we visit Patwon Ki Haveli and Nathmalji Ki Haveli. Later, we proceed to the famous Sam Sand Dunes. Upon arrival, we experience thrilling dune bashing over the golden sands of Jaisalmer. In the evening, we get an opportunity to witness the spectacular beauty of the sandy terrain by taking a joyful camel ride and viewing the red-orange color splash of sunset on the desert horizon. Overnight stay in tent at Sam Sand Dunes, Jaisalmer.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Drive to Jodhpur (280 Kms / 5 Hrs)",
+      "description": "Enjoy a relaxed morning and relish your breakfast. Later, check out from the Jaisalmer camp and drive to the Blue City of Rajasthan – Jodhpur. The drive will take about 5–6 hours. On arrival at your hotel in Jodhpur, check in, and the rest of the day is for relaxation and self-exploration of the nearby market.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Jodhpur"
+    },
+    {
+      "day": 4,
+      "title": "Jodhpur City Tour / Drive to Ranakpur (160 Kms / 3 Hrs)",
+      "description": "Today morning, after breakfast, check out and proceed for a city tour of the Blue City. We visit Mehrangarh Fort, the most famous Jodhpur attraction. After visiting the fort, we will visit Jaswant Thada, a beautiful white marble memorial built by Sardar Singh in 1899 in memory of Maharaja Jaswant Singh II. Later, we will visit the Clock Tower. Afterward, you will drive to Ranakpur, which is famous for its Jain temples. It will take around 3 hours to reach Ranakpur.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Ranakpur"
+    },
+    {
+      "day": 5,
+      "title": "Drive to Udaipur (90 Kms / 2 Hrs Approx.)",
+      "description": "Today morning, after breakfast and check out, visit the Ranakpur Temples, which are famous for their marble Jain temple dedicated to Tirthankara Adinatha. The temple is rich with sculptural pieces, with carvings created with great skill and artistry. After worshipping Shri Adinatha, visit the Sun Temple built in the 13th century, which is managed by the Udaipur royal family trust. Later, we will continue our journey to Udaipur. The drive will take around 2 hours. Known as the “Venice of the East,” Udaipur is a must-visit destination in Rajasthan. On arrival in Udaipur, check in to the hotel. The evening is free at your leisure to relax and explore nearby on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Udaipur"
+    },
+    {
+      "day": 6,
+      "title": "In Udaipur – Full Day City Tour",
+      "description": "After breakfast, we will proceed for the Udaipur city tour. Visit Fateh Sagar Lake, Saheliyon Ki Bari – the Queen’s resort for her friends, Sukhadia Circle (drive past), and Bhartiya Lok Kala Museum – a museum of folk art that displays a rich collection of folk dresses, ornaments, puppets, masks, dolls, etc. Next, visit the City Palace – the largest palace complex in Rajasthan, and Jagdish Temple – built by Maharana Jagat Singh and dedicated to Lord Vishnu. Visit Lake Pichola in the evening. If you wish to enjoy a boat ride on Lake Pichola, it is available on a direct payment basis.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Udaipur"
+    },
+    {
+      "day": 7,
+      "title": "Departure Transfer / Flight to Delhi",
+      "description": "Today morning, after breakfast and completing the check-out formalities, our car will report to the hotel to provide your departure transfer to Udaipur Airport in time to board the flight to your hometown or next destination. Our tour ends at Udaipur Airport. Tentative Itinerary. Note: Above Itinerary is just indicative. Do not consider it as a Final Schedule. Date & Time of Tours can be changed by Local Agent / Tour Operator.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "Economy Class Return Airfare (Delhi - Jodhpur // Udaipur - Delhi)",
+    "2 Nights accommodation in Jaisalmer",
+    "1 Nights accommodation in Jodhpur",
+    "1 Night accommodation in Pushkar",
+    "2 Nights accommodation in Udaipur",
+    "Daily Buffet Breakfast & Dinner at Hotel",
+    "City tour & Sightseeing tours (as mentioned in Itinerary)",
+    "All Tours & Transfers by Air conditioned vehicle",
+    "All presently applicable Hotel & Airline taxes"
+  ],
+  "exclusions": [
+    "Guide charges & Entrance fees at the different Sightseeing locations (Directly payable by the Guest)",
+    "Expenses of Personal Nature, such as- laundry, telephone calls, tips, camera fees, optional tours, extra meals, etc",
+    "Any cost arising due to flight cancellation, natural calamities like- landslides, road blockage, political disturbances (strikes), lockdown etc",
+    "Any service not mentioned in the inclusions",
+    "Surcharges Extra (if applicable) on Long Weekends & Holidays"
+  ],
+  "knowBeforeYouGo": [
+    "Tour cost calculated on minimum 04 pax traveling together on sharing basis",
+    "The tour cost is based on minimum 04 pax - Airport transfers, intercity drives & sightseeing on sharing basis",
+    "Airfare - The tentative flight (Delhi to Jodhpur and return Udaipur-Delhi) airfare calculated @ Rs. 8000/- per person, any difference in airfare at the time of booking would be charged additional",
+    "02 Pax Cost in private vehicle - The supplement for operating a trip with 02 pax in private car @ Rs. 5,000/- per person additional on tour cost"
+  ],
+  "seo": {
+    "title": "Rajasthan Treasures – 6N/7D Rajasthan Package",
+    "description": "If you are planning to visit the fascinating travel destinations of Rajasthan, our 6 Nights package will take you to the famous destinations in Rajasthan…"
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 5
+}

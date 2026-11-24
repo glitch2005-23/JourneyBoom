@@ -1,0 +1,64 @@
+{
+  "title": "Kerala",
+  "region": "God's Own Country · South India",
+  "tagline": "Tea hills, backwaters and slow golden beaches",
+  "description": [
+    "Kerala rarely feels rushed. Winding roads climb through spice plantations to Munnar, where tea gardens roll across the hills and mist settles in the valleys each evening. Below, the backwaters of Alleppey drift past villages, paddy fields and coconut groves — best seen from the deck of a houseboat.",
+    "Add the wildlife of Periyar, the colonial streets and Chinese fishing nets of Fort Kochi, the thundering Athirappilly falls and the lighthouse beaches of Kovalam, and you have one of India's most rewarding and relaxing holidays."
+  ],
+  "heroImage": {
+    "src": "/images/destinations/kerala/hero.jpg",
+    "alt": "A traditional houseboat cruising palm-lined backwaters in Alleppey",
+    "focal": "50% 55%"
+  },
+  "cardImage": {
+    "src": "/images/destinations/kerala/card.jpg",
+    "alt": "Rolling green tea plantations in Munnar"
+  },
+  "gallery": [
+    { "src": "/images/destinations/kerala/munnar-sunrise.jpg", "alt": "Sunrise mist over a lake and tea-covered hills near Munnar" },
+    { "src": "/images/destinations/kerala/alleppey-houseboat.jpg", "alt": "A wooden houseboat on the backwaters of Alappuzha" },
+    { "src": "/images/destinations/kerala/kovalam-lighthouse.jpg", "alt": "The red-and-white lighthouse above Kovalam beach" },
+    { "src": "/images/destinations/kerala/theyyam.jpg", "alt": "A Theyyam performer in elaborate costume and headdress" },
+    { "src": "/images/destinations/kerala/tea-gardens-mist.jpg", "alt": "Neat rows of tea bushes on misty Munnar slopes" },
+    { "src": "/images/destinations/kerala/backwaters-aerial.jpg", "alt": "Aerial view of a canoe on a narrow backwater lined with coconut palms" },
+    { "src": "/images/destinations/kerala/palm-beach.jpg", "alt": "Coconut palms leaning over a quiet Kerala beach" },
+    { "src": "/images/destinations/kerala/munnar-golden-hills.jpg", "alt": "Silhouetted tea hills under a golden sky in Munnar" },
+    { "src": "/images/destinations/kerala/coastline-aerial.jpg", "alt": "Aerial view of waves breaking along the Kerala coastline" }
+  ],
+  "highlights": [
+    {
+      "icon": "tree",
+      "title": "Munnar's tea country",
+      "text": "Tea estates, Eravikulam National Park, Mattupetty Dam and the Tea Museum in the cool Western Ghats."
+    },
+    {
+      "icon": "ship",
+      "title": "Alleppey backwaters",
+      "text": "Glide through palm-fringed canals and lagoons on a houseboat or shikara in the 'Venice of the East'."
+    },
+    {
+      "icon": "waves",
+      "title": "Kovalam & Cherai beaches",
+      "text": "Golden crescents of sand, lighthouse views, seafood shacks and sunsets over the Arabian Sea."
+    },
+    {
+      "icon": "sparkles",
+      "title": "Kathakali & spice gardens",
+      "text": "Watch a Kathakali performance in Thekkady and walk through plantations of cardamom, pepper and cinnamon."
+    }
+  ],
+  "quickFacts": {
+    "bestTime": "September – March (monsoon magic June – August)",
+    "idealDuration": "4 – 6 days",
+    "language": "Malayalam, English",
+    "currency": "Indian Rupee (₹)"
+  },
+  "seo": {
+    "title": "Kerala Tour Packages — Munnar, Alleppey & Kovalam",
+    "description": "Kerala holiday packages with Munnar tea hills, Alleppey backwaters, Thekkady, Kochi and Kovalam beaches. Honeymoon and family trips by Journey Boom."
+  },
+  "featured": true,
+  "showOnHome": true,
+  "displayOrder": 2
+}

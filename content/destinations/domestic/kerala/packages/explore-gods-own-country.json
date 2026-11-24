@@ -1,0 +1,124 @@
+{
+  "title": "Explore God’s Own Country",
+  "shortDescription": "Kerala rarely feels rushed. Winding roads traverse humid hillocks, spice plantations appear as though summoned from the air, and somewhere between a waterfall stop and fresh tea, you find yourself quietly shifting gears.",
+  "description": [
+    "Kerala rarely feels rushed. Winding roads traverse humid hillocks, spice plantations appear as though summoned from the air, and somewhere between a waterfall stop and fresh tea, you find yourself quietly shifting gears. It runs from some of the most picturesque landscapes in the state, including the mighty Athirappilly Falls to chilling misty climate at Munnar and then to serene backwaters at Alleppey You will appreciate viewpoints in forests, tea gardens, lakes, lake and other hill drives and peaceful nights close to the water.",
+    "It provides a harmonious mix of sightseeing and gives you enough breathing time to leisurely soak in surroundings at your own pace. This Kerala vacation provides a refreshing combination of hills, waterfalls and backwater experiences from some of the best locations, perfect for couples, family or nature lovers."
+  ],
+  "duration": {
+    "nights": 4,
+    "days": 5
+  },
+  "route": [
+    {
+      "city": "Athirappilly",
+      "nights": 1
+    },
+    {
+      "city": "Munnar",
+      "nights": 2
+    },
+    {
+      "city": "Alleppey",
+      "nights": 1
+    }
+  ],
+  "badges": [],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/kerala/backwaters-aerial.jpg",
+      "alt": "Aerial view of a canoe on a narrow backwater lined with coconut palms"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/kerala/munnar-sunrise.jpg",
+        "alt": "Sunrise mist over a lake and tea-covered hills near Munnar"
+      },
+      {
+        "src": "/images/destinations/kerala/munnar-golden-hills.jpg",
+        "alt": "Silhouetted tea hills under a golden sky in Munnar"
+      },
+      {
+        "src": "/images/destinations/kerala/munnar-road.jpg",
+        "alt": "A road winding through tea estates in the hills of Munnar"
+      },
+      {
+        "src": "/images/destinations/kerala/tea-gardens-mist.jpg",
+        "alt": "Neat rows of tea bushes on misty Munnar slopes"
+      },
+      {
+        "src": "/images/destinations/kerala/tea-estate.jpg",
+        "alt": "Tea estates rolling across the Western Ghats"
+      }
+    ]
+  },
+  "highlights": [
+    "Athirappilly, Kerala's largest waterfall",
+    "Cheeyappara and Valara waterfalls",
+    "Eravikulam National Park and the Nilgiri Tahr",
+    "Mattupetty Dam and Kundala Lake",
+    "Alleppey, the 'Venice of the East'"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Cochin International Airport to Athirappilly Water Falls",
+      "description": "Arrive at Cochin International Airport and begin your scenic drive towards Athirappilly Waterfalls, the largest waterfall in Kerala known for its dramatic cascade and lush forest surroundings. Spend time enjoying the refreshing atmosphere and natural beauty around the falls before proceeding to your hotel in Athirappilly for an overnight stay."
+    },
+    {
+      "day": 2,
+      "title": "Athirappilly Water Falls to Munnar",
+      "description": "After breakfast, drive towards Munnar with multiple scenic stops along the route. Visit Cheeyappara Waterfalls, a beautiful multi-tiered waterfall located amidst dense greenery. Continue to Valara Waterfalls, a picturesque roadside cascade surrounded by forest landscapes. Drive through expansive tea gardens, offering breathtaking views of rolling hills covered in tea plantations. Enjoy the cool climate and scenic beauty as clouds drift across the valleys and mountain slopes. Arrive in Munnar by evening and check into the hotel for an overnight stay.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Munnar Sightseeing",
+      "description": "After breakfast, proceed for a full day of sightseeing around Munnar. Visit Eravikulam National Park, home to the endangered Nilgiri Tahr and rolling grass-covered hills. Explore Mattupetty Dam, surrounded by misty hills and tea plantations. Continue to Kundala Dam, a peaceful lake area known for its scenic charm. Spend time at Eco Point, where the natural echo effect and panoramic surroundings make it a favourite stop for visitors. Later, visit the Tea Museum to learn about Munnar’s tea heritage and plantation history.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Munnar"
+    },
+    {
+      "day": 4,
+      "title": "Munnar – Alappuzha",
+      "description": "After breakfast, check out and drive towards Alappuzha (Alleppey), widely known as the “Venice of the East”. Enjoy the changing landscapes as the hill scenery gives way to Kerala’s famous backwaters and coconut-lined canals. On arrival, check into the hotel and relax. Guests can opt for a Shikara boat cruise (at their own cost) to experience the peaceful backwaters, village life, and scenic waterways of Alleppey.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Alleppey"
+    },
+    {
+      "day": 5,
+      "title": "Cochin Departure",
+      "description": "After breakfast, check out from the hotel and proceed towards Cochin Airport or Railway Station for your onwards journey. Return home with memorable experiences of Kerala’s waterfalls, hills, tea gardens, and tranquil backwaters.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "Accommodation in mentioned category rooms in all the hotels or in similar",
+    "Breakfast",
+    "AC Cab for all transfers and sightseeing exactly as per the itinerary",
+    "Toll, Parking, driver allowance, road tax & fuel charges",
+    "All Applicable hotel taxes"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Meals not mentioned above",
+    "Entry fees to monuments and palaces",
+    "Tickets, tips, guided and Entrance Fees/ Charges",
+    "Any Increase in Taxes or Fuel Leading To An Increase In Surface Transport"
+  ],
+  "seo": {
+    "title": "Explore God’s Own Country – 4N/5D Kerala Package",
+    "description": "Kerala rarely feels rushed. Winding roads traverse humid hillocks, spice plantations appear as though summoned from the air, and somewhere between a…"
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 3
+}

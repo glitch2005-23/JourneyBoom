@@ -1,0 +1,138 @@
+{
+  "title": "Treats of Singapore & Cruise – Balcony Stateroom",
+  "shortDescription": "Welcome to the lion city! Singapore is a perfect cosmopolitan city offering a very friendly and hospitable environment and a world-class living environment.",
+  "description": [
+    "Welcome to the lion city! Singapore is a perfect cosmopolitan city offering a very friendly and hospitable environment and a world-class living environment. You can see modern high-rise buildings everywhere along with lovely green gardens to be seen everywhere. Different cultures, ethnicities and beliefs coexist harmoniously here.",
+    "Make your holiday more fun and memorable with a stay on Dream Cruises. The concept of providing perfect hospitality, entertainment and a comfortable stay to all onboard is defined uniquely on Cruise."
+  ],
+  "duration": {
+    "nights": 5,
+    "days": 6
+  },
+  "route": [
+    {
+      "city": "Singapore",
+      "nights": 3
+    },
+    {
+      "city": "Dream Cruise",
+      "nights": 2
+    }
+  ],
+  "badges": [
+    "Honeymoon",
+    "Family"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/singapore/skyline-dusk.jpg",
+      "alt": "Singapore's skyline glittering at dusk"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/singapore/merlion.jpg",
+        "alt": "The Merlion fountain in front of Singapore's skyline"
+      },
+      {
+        "src": "/images/destinations/singapore/supertree-walkway.jpg",
+        "alt": "Visitors on the OCBC Skyway among the Supertrees"
+      },
+      {
+        "src": "/images/destinations/singapore/supertrees.jpg",
+        "alt": "The Supertree Grove at Gardens by the Bay"
+      },
+      {
+        "src": "/images/destinations/singapore/supertrees-night.jpg",
+        "alt": "The Supertrees glowing at night, seen from above"
+      },
+      {
+        "src": "/images/destinations/singapore/cloud-forest.jpg",
+        "alt": "Walkways spiralling through the Cloud Forest dome"
+      }
+    ]
+  },
+  "highlights": [
+    "2 nights on Genting Dream in a Balcony stateroom",
+    "All meals on the cruise",
+    "3 nights in Singapore with breakfast",
+    "Half-day city tour with the Merlion and Little India",
+    "Airport and cruise transfers"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Singapore – Evening Free",
+      "description": "Optional - Night Safari. On your arrival at Changi International Airport, our tour co-ordinator will meet you at the specified area and transfer you to the hotel. Check-in and relax (Standard Check in time: 1400 - 1500 hours). Rest of the day is at your own leisure. In the evening, you can opt to go for the exclusive experience of ‘Night Safari’ (at extra cost). It is world’s first Night Safari set in 40 hectares of green foliage. Witness the mystic beauty of the tropical jungle after dusk with stunning light effects. See the nocturnal animals coming close to you with their bright shining eyes, wandering in their natural habitat under moonlit lights. You are completely safe and comfortable in your tram that takes you throughout the area of different habitats designed imitating the specific natural environments from around the world. Later return back to the hotel for a relaxed sleep.",
+      "overnight": "Singapore"
+    },
+    {
+      "day": 2,
+      "title": "Singapore – Onboard Cruise",
+      "description": "You can enjoy a cozy morning time in your bed as you have a relaxed morning today. Have a fill at morning breakfast and check out from the hotel by 1200 hrs. Enjoy leisure time in Singapore exploring nearby places until your pick up from Hotel Lobby for Cruise terminal to board your cruise. Boarding starts 4 hours prior to departure. After a warm welcome on board, explore and enjoy the various facilities offered. Stay overnight onboard Cruise.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Onboard Cruise",
+      "description": "Wake up to an exotic morning over the seas. Enjoy a bed tea while taking stunning sea views. The beauty of sunrise on sea is incredible. Refresh and enjoy a wide spread of breakfast on board. (Note: Your sailing routes depend on your departure dates) Onboard, you can enjoy various entertainment activities, shopping and dining at in-house restaurants. Stay overnight onboard Cruise.",
+      "meals": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Disembark from Cruise – Day Free",
+      "description": "Enjoy another beautiful morning over the deep seas. Relish wide spread breakfast and enjoy the aura for a while longer before going back to the land. On your return to Singapore, disembark from the cruise and meet our local tour representative for your transfer to hotel. Check-in and relax. Rest of the day is free at your own leisure. It can take a while to get back to the feeling of being on land. We suggest you to take rest today. In evening however if you feel like, you can step out to take leisurely strolls and relish some local delicacies.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 5,
+      "title": "Singapore City tour – Day Free",
+      "description": "Optional - Afternoon trip to Sentosa Island (with Dinner) After having morning breakfast, set out for a City tour. Drive round the Central Business District passing the Cricket Club, Parliament house, Supreme Court, etc. See the glorified Orchard Road with its best brand showrooms. Visit the enchanting China Town and get awed with the dazzling gems at the Gem Gallery. Then we visit Marina Bay, the most clicked Singapore’s landmark. The sheer exuberance of the area will leave you open jawed. See the majestic Marina Bay Sands and the ‘wonder’ful architecture of the Esplanade and how can you miss the Lion while being at the Lion City! Yes. Click great pictures in front of the Merlion. We also visit Little India, to make you feel at home!",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Singapore – Departure",
+      "description": "Charge yourself with the morning breakfast at the hotel, pack your bags and check out from the hotel (1200 hours). Catch your transfer to the airport and board your flight back home.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "3 Nights Accommodation in Singapore",
+    "2 Nights Stay on Dream Cruises - Genting Dream (Balcony Stateroom)",
+    "Daily Buffet Breakfast at Hotel",
+    "All Meals on Cruise",
+    "Half day Singapore City tour",
+    "Airport & Cruise transfers",
+    "All Tours & Transfers on Seat In Coach (Shared) basis",
+    "All Hotel taxes"
+  ],
+  "exclusions": [
+    "Airfare",
+    "You will need to Pay Rs. 1,000/- per person (Extra), If your transfer timings are not between 7 AM - 6 PM",
+    "Visa fees (As Applicable)",
+    "Travel Insurance",
+    "Any service not mentioned in the inclusions",
+    "Hotel Surcharge (as Applicable) to be Paid Extra, during Peak & Super Peak Season",
+    "Gratuity Fee of SGD 21 (per person per night) to be Paid Onboard Cruise directly by Guests"
+  ],
+  "seo": {
+    "title": "Treats of Singapore & Cruise – Balcony Stateroom – 5N/6D",
+    "description": "Welcome to the lion city! Singapore is a perfect cosmopolitan city offering a very friendly and hospitable environment and a world-class living environment."
+  },
+  "featured": true,
+  "showOnHome": false,
+  "displayOrder": 3
+}

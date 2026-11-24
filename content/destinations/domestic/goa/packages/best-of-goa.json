@@ -1,0 +1,115 @@
+{
+  "title": "Best Of Goa",
+  "shortDescription": "This short getaway to Goa is just right for those people who want to relax by the sea and indulge in the culture of the place and learning about the famous beaches.",
+  "description": [
+    "This short getaway to Goa is just right for those people who want to relax by the sea and indulge in the culture of the place and learning about the famous beaches. The trip includes both sightseeing and relaxing on the beach in North and South Goa. From historic forts and busy beaches to peaceful temples and colonial-era churches, the trip shows you many sides of Goa.",
+    "You will also have time to explore local markets and try popular Goan dishes along the way. In a span of four days, this experience is an amalgamation of scenic coastal views, cultural landmarks, aesthetic sunrises and sunsets, and laid-back moments by the beach."
+  ],
+  "duration": {
+    "nights": 3,
+    "days": 4
+  },
+  "route": [
+    {
+      "city": "Goa",
+      "nights": 3
+    }
+  ],
+  "badges": [],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/goa/sunset.jpg",
+      "alt": "Sunset over a secluded cove on the Goan coast"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/goa/card.jpg",
+        "alt": "Colourful beach huts beneath tall palms on Palolem Beach"
+      },
+      {
+        "src": "/images/destinations/goa/fontainhas.jpg",
+        "alt": "Yellow Portuguese-style houses in the Latin Quarter of Panaji"
+      },
+      {
+        "src": "/images/destinations/goa/church.jpg",
+        "alt": "The white baroque facade of Our Lady of the Immaculate Conception, Panaji"
+      },
+      {
+        "src": "/images/destinations/goa/seaside-chapel.jpg",
+        "alt": "A red-roofed chapel beside the sea framed by palm trees"
+      },
+      {
+        "src": "/images/destinations/goa/beach-shack.jpg",
+        "alt": "A beach shack lit up with fairy lights at night"
+      }
+    ]
+  },
+  "highlights": [
+    "Full-day North Goa tour with Fort Aguada",
+    "South Goa temples, Old Goa churches and Miramar",
+    "Complimentary dinner at the hotel",
+    "Pick-up and drop at Goa or Mopa airport"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrived at Goa",
+      "description": "Welcome to the party capital of India. Your 4-day Goa tour package starts now. As you arrive at the Goa airport/railway station, an agent’s representative will receive you and escort you to the hotel. Complete-check-in formalities and relax for some time. Spend the entire first day of your Goa trip leisurely. Explore the sun-kissed beaches of Goa or try some amazing Goan delicacies like pork vindaloo and Goan fish curry. As you bid goodbye today one of your Goa holiday, come back to the hotel and have a goodnight’s sleep.",
+      "meals": [
+        "Dinner"
+      ]
+    },
+    {
+      "day": 2,
+      "title": "North Goa Sightseeing",
+      "description": "The second day of your Goa holiday takes you to explore the gems of North Goa. Have breakfast and get ready to embark on a full-day North Goa sightseeing tour. The first attraction that you will visit on your North Goa tour is the ancient Fort Aguada. Later, explore Coco Beach, Calangute Annexe, Calangute Beach, Baga Beach and Anjuna Beach. As the second day of your Goa tour itinerary comes to an end, come back to the hotel and sleep off the night.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "South Goa Sightseeing",
+      "description": "Today on your Goa vacation, explore the eye-catching attractions of South Goa. Relish a delicious breakfast and get ready to explore the tourist hotspots of South Goa on the third day of your Goa tour. Visit Shri Shantadurga Temple at Kavlem and Shri Manguesh Temple at Priol. Next, take a trip to the churches of Old Goa like Basilica of Bom Jesus and Se Cathedral. Post lunch, visit the Dona Paula Bay and Miramar Beach. Later on, your Goa holiday, indulge in street shopping at the Panjim Market. Towards the end of the day, return to the hotel and sleep off the night.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Drop at Airport",
+      "description": "This is the last day of your 4-day Goa tour package. Bid goodbye to Goa with nostalgic memories. Post breakfast, check-out from the hotel and you will be transferred to the airport/railway station to reach your home destination, thereby, marking an end to your fun-filled Goa holiday.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "Accommodation in base category hotel",
+    "Breakfast in hotel",
+    "Complimentary Dinner at hotel",
+    "North goa sightseeing on shared (SIC) basis",
+    "Complimentary south goa sightseeing on shared (SIC) basis",
+    "AC Sedan Cab for Airport transfers",
+    "Toll, Parking, driver allowance, road tax & fuel charges",
+    "Pick up and drop: Goa / Mopa Airport",
+    "All applicable hotel taxes"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Entry fees to monuments and palaces",
+    "Anything not mentioned in the inclusions",
+    "Tickets, tips, guided and Entrance Fees/ Charges",
+    "Porterage at hotels and airports, tips, insurance, laundry, liquor and wine",
+    "Ayurveda Charges"
+  ],
+  "seo": {
+    "title": "Best Of Goa – 3N/4D Goa Package",
+    "description": "This short getaway to Goa is just right for those people who want to relax by the sea and indulge in the culture of the place and learning about the famous…"
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 2
+}

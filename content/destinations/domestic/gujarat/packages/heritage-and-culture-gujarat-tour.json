@@ -1,0 +1,128 @@
+{
+  "title": "Heritage & Culture Gujarat Tour",
+  "shortDescription": "Stretching into the Arabian Sea, Gujarat is renowned for its beaches, temple towns, palaces and historic capitals. Wildlife sanctuaries, hill resorts and natural grandeur add to its beauty.",
+  "description": [
+    "Stretching into the Arabian Sea, Gujarat is renowned for its beaches, temple towns, palaces and historic capitals. Wildlife sanctuaries, hill resorts and natural grandeur add to its beauty. The state’s major attractions include the only habitat of the Asiatic lions in India (Gir Forests), the Wild Ass Sanctuary and the Indo-Saracenic architecture of Ahmedabad.",
+    "The colourful tribal villages of Kutch are also popular tourist destinations. Gujarat’s vast coastline is home to unique marine species and its varied geographical locations are said to make it a melting pot of culture, people, places and history"
+  ],
+  "duration": {
+    "nights": 4,
+    "days": 5
+  },
+  "route": [
+    {
+      "city": "Dwarka",
+      "nights": 1
+    },
+    {
+      "city": "Porbandar",
+      "nights": 1
+    },
+    {
+      "city": "Somnath",
+      "nights": 1
+    },
+    {
+      "city": "Ahmedabad",
+      "nights": 1
+    }
+  ],
+  "badges": [],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/gujarat/temple-spire.jpg",
+      "alt": "The towering carved spire of a temple in Gujarat"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/gujarat/hero.jpg",
+        "alt": "A decorated camel cart crossing the white salt desert of the Rann of Kutch"
+      },
+      {
+        "src": "/images/destinations/gujarat/card.jpg",
+        "alt": "Intricately carved pillars of the Modhera Sun Temple"
+      },
+      {
+        "src": "/images/destinations/gujarat/rann-camels.jpg",
+        "alt": "Colourfully decorated camels on the white Rann of Kutch"
+      },
+      {
+        "src": "/images/destinations/gujarat/white-rann.jpg",
+        "alt": "Travellers walking across the endless white salt flats of the Rann"
+      },
+      {
+        "src": "/images/destinations/gujarat/sun-temple-kund.jpg",
+        "alt": "The Modhera Sun Temple and its stepped tank reflected in water"
+      }
+    ]
+  },
+  "highlights": [
+    "Dwarkadhish Temple and Gomti Ghat, Dwarka",
+    "Nageshwar Jyotirlinga and Rukmini Devi Temple",
+    "Kirti Mandir, Gandhiji's birthplace in Porbandar",
+    "Evening aarti at Somnath Jyotirlinga",
+    "Sabarmati Ashram and Adalaj Stepwell, Ahmedabad"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrival in Dwarka & Temple Darshan",
+      "description": "Arrive in Dwarka, one of the sacred Char Dham pilgrimage sites, and transfer to your hotel. After check-in and some relaxation, visit the holy Dwarkadhish Temple dedicated to Lord Krishna. Later, take a spiritual walk along Gomti Ghat and enjoy the serene coastal ambiance. Attend the evening aarti at the temple before returning to the hotel for dinner and overnight stay."
+    },
+    {
+      "day": 2,
+      "title": "Dwarka Sightseeing & Transfer to Porbandar",
+      "description": "After breakfast, visit nearby attractions including Nageshwar Jyotirlinga Temple, one of the 12 Jyotirlingas, and Rukmini Devi Temple. You may also opt to visit Bet Dwarka (by boat). Later, drive to Porbandar, the birthplace of Mahatma Gandhi. Upon arrival, check in to your hotel and visit Kirti Mandir and Sudama Temple. Overnight stay in Porbandar.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Porbandar"
+    },
+    {
+      "day": 3,
+      "title": "Porbandar to Somnath",
+      "description": "After breakfast, visit Kirti Mandir, the birthplace of Mahatma Gandhi, in Porbandar. Continue along the coast to Somnath and check in to the hotel. Attend the evening aarti at the Somnath Jyotirlinga temple.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Somnath"
+    },
+    {
+      "day": 4,
+      "title": "Somnath to Ahmedabad",
+      "description": "After breakfast, you may visit Somnath Temple again for morning darshan. Later, check out and drive to Ahmedabad. Upon arrival, check in to your hotel and relax. If time permits, you can visit local markets or enjoy the city vibe. Overnight stay in Ahmedabad.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Ahmedabad"
+    },
+    {
+      "day": 5,
+      "title": "Ahmedabad Sightseeing & Departure",
+      "description": "After breakfast, explore key attractions of Ahmedabad including Sabarmati Ashram and Adalaj Stepwell. You may also visit Kankaria Lake for leisure before proceeding for your onward journey with beautiful memories of Gujarat.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "Breakfast",
+    "AC car for entire trip as per itinerary",
+    "Toll, Parking, driver allowance, road tax & fuel charges",
+    "All applicable hotel taxes"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Air/ train fare",
+    "Anything not mentioned in the inclusions",
+    "Entry Fees & Local Guide Charges",
+    "Porterage at hotels and airports, tips, insurance, laundry, liquor and wine"
+  ],
+  "seo": {
+    "title": "Heritage & Culture Gujarat Tour – 4N/5D Gujarat Package",
+    "description": "Stretching into the Arabian Sea, Gujarat is renowned for its beaches, temple towns, palaces and historic capitals. Wildlife sanctuaries, hill resorts and…"
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 1
+}

@@ -1,0 +1,139 @@
+{
+  "title": "Majestic Kerala Honeymoon Bliss",
+  "shortDescription": "Misty hill stations, tranquil backwaters and beach bliss on a laid-back Kerala break.",
+  "description": [
+    "Misty hill stations, tranquil backwaters and beach bliss on a laid-back Kerala break. Munnar's tea-covered hills are the place for scenic drives, nature-led sightseeing and plenty of opportunities to relax in the cool mountain air. Journey on to the peaceful backwaters of Alleppey, with a beach retreat in Poovar, to take in the mangroves and unwind on the beach. Cultural discovery in Trivandrum adds more variety to the holiday, which is a good choice for those who want a varied and relaxed experience that is a mixture of nature, comfort and gentle exploration.",
+    "The tour takes in the best-loved experiences of Kerala at a relaxed and enjoyable pace so you can enjoy a variety of activities without feeling rushed. Kerala is a top choice for travellers seeking a relaxing holiday that’s been taken care of"
+  ],
+  "duration": {
+    "nights": 5,
+    "days": 6
+  },
+  "route": [
+    {
+      "city": "Munnar",
+      "nights": 2
+    },
+    {
+      "city": "Alleppey",
+      "nights": 1
+    },
+    {
+      "city": "Kovalam",
+      "nights": 2
+    }
+  ],
+  "badges": [
+    "Honeymoon"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/kerala/munnar-sunrise.jpg",
+      "alt": "Sunrise mist over a lake and tea-covered hills near Munnar"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/kerala/hero.jpg",
+        "alt": "A traditional houseboat cruising palm-lined backwaters in Alleppey"
+      },
+      {
+        "src": "/images/destinations/kerala/card.jpg",
+        "alt": "Rolling green tea plantations in Munnar"
+      },
+      {
+        "src": "/images/destinations/kerala/munnar-golden-hills.jpg",
+        "alt": "Silhouetted tea hills under a golden sky in Munnar"
+      },
+      {
+        "src": "/images/destinations/kerala/munnar-road.jpg",
+        "alt": "A road winding through tea estates in the hills of Munnar"
+      },
+      {
+        "src": "/images/destinations/kerala/tea-gardens-mist.jpg",
+        "alt": "Neat rows of tea bushes on misty Munnar slopes"
+      }
+    ]
+  },
+  "highlights": [
+    "5-star stays in Munnar, Alleppey and Kovalam",
+    "Cheeyappara Waterfalls and Eravikulam National Park",
+    "Mattupetty Dam, Kundala Dam and the Tea Museum",
+    "An evening on the Alleppey backwaters",
+    "Kovalam's beaches",
+    "Padmanabhaswamy Temple, Trivandrum"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Cochin – Munnar",
+      "description": "Arrive at Cochin Airport or Railway Station and transfer to Munnar. Travel through Valparai with stops at Cheeyappara Waterfalls and tea plantation stretches. Check in at the hotel on arrival. Later, visit Rajamala in Eravikulam National Park (subject to forest authority regulations). Explore the Tea Museum set amid tea gardens. Take a short visit through Munnar town in the evening.",
+      "overnight": "Munnar"
+    },
+    {
+      "day": 2,
+      "title": "Explore Munnar",
+      "description": "After breakfast, proceed for Munnar sightseeing. Visit Mattupettu Dam, Kundala Dam and Eco point. Later, visit the Tea Museum.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Munnar"
+    },
+    {
+      "day": 3,
+      "title": "Drive from Munnar to Alappuzha",
+      "description": "Check out after breakfast and drive to Alappuzha. Check in at the hotel on arrival. Spend time enjoying the backwater surroundings. Opt for a Shikara boat cruise (at own cost).",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Alappuzha"
+    },
+    {
+      "day": 4,
+      "title": "Journey from Alappuzha to Kovalam",
+      "description": "Proceed to Kovalam after breakfast. Check in at the hotel. Explore the beaches of Kovalam and activities like kayaking, swimming, surfing (additional cost). Spend the rest of the day at leisure by the sea.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Kovalam"
+    },
+    {
+      "day": 5,
+      "title": "Trivandrum Sightseeing",
+      "description": "Depart after breakfast for Trivandrum sightseeing - visit Padmanabhaswamy Temple along with the Museum, Zoo, and Art Gallery. Return to Kovalam in the evening.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Kovalam"
+    },
+    {
+      "day": 6,
+      "title": "Trivandrum Departure",
+      "description": "Check out after breakfast. Transfer to Trivandrum Airport or Railway Station for departure.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "5 Nights Accommodation in 5 star Hotel (base category rooms)",
+    "Daily Breakfast at the Hotel",
+    "AC Cab for all transfers and sightseeing exactly as per the itinerary",
+    "Toll, Parking, driver allowance, road tax & fuel charges",
+    "All Applicable hotel taxes"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Meals not mentioned above",
+    "Entry fees to monuments and palaces",
+    "Anything not mentioned in the inclusions",
+    "Tickets, tips, guided and Entrance Fees/ Charges",
+    "Any Increase in Taxes or Fuel Leading To An Increase In Surface Transport"
+  ],
+  "seo": {
+    "title": "Majestic Kerala Honeymoon Bliss – 5N/6D Kerala Package",
+    "description": "Misty hill stations, tranquil backwaters and beach bliss on a laid-back Kerala break."
+  },
+  "featured": true,
+  "showOnHome": true,
+  "displayOrder": 1
+}

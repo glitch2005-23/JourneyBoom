@@ -1,0 +1,117 @@
+{
+  "title": "Mountains & Meadows – Kashmir",
+  "shortDescription": "Kashmir has a way of making you forget about the rest of the world, and this four-day escape is the perfect quick reset.",
+  "description": [
+    "Kashmir has a way of making you forget about the rest of the world, and this four-day escape is the perfect quick reset. You’ll spend your time in Srinagar drifting along the glassy waters of Dal Lake on a wooden shikara and walking through the manicured lawns of historic Mughal gardens like Nishat Bagh, Shalimar Bagh, and Chashme Shahi. We’ve also carved out time to head up to the sacred Shankaracharya Temple for some incredible views over the valley, and stop by local workshops to see how traditional Kashmiri carpets and shawls are made.",
+    "From there, the scenery hits a whole new scale as you drive out to Sonmarg. Aptly named the \"Meadow of Gold,\" it’s a place where the roads open up to the rushing Sindh River, wildflower valleys, and massive, snow-capped peaks. It’s a short loop, but between the crisp mountain air and the easy pace, it feels like a proper Himalayan holiday."
+  ],
+  "duration": {
+    "nights": 3,
+    "days": 4
+  },
+  "route": [
+    {
+      "city": "Srinagar",
+      "nights": 2
+    },
+    {
+      "city": "Sonmarg",
+      "nights": 1
+    }
+  ],
+  "badges": [],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/kashmir/sonmarg-meadow.jpg",
+      "alt": "Horses grazing beside a boulder in the Sonmarg valley"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/kashmir/floating-market.jpg",
+        "alt": "A vendor selling fruit from his boat at the Dal Lake floating market"
+      },
+      {
+        "src": "/images/destinations/kashmir/pahalgam-meadow.jpg",
+        "alt": "Sheep grazing in a green meadow near Pahalgam"
+      },
+      {
+        "src": "/images/destinations/kashmir/pahalgam-valley.jpg",
+        "alt": "A river winding through the green Pahalgam valley under dramatic clouds"
+      },
+      {
+        "src": "/images/destinations/kashmir/gulmarg-snow.jpg",
+        "alt": "Snow-covered chalets in Gulmarg in winter"
+      },
+      {
+        "src": "/images/destinations/kashmir/dal-lake-dusk.jpg",
+        "alt": "A shikara on Dal Lake under a purple evening sky"
+      }
+    ]
+  },
+  "highlights": [
+    "Shikara ride on Dal Lake at Nehru Park",
+    "Nishat, Shalimar and Chashme Shahi Mughal Gardens",
+    "Panoramic views from Shankaracharya Temple",
+    "Carpet and shawl workshops",
+    "Full-day Sonmarg excursion"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrival in Srinagar",
+      "description": "Arrive at Srinagar Airport and meet our representative. Transfer to the hotel and complete check-in formalities. Enjoy a 1-hour Shikara ride on Dal Lake at Nehru Park, Boulevard Road. Experience the beauty of the lake, floating gardens, and surrounding mountains. Proceed for local sightseeing of Srinagar’s famous Mughal Gardens: Chashme Shahi – “Royal Spring” Shalimar Bagh – “Garden of Love” Nishat Bagh – “Garden of Pleasure” Enjoy the scenic beauty and peaceful atmosphere of the gardens.",
+      "meals": [
+        "Dinner"
+      ],
+      "overnight": "Srinagar"
+    },
+    {
+      "day": 2,
+      "title": "Srinagar Local Sightseeing",
+      "description": "After breakfast, enjoy local sightseeing in Srinagar. Visit the sacred Shankaracharya Temple for panoramic city views. Explore local handicraft showrooms famous for: Hand-knotted silk carpets Kashmiri shawls Traditional jewellery and handicrafts. Spend leisure time exploring local markets or relaxing around Dal Lake.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ],
+      "overnight": "Srinagar"
+    },
+    {
+      "day": 3,
+      "title": "Srinagar – Sonmarg – Srinagar",
+      "description": "Enjoy breakfast at the hotel. Proceed for a full-day excursion to Sonmarg, known as the “Meadow of Gold.” Drive through the beautiful Sindh Valley surrounded by mountains and flower-filled landscapes. Reach Sonmarg located at an altitude of 9,000 ft. Explore the picturesque valley and natural surroundings. Optional pony ride to Thajiwas Glacier (at own cost). Enjoy views of snow-covered peaks and alpine scenery. Spend leisure time amidst the serene Himalayan landscapes. Return to Srinagar in the evening. Overnight stay at the hotel.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Departure from Srinagar",
+      "description": "Enjoy breakfast at the hotel. Spend a relaxing morning in Srinagar. Check out from the hotel and transfer to Srinagar Airport. Board your flight for onward destination with unforgettable memories of Kashmir.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "Accommodation in base category room",
+    "Welcome Drink on Arrival",
+    "Daily Breakfast and Dinner",
+    "Non-AC vehicle as per itinerary",
+    "Shikara Ride facility(01 Hour)",
+    "All applicable hotel taxes"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Entry fees to monuments and palaces",
+    "Anything not mentioned in the inclusions",
+    "Porterage at hotels and airports, tips, insurance, laundry, liquor and wine"
+  ],
+  "seo": {
+    "title": "Mountains & Meadows – Kashmir – 3N/4D Kashmir Package",
+    "description": "Kashmir has a way of making you forget about the rest of the world, and this four-day escape is the perfect quick reset."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 5
+}

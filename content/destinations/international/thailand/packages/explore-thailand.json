@@ -1,0 +1,145 @@
+{
+  "title": "Explore Thailand",
+  "shortDescription": "Take a break from your routine life and set foot on Asia’s most fun-filled land- Thailand. Visit Pattaya, an exotic beach constantly brimming with life.",
+  "description": [
+    "Take a break from your routine life and set foot on Asia’s most fun-filled land- Thailand. Visit Pattaya, an exotic beach constantly brimming with life. Walk by the sea, splash in the waves, go scuba diving, ride a sea-scooter, enjoy nerve tickling para-sailing or simply relax on the beach and enjoy all the action around you.",
+    "Relish delicious fresh seafood and enjoy its electrifying nightlife post sunset. Travel to Bangkok to get awed by its limitless offerings. Find peace in its grand and peaceful temples, befriend the tigers at Sri Racha Tiger Zoo, take a romantic Chao-Phraya Cruise and shop more than you want at its super-exciting markets."
+  ],
+  "duration": {
+    "nights": 6,
+    "days": 7
+  },
+  "route": [
+    {
+      "city": "Pattaya",
+      "nights": 3
+    },
+    {
+      "city": "Bangkok",
+      "nights": 3
+    }
+  ],
+  "badges": [
+    "Honeymoon",
+    "Family"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/thailand/maya-bay.jpg",
+      "alt": "Boats floating in clear water between towering cliffs"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/thailand/krabi-karsts.jpg",
+        "alt": "Limestone karsts rising from the Andaman Sea"
+      },
+      {
+        "src": "/images/destinations/thailand/phuket-bay.jpg",
+        "alt": "A tropical bay in Phuket seen from the hillside"
+      },
+      {
+        "src": "/images/destinations/thailand/phi-phi-viewpoint.jpg",
+        "alt": "Phi Phi Don's twin bays from the viewpoint"
+      },
+      {
+        "src": "/images/destinations/thailand/wat-pho.jpg",
+        "alt": "Ornate tiled stupas at Wat Pho in Bangkok"
+      },
+      {
+        "src": "/images/destinations/thailand/wat-arun-sunset.jpg",
+        "alt": "The spire of Wat Arun against a colourful sunset"
+      }
+    ]
+  },
+  "highlights": [
+    "Coral Island tour from Pattaya",
+    "Pattaya city tour and Gem Gallery",
+    "3 nights each in Pattaya and Bangkok",
+    "Free days for Safari World or tuk-tuk adventures"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Bangkok – Transfer to Pattaya Hotel",
+      "description": "First you arrive at Bangkok. After custom clearance, visa processing and baggage claim, Local Tour representative will transfer you to Pattaya. Enjoy outside views. Check in at the hotel and relax. Rest of the day is at leisure. In the evening, you can go for self strolls in the nearby areas or can opt for Alcazar Show (at an extra cost). It is a world famous cabaret with vibrant light and sound system, beautiful stage design, enticing dance performances and extravagant costumes. Return to hotel afterwards.",
+      "overnight": "Pattaya"
+    },
+    {
+      "day": 2,
+      "title": "Pattaya (Coral Island Tour)",
+      "description": "Have a fill at morning breakfast at hotel and set out for a thrill filled tour to Coral Island. A few miles off coast Pattaya, Coral Island or Koh Larn is the most famous attraction for visitors of Pattaya. Laze off on white sandy beach basking in the sun or go for deep sea or scuba diving to explore the beautiful and extensive corals. Enjoy snorkeling in crystal clear sea waters and indulge in adventurous water sports like parasailing, water-skiing, etc. Later, return to hotel and relax or go to visit the famous Floating Market of Pattaya.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Pattaya"
+    },
+    {
+      "day": 3,
+      "title": "Pattaya (Day free for Leisure)",
+      "description": "After a morning bed tea, refresh and recharge yourself with a fill at breakfast. The day is free at your own leisure. Laze on Pattaya beaches, go for some shopping or self exploration or else, you can opt for some local sightseeing tour (at an additional cost) like Nong Nooch Village Tour or Sri Racha Tiger Zoo. Later return to your hotel and relax. This being your last night in Pattaya, you can also go for exploring the raving nightlife of Pattaya.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Pattaya"
+    },
+    {
+      "day": 4,
+      "title": "Pattaya (City tour) – Transfer to Bangkok",
+      "description": "Have your fill at morning breakfast at the hotel, pack your bags and check out from the hotel. Today we drive back to Bangkok. En-route we take a panoramic city tour of Pattaya and visit World’s biggest Gem Gallery. Check-in at the Bangkok hotel and relax. In the evening, you can head out to explore the city’s famous nightlife or you could opt for Chao Phraya River Dinner Cruise (on an extra cost). It is a beautiful tour offering amazing night views of Thailand's historical landmarks like Grand Palace, Temple of the Emerald Buddha, Wat Arun (Temple of the Dawn), the Rama 8 Bridge, etc. Cruise leisurely along the river, seeing dramatic sights and enjoying an elaborate dining and wining along with live entertainment. Post tour, return to the hotel and sleep peacefully.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Bangkok"
+    },
+    {
+      "day": 5,
+      "title": "Bangkok (Day Free for Leisure)",
+      "description": "Wake up to a vibrant morning in the land of unlimited delights and recharge with morning breakfast. Today is free at your own leisure. Explore the city attractions on your own, visit its world class malls, enjoy a tuk tuk ride or catch up on shopping deals in Bangkok’s exciting street markets. Oh! How can you forget about gorging on some lip smacking local Thai food?!! You could also opt for some sightseeing tour (on an extra cost).",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Bangkok"
+    },
+    {
+      "day": 6,
+      "title": "Bangkok (Day Free for Leisure)",
+      "description": "Enjoy a lazy morning followed by a bed tea. The day is free at your own leisure. Catch on some relaxed sleep after having your morning breakfast or go out to explore the city in your own way. With kids, you can opt for some theme park like Safari World & Marine Park or Siam Park City Tour. You could go out for some more shopping as Bangkok has loads to offer at lucrative prices. Did you not see the Thai temples here? Don’t miss! And while you have purified the soul in morning at the enchanting temples, its time to visit the sinful city post sunset! Later return to hotel for a good sleep.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Bangkok"
+    },
+    {
+      "day": 7,
+      "title": "Bangkok (Departure)",
+      "description": "Pack your bags, have a fill at morning breakfast and check out from the hotel (as per hotel’s check out timing). Grab onto some shopping deals before returning (as per your flight timing). Today we transfer you to the Bangkok Airport for your flight back home.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "3 Nights Accommodation in Pattaya",
+    "3 Nights Accommodation in Bangkok",
+    "6 Buffet Breakfast at Hotel",
+    "Coral Island tour (max 4 hours)(Not valid for Senior Citizens)",
+    "Pattaya City tour (max 3 hours)",
+    "Airport Transfers from / to Suvarnabhumi Airport on Seat In Coach (shared) Basis",
+    "All Hotel taxes"
+  ],
+  "exclusions": [
+    "Airfare",
+    "You will need to Pay Rs. 1,000/- per person (Extra), If your transfer timings are not between 7 AM - 6 PM",
+    "On Arrival Visa fee of 2000 Thai baht (to be Paid directly by the Guest at Thailand airport) OR Visa fee from India Rs. 4,000/- (per person) Extra",
+    "Travel Insurance(Strongly recommended for Senior Citizens)",
+    "Any service not mentioned in the inclusions",
+    "Hotel Surcharge (as Applicable) to be Paid Extra.(During Peak & Super Peak Season)"
+  ],
+  "seo": {
+    "title": "Explore Thailand – 6N/7D Thailand Package",
+    "description": "Take a break from your routine life and set foot on Asia’s most fun-filled land- Thailand. Visit Pattaya, an exotic beach constantly brimming with life."
+  },
+  "featured": true,
+  "showOnHome": true,
+  "displayOrder": 5
+}

@@ -1,0 +1,136 @@
+{
+  "title": "Fun Filled Singapore",
+  "shortDescription": "Singapore is one of the most impressive and perfectly maintained countries in the world.",
+  "description": [
+    "Singapore is one of the most impressive and perfectly maintained countries in the world. With a very amicable and friendly atmosphere, cosmopolitan lifestyle, and lots and lots of wonderful attractions to see in such a small country makes it one of the most favourable options for Asian tourists.",
+    "Singapore should definitely be visited with your companions being family, friends, beloved, kids or even solo. Spend your days in your most preferred way and have one of the best holiday times in Singapore."
+  ],
+  "duration": {
+    "nights": 5,
+    "days": 6
+  },
+  "route": [
+    {
+      "city": "Singapore",
+      "nights": 5
+    }
+  ],
+  "badges": [
+    "Family"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/singapore/merlion.jpg",
+      "alt": "The Merlion fountain in front of Singapore's skyline"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/singapore/hero.jpg",
+        "alt": "Marina Bay Sands and Gardens by the Bay lit up at blue hour"
+      },
+      {
+        "src": "/images/destinations/singapore/card.jpg",
+        "alt": "Aerial view of Marina Bay Sands and the ArtScience Museum"
+      },
+      {
+        "src": "/images/destinations/singapore/supertree-walkway.jpg",
+        "alt": "Visitors on the OCBC Skyway among the Supertrees"
+      },
+      {
+        "src": "/images/destinations/singapore/supertrees.jpg",
+        "alt": "The Supertree Grove at Gardens by the Bay"
+      },
+      {
+        "src": "/images/destinations/singapore/supertrees-night.jpg",
+        "alt": "The Supertrees glowing at night, seen from above"
+      }
+    ]
+  },
+  "highlights": [
+    "5 nights in Singapore with breakfast",
+    "City tour: Orchard Road, Chinatown and Merlion Park",
+    "Free days for Universal Studios, Sentosa or the Night Safari",
+    "Shared transfers throughout"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive – Singapore – Evening Free for Leisure",
+      "description": "On arrival at Airport, meet our local tour representative at specified area and get transferred to the hotel. Sit back in the coach and enjoy the glances of the beautiful city. Arrive at your hotel and check-in as per hotel’s policy (Standard Check-in time: 1400-1500 hours). Rest of the day is at your own leisure. You can go out for self exploring the city attractions or you can also opt for visiting the beautiful Gardens by the Bay (at an extra cost). Spanning across an area of 101 hectares, Gardens by the Bay is home to over 380,000 plants from all over the world. These plants are housed in two climate-controlled indoor conservatories- the Flower Dome and the Cloud Forest. You must see the awe striking Supertrees, the amazing vertical gardens. The tops of these supertrees are connected by an aerial walkway which is another delight to experience. You can enjoy panoramic views of Marina Bay skyline from here. The Cloud Forest boasts of the world’s highest Indoor Waterfall showcasing exotic fauna. Later return to hotel and have a good night’s sleep.",
+      "overnight": "Singapore"
+    },
+    {
+      "day": 2,
+      "title": "Singapore City tour – Evening Free for Leisure",
+      "description": "Today morning after breakfast at hotel, proceed for Singapore City tour. See the glamorous Orchard Road with its wall to wall showrooms of best brands. Visit China Town’s grand Buddha Tooth relic Temple and Hindu shrines adorned with flowers. Further take a photo stop at Singapore’s major landmark- Marina Bay. Witness the sheer exuberance of Marina Bay Sands, Esplanade and Merlion- the iconic attractions of Singapore. Rest of the day is at your own leisure. Take a stroll through the city streets in the evening or you can opt to visit Singapore Night Safari (at an extra cost). It is world’s first nocturnal zoo renowned for its unique breeding and research methods. Witness varied species of animals in their natural environment and get close to them via joy tram ride passing through the night zoo. Later return to the hotel and sleep relaxed.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 3,
+      "title": "Full day Free for Leisure",
+      "description": "Wake up to a vibrant morning with an unmatched happiness of being on holiday in a destination as exciting as Singapore. The day calls for your own plans. You can go for self exploration of the city or you can opt to go for an exciting day with Universal Studios Singapore™ tour (at an extra cost). Visit to South East Asia’s first Hollywood movie theme park with seven zones including: Jurassic Park, Shrek, Sci-Fi City, New York, Hollywood, Madagascar & Ancient Egypt. Universal Studios is a fantastic world of movie magic. With numerous rides and attractions based on Hollywood blockbusters, it is a great day out for all ages. Later return to hotel and retire to sleep.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 4,
+      "title": "Full day Free for Leisure",
+      "description": "Take a fill at morning breakfast and plan out the action of your day. Today the full day being at leisure, you can take rest in the room for some more time & later go out for shopping in the nearby markets or you may self explore the city attractions. In the evening, you can also opt for a ride on Singapore Flyer (at an extra cost). Singapore Flyer is the highest observatory wheel in the world and provides a beautiful bird’s eye view of the city from notable heights in a luxurious glass cubicle.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 5,
+      "title": "Full day Free for Leisure",
+      "description": "Wake up to a bright and beautiful morning in the vibrant city. Enjoy a relaxed bed tea as the day is at leisure. After having your morning breakfast, rest of the day is at your own leisure. We suggest you to take an Optional tour- Sentosa Island tour (at an extra cost). Enjoy a visit to Asia's Favourite Playground Sentosa Island and get involved in numerous fun activities like- Wings of Time, Trickeye Museum, 4D AdventureLand, Two way Cable Car ride & S.E.A. Aquarium. Discover these mesmerising attractions and after an eventful day, return to your hotel.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 6,
+      "title": "Singapore – Departure",
+      "description": "Enjoy a relaxed morning as the day calls for leisure. After a fill at morning breakfast, pack your bags and check out from the hotel. Today your vacation at Singapore ends. You have got the last day at leisure before returning back to India, so make the most of it. Singapore is one of the most vibrant shopping hubs in Asia with numerous shopping centers. After spending the day on your own pace, catch your transfer to airport from the hotel lobby for your return flight to Delhi. We hope you had a great time in Singapore.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "5 Nights Accommodation in Singapore",
+    "5 Buffet Breakfast at Hotel (Kindly check the Timings & Venue from the Hotel)",
+    "Singapore City tour (Approx. 3 Hours)",
+    "All tours & transfers on Seat in Coach (Shared) basis",
+    "All Hotel taxes & Service charges",
+    "GST",
+    "1 Time Pick-up & Delivery"
+  ],
+  "exclusions": [
+    "Airfare",
+    "Visa Fees",
+    "Extra Cost (as Applicable) to be paid for Early Check-in & Late Check-out, if required by the guests",
+    "Any Services not mentioned in the Inclusions",
+    "Mandatory Overseas Travel Insurance is required (with Minimum coverage of USD 25000)",
+    "Any expenses of personal nature such as- tip to drivers / guides / representative, laundry expenses, wines, mineral water, food and drinks not in the regular menus provided by us",
+    "Surcharges (if Any)",
+    "TCS* 5% will be applicable on the total package cost",
+    "Tax Collected at Source is the tax payable by a seller which he collects from the buyer at the time of sale",
+    "With a view to widen the tax-net, the Indian Govt. (vide the Finance Act, 2020) has extended the scope of Tax Collected at Source (“TCS”) provided under Section 206C of the Income-tax Act, 1961",
+    "Door Step pick up or delivery of Documents & Payment - Rs. 500/- Per Visit (Collection charges)"
+  ],
+  "seo": {
+    "title": "Fun Filled Singapore – 5N/6D Singapore Package",
+    "description": "Singapore is one of the most impressive and perfectly maintained countries in the world."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 1
+}

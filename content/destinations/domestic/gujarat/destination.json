@@ -1,0 +1,64 @@
+{
+  "title": "Gujarat",
+  "region": "Western India",
+  "tagline": "Temple towns, lions and the white desert",
+  "description": [
+    "Gujarat folds faith, history and wilderness into a single journey. Pray at the sacred shrines of Dwarka and Somnath on the Arabian Sea, walk through Mahatma Gandhi's birthplace in Porbandar and his ashram on the Sabarmati, and step back 4,500 years at the Harappan port of Lothal.",
+    "Inland, Sasan Gir is the last home of the Asiatic lion, while the palaces of Gondal and Rajkot, the stepwells around Ahmedabad and the endless white salt flats of the Rann of Kutch show a state rich in craft, colour and quiet grandeur."
+  ],
+  "heroImage": {
+    "src": "/images/destinations/gujarat/hero.jpg",
+    "alt": "A decorated camel cart crossing the white salt desert of the Rann of Kutch",
+    "focal": "50% 60%"
+  },
+  "cardImage": {
+    "src": "/images/destinations/gujarat/card.jpg",
+    "alt": "Intricately carved pillars of the Modhera Sun Temple"
+  },
+  "gallery": [
+    { "src": "/images/destinations/gujarat/gir-lion.jpg", "alt": "An Asiatic lion roaring in Gir National Park" },
+    { "src": "/images/destinations/gujarat/sun-temple-kund.jpg", "alt": "The Modhera Sun Temple and its stepped tank reflected in water" },
+    { "src": "/images/destinations/gujarat/temple-spire.jpg", "alt": "The towering carved spire of a temple in Gujarat" },
+    { "src": "/images/destinations/gujarat/rann-camels.jpg", "alt": "Colourfully decorated camels on the white Rann of Kutch" },
+    { "src": "/images/destinations/gujarat/palace.jpg", "alt": "The ornate sandstone facade of a royal palace in Gujarat" },
+    { "src": "/images/destinations/gujarat/white-rann.jpg", "alt": "Travellers walking across the endless white salt flats of the Rann" },
+    { "src": "/images/destinations/gujarat/statue-of-unity.jpg", "alt": "The Statue of Unity rising above the Narmada valley" },
+    { "src": "/images/destinations/gujarat/temple-carvings.jpg", "alt": "Ornate sandstone carvings of a Gujarat temple against a blue sky" },
+    { "src": "/images/destinations/gujarat/gir-lion-resting.jpg", "alt": "A maned Asiatic lion resting in the grass at Gir" }
+  ],
+  "highlights": [
+    {
+      "icon": "landmark",
+      "title": "Dwarka & Somnath",
+      "text": "Two of India's holiest shrines on the Saurashtra coast — Dwarkadhish Temple and the first of the twelve Jyotirlingas."
+    },
+    {
+      "icon": "tree",
+      "title": "Lions of Sasan Gir",
+      "text": "Jeep safaris through the only wild home of the Asiatic lion, alongside leopards, deer and over 300 bird species."
+    },
+    {
+      "icon": "compass",
+      "title": "Footsteps of Gandhi",
+      "text": "Kirti Mandir in Porbandar, where the Mahatma was born, and the serene Sabarmati Ashram in Ahmedabad."
+    },
+    {
+      "icon": "sun",
+      "title": "The white Rann of Kutch",
+      "text": "A shimmering salt desert that stretches to the horizon — magical under a full moon during the Rann Utsav."
+    }
+  ],
+  "quickFacts": {
+    "bestTime": "October – March (Gir closed mid-June to mid-October)",
+    "idealDuration": "4 – 6 days",
+    "language": "Gujarati, Hindi, English",
+    "currency": "Indian Rupee (₹)"
+  },
+  "seo": {
+    "title": "Gujarat Tour Packages — Dwarka, Somnath & Gir",
+    "description": "Gujarat holiday packages covering Dwarka, Somnath, Porbandar, Sasan Gir lion safaris and Ahmedabad. Expert-planned road trips by Journey Boom."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 8
+}

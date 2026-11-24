@@ -1,0 +1,64 @@
+{
+  "title": "Thailand",
+  "region": "Bangkok · Pattaya · Phuket",
+  "tagline": "Temples, islands and the best street food in Asia",
+  "description": [
+    "Thailand is the easiest big holiday from India — a short flight away and endlessly fun. Bangkok dazzles with the golden spires of the Grand Palace and Wat Arun, floating markets, rooftop bars and world-class shopping malls.",
+    "On the coast, Pattaya's Coral Island offers white sand and water sports, while Phuket opens the door to limestone islands, turquoise lagoons and long beach days. Add smiling hospitality and unbeatable value, and it's no wonder travellers return again and again."
+  ],
+  "heroImage": {
+    "src": "/images/destinations/thailand/hero.jpg",
+    "alt": "Turquoise lagoon framed by limestone cliffs in the Phi Phi Islands",
+    "focal": "50% 50%"
+  },
+  "cardImage": {
+    "src": "/images/destinations/thailand/card.jpg",
+    "alt": "Wat Arun on the banks of the Chao Phraya River in Bangkok"
+  },
+  "gallery": [
+    { "src": "/images/destinations/thailand/grand-palace.jpg", "alt": "The golden chedi of the Grand Palace in Bangkok" },
+    { "src": "/images/destinations/thailand/longtail-boats.jpg", "alt": "Longtail boats anchored near a limestone island" },
+    { "src": "/images/destinations/thailand/pattaya-bay.jpg", "alt": "Boats dotting the bay off Pattaya" },
+    { "src": "/images/destinations/thailand/wat-pho.jpg", "alt": "Ornate tiled stupas at Wat Pho in Bangkok" },
+    { "src": "/images/destinations/thailand/phi-phi-viewpoint.jpg", "alt": "Phi Phi Don's twin bays from the viewpoint" },
+    { "src": "/images/destinations/thailand/pattaya-temple.jpg", "alt": "A dragon-lined staircase leading to a golden Buddha in Pattaya" },
+    { "src": "/images/destinations/thailand/krabi-karsts.jpg", "alt": "Limestone karsts rising from the Andaman Sea" },
+    { "src": "/images/destinations/thailand/wat-arun-sunset.jpg", "alt": "The spire of Wat Arun against a colourful sunset" },
+    { "src": "/images/destinations/thailand/maya-bay.jpg", "alt": "Boats floating in clear water between towering cliffs" }
+  ],
+  "highlights": [
+    {
+      "icon": "landmark",
+      "title": "Bangkok's temples",
+      "text": "The Grand Palace, the Reclining Buddha at Wat Pho and Wat Arun glowing at sunset on the river."
+    },
+    {
+      "icon": "waves",
+      "title": "Coral Island, Pattaya",
+      "text": "A speedboat hop to Koh Larn's white beaches for parasailing, snorkelling and sea walks."
+    },
+    {
+      "icon": "ship",
+      "title": "Phuket & the islands",
+      "text": "Turquoise lagoons, limestone cliffs and long beaches around Phuket and the Phi Phi Islands."
+    },
+    {
+      "icon": "shopping",
+      "title": "Shopping & street food",
+      "text": "Night markets, mega malls and street-side pad thai — Bangkok is a shopper's and foodie's dream."
+    }
+  ],
+  "quickFacts": {
+    "bestTime": "November – March",
+    "idealDuration": "4 – 7 days",
+    "language": "Thai, English widely spoken",
+    "currency": "Thai Baht (THB)"
+  },
+  "seo": {
+    "title": "Thailand Tour Packages — Bangkok, Pattaya & Phuket",
+    "description": "Thailand holiday packages from India covering Bangkok, Pattaya, Coral Island and Phuket, with flight-inclusive options. Planned by Journey Boom."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 2
+}

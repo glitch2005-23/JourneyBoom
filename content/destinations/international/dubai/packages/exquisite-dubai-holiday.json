@@ -1,0 +1,138 @@
+{
+  "title": "Exquisite Dubai Holiday",
+  "shortDescription": "Five relaxed nights in Dubai with the city's essential experiences and plenty of free time. Your holiday includes a Marina dhow cruise with dinner, a half-day city tour and a desert safari with dinner.",
+  "description": [
+    "Five relaxed nights in Dubai with the city's essential experiences and plenty of free time. Your holiday includes a Marina dhow cruise with dinner, a half-day city tour and a desert safari with dinner.",
+    "Two free days let you shop the malls and souks, visit a theme park or simply enjoy the pool — ideal for families who like to set their own pace."
+  ],
+  "duration": {
+    "nights": 5,
+    "days": 6
+  },
+  "route": [
+    {
+      "city": "Dubai",
+      "nights": 5
+    }
+  ],
+  "badges": [
+    "Family",
+    "Best price"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/dubai/card.jpg",
+      "alt": "The Burj Khalifa silhouetted against a pink sunset sky"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/dubai/hero.jpg",
+        "alt": "Downtown Dubai and the Burj Khalifa glowing in golden evening light"
+      },
+      {
+        "src": "/images/destinations/dubai/camels.jpg",
+        "alt": "Camels in traditional saddles resting on desert sand"
+      },
+      {
+        "src": "/images/destinations/dubai/dune-drive.jpg",
+        "alt": "A 4x4 crossing rolling red dunes on a desert safari"
+      },
+      {
+        "src": "/images/destinations/dubai/buggies.jpg",
+        "alt": "Dune buggies racing across the Dubai desert"
+      },
+      {
+        "src": "/images/destinations/dubai/marina.jpg",
+        "alt": "Skyscrapers along the curving waterway of Dubai Marina"
+      }
+    ]
+  },
+  "highlights": [
+    "5 nights in Dubai with breakfast",
+    "Marina dhow cruise with dinner",
+    "Half-day Dubai city tour",
+    "Desert safari with dinner",
+    "Two free days for shopping or theme parks"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Dubai (Arrival) Marina Dhow Cruise in evening",
+      "description": "Welcome to the city of glitz, Dubai! On arrival, clear customs and immigration, collect your baggage and exit the airport. Our tour operator will meet you there for your transfer to the hotel. After check in, you can relax in your room for a while and remove jet lag. Evening is going to be luxuriously romantic on a Dhow Cruise. It is a traditional wooden boat that glides along the Dubai creek under starlit sky while a sumptuous dinner is served to you in true Arabic hospitality. Savour the delicacies and spend some cosy moments with your partner. Return to hotel afterwards.",
+      "overnight": "Dubai"
+    },
+    {
+      "day": 2,
+      "title": "Half day City tour",
+      "description": "This morning, after having breakfast at the hotel, we proceed for a half day city tour of Dubai. The city is a perfect blend of vibrant cosmopolitan life and age old culture and heritage. We first visit the most famous landmark of Dubai, Burj Al Arab Hotel. Take loads of pictured from different angles in-front of this world famous luxury hotel. We’ll also visit Jumeirah, the spectacular palace of Dubai where we will visit the renowned Jumeirah Mosque. We then go to see Dubai’s age old culture at Al Fahidi Fort, home to Dubai’s famous museum. There are several other attractions also that we would witness while on the tour. In the evening, you can go for a self exploration of the glistening city. Just a stroll would give you a good experience of flamboyance of the city. Indulge in some local Arabic cuisine on your way back to the hotel.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Dubai"
+    },
+    {
+      "day": 3,
+      "title": "Desert Safari in evening",
+      "description": "Laze off in your bed as you have a relaxed morning today. Freshen up and enjoy the breakfast. Day is free for your own leisure. You can opt for some tour or you can go shopping. Dubai is famous for its extensive-n-expensive malls with all the latest fashion, designs and technology, teeming with top brands and addictive designer boutiques. You could also opt to go to the traditional markets called souks. It will be a nice experience altogether in the traditional lanes of trade. Evening is for the exciting Desert Safari, the biggest attraction of Dubai. Get aboard an exciting dune drive across the desert. Witness the beautiful sunset over sand dunes, enjoy camel ride and sand boarding. Camel ride in the desert is not that easy and it will make you hungry too! So then we enjoy delicious barbecue dinner and shisha (the famous Arabic water pipe). Relax and enjoy the amazing belly dance show by the campfire. Return back to hotel after an awesome day.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Dubai"
+    },
+    {
+      "day": 4,
+      "title": "Day Free for Leisure",
+      "description": "Nothing beats a relaxed morning, lazy breakfast and a free day! Do what your heart pleases. The shopping scene in Dubai is arguably the most famous in the world. Spend the day at the Dubai Mall or Mall of the Emirates or head to the famous souks to quench your retail therapy desires and indulge in the food adventures available at every nook and cranny in this marvelous city. Once you have shopped to your heart’s desire, you may head straight to the Dubai Fountains for the evening light show. Return to hotel by night.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Dubai"
+    },
+    {
+      "day": 5,
+      "title": "Day Free for Leisure",
+      "description": "Nothing is lovelier than a lazy morning. After all it’s a holiday and sleeping till late is an important part of a holiday right?! But Dubai is so full of wonderful offerings that sleeping might take a back seat. Wake up to a bright and beautiful morning in the vibrant city. Enjoy a relaxed bed tea as the day is at leisure. After having your morning breakfast, rest of the day is at your own leisure. We suggest you to take an Optional tour (at an extra cost). You can spend the day your way and return to hotel at night.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Dubai"
+    },
+    {
+      "day": 6,
+      "title": "Dubai (Departure)",
+      "description": "After having a fill at the breakfast, pack your bags and check out from the hotel. Bid byes to the flamboyant city & take transfer to the airport for your return flight.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "5 Nights Accommodation (on twin sharing basis)",
+    "5 Buffet Breakfast at Hotel (Kindly check the Timings & Venue from the Hotel)",
+    "Marina Dhow Cruise with Dinner",
+    "Half day Dubai City tour",
+    "Desert Safari with Dinner",
+    "Return Airport transfers",
+    "All tours & transfers on Seat in Coach (Shared) basis",
+    "GST"
+  ],
+  "exclusions": [
+    "Airfare",
+    "Visa Charges",
+    "Passenger travelling to Dubai must carry at least 3000 AED (per person) or equivalent US $ with Bill",
+    "Medical Travel Insurance (Note: It is Mandatory for all the Passengers)",
+    "Any service not mentioned in the inclusions",
+    "Surcharges (if Any)",
+    "Tourism Dirham (hotel tax) to be paid by the guest directly at hotel at the time of Checkout",
+    "TCS* 5% will be applicable on the total package cost",
+    "Tax Collected at Source is the tax payable by a seller which he collects from the buyer at the time of sale",
+    "With a view to widen the tax-net, the Indian Govt. (vide the Finance Act, 2020) has extended the scope of Tax Collected at Source (“TCS”) provided under Section 206C of the Income-tax Act, 1961"
+  ],
+  "seo": {
+    "title": "Exquisite Dubai Holiday – 5N/6D Dubai Package",
+    "description": "Five relaxed nights in Dubai with the city's essential experiences and plenty of free time. Your holiday includes a Marina dhow cruise with dinner, a…"
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 11
+}

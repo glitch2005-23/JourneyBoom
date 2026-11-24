@@ -1,0 +1,64 @@
+{
+  "title": "Rajasthan",
+  "region": "The Land of Kings · North-West India",
+  "tagline": "Forts, palaces and desert nights",
+  "description": [
+    "No place in India wears its history as grandly as Rajasthan. Hilltop forts guard every city — Amber above Jaipur, Mehrangarh over the blue houses of Jodhpur, the golden citadel of Jaisalmer rising from the Thar Desert — and palaces seem to float on the lakes of Udaipur.",
+    "Between them lie holy Pushkar, the havelis of Bikaner, tigers in Ranthambhore and nights under the stars at the Sam sand dunes, with camel rides, folk music and some of the country's richest food and crafts along the way."
+  ],
+  "heroImage": {
+    "src": "/images/destinations/rajasthan/hero.jpg",
+    "alt": "Udaipur's City Palace on the banks of Lake Pichola at golden hour",
+    "focal": "50% 55%"
+  },
+  "cardImage": {
+    "src": "/images/destinations/rajasthan/card.jpg",
+    "alt": "Decorated horses passing the pink facade of Hawa Mahal in Jaipur"
+  },
+  "gallery": [
+    { "src": "/images/destinations/rajasthan/jaisalmer-fort.jpg", "alt": "Birds circling the golden sandstone walls of Jaisalmer Fort" },
+    { "src": "/images/destinations/rajasthan/camel-sunset.jpg", "alt": "A camel rider silhouetted against a desert sunset" },
+    { "src": "/images/destinations/rajasthan/hawa-mahal.jpg", "alt": "The honeycomb pink facade of Hawa Mahal in Jaipur" },
+    { "src": "/images/destinations/rajasthan/jodhpur-blue-city.jpg", "alt": "The blue houses of Jodhpur's old city" },
+    { "src": "/images/destinations/rajasthan/lake-pichola.jpg", "alt": "Lake Pichola and the palaces of Udaipur from above" },
+    { "src": "/images/destinations/rajasthan/amber-fort.jpg", "alt": "The zigzagging ramparts of Amber Fort near Jaipur" },
+    { "src": "/images/destinations/rajasthan/desert-camels.jpg", "alt": "Camels resting on the golden dunes of the Thar Desert" },
+    { "src": "/images/destinations/rajasthan/mehrangarh-fort.jpg", "alt": "Mehrangarh Fort on its rocky hill above Jodhpur" },
+    { "src": "/images/destinations/rajasthan/jaisalmer-havelis.jpg", "alt": "Carved sandstone havelis lining a lane in Jaisalmer" }
+  ],
+  "highlights": [
+    {
+      "icon": "landmark",
+      "title": "Forts of the desert kings",
+      "text": "Amber, Mehrangarh, Junagarh and the living fort of Jaisalmer — still home to thousands of residents."
+    },
+    {
+      "icon": "ship",
+      "title": "Udaipur's lake palaces",
+      "text": "The City Palace and Jag Mandir, best seen from a boat on Lake Pichola as the sun goes down."
+    },
+    {
+      "icon": "sun",
+      "title": "Thar Desert nights",
+      "text": "Camel rides, folk dances and tent stays on the Sam sand dunes outside Jaisalmer."
+    },
+    {
+      "icon": "shopping",
+      "title": "Bazaars & crafts",
+      "text": "Block prints, blue pottery, mirror work and silver in the colourful markets of Jaipur and Jodhpur."
+    }
+  ],
+  "quickFacts": {
+    "bestTime": "October – March",
+    "idealDuration": "6 – 10 days",
+    "language": "Hindi, Rajasthani, English",
+    "currency": "Indian Rupee (₹)"
+  },
+  "seo": {
+    "title": "Rajasthan Tour Packages — Jaipur, Udaipur & Jaisalmer",
+    "description": "Rajasthan holiday packages covering Jaipur, Jodhpur, Jaisalmer, Udaipur, Pushkar and Bikaner, with desert camps and flight options. By Journey Boom."
+  },
+  "featured": true,
+  "showOnHome": true,
+  "displayOrder": 3
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Ladakh",
+  "region": "Leh · Union Territory of Ladakh",
+  "tagline": "High passes, blue lakes and ancient monasteries",
+  "description": [
+    "Ladakh is the Himalaya at its most dramatic: a high-altitude desert of ochre mountains, snow-dusted passes and lakes of impossible blue. Whitewashed monasteries cling to the cliffs at Thiksey, Hemis and Lamayuru, prayer flags snap in the wind, and the pace of life follows the seasons.",
+    "From Leh, cross Khardung La into the Nubra Valley to ride Bactrian camels on the dunes of Hunder, visit the border village of Turtuk, and spend a night beside Pangong Lake as it changes colour with the light — a road trip every traveller should make once."
+  ],
+  "heroImage": {
+    "src": "/images/destinations/ladakh/hero.jpg",
+    "alt": "The turquoise waters of Pangong Lake beneath barren Himalayan mountains",
+    "focal": "50% 55%"
+  },
+  "cardImage": {
+    "src": "/images/destinations/ladakh/card.jpg",
+    "alt": "Leh town spread beneath snow-capped peaks"
+  },
+  "gallery": [
+    { "src": "/images/destinations/ladakh/thiksey-monastery.jpg", "alt": "Thiksey Monastery rising in tiers up a hillside" },
+    { "src": "/images/destinations/ladakh/pangong-mirror.jpg", "alt": "Mountains mirrored in the still surface of Pangong Lake" },
+    { "src": "/images/destinations/ladakh/monks.jpg", "alt": "Young monks on the steps of a monastery in Ladakh" },
+    { "src": "/images/destinations/ladakh/mountain-highway.jpg", "alt": "A Himalayan highway leading towards snowy mountains in Ladakh" },
+    { "src": "/images/destinations/ladakh/stupa.jpg", "alt": "A whitewashed Buddhist stupa on a rocky slope in Ladakh" },
+    { "src": "/images/destinations/ladakh/biker.jpg", "alt": "A motorcyclist riding an empty mountain road in Ladakh" },
+    { "src": "/images/destinations/ladakh/pangong-shore.jpg", "alt": "Travellers on the shore of Pangong Lake" },
+    { "src": "/images/destinations/ladakh/snow-peaks.jpg", "alt": "Snow-covered peaks above a green Ladakh valley" },
+    { "src": "/images/destinations/ladakh/hilltop-monastery.jpg", "alt": "A Ladakhi monastery perched on a ridge" }
+  ],
+  "highlights": [
+    {
+      "icon": "waves",
+      "title": "Pangong Lake",
+      "text": "A 134 km-long lake at 4,350 m that shifts from turquoise to sapphire through the day — unforgettable at sunrise."
+    },
+    {
+      "icon": "mountain",
+      "title": "Khardung La & Nubra",
+      "text": "Cross one of the world's highest motorable passes to sand dunes, Bactrian camels and the village of Turtuk."
+    },
+    {
+      "icon": "landmark",
+      "title": "Monasteries of the Indus",
+      "text": "Hemis, Thiksey, Shey and Lamayuru — centuries-old gompas with murals, prayer halls and sweeping views."
+    },
+    {
+      "icon": "compass",
+      "title": "Leh's old town",
+      "text": "Leh Palace, Shanti Stupa at sunset and the lively main bazaar, plus Rancho's school from '3 Idiots'."
+    }
+  ],
+  "quickFacts": {
+    "bestTime": "May – September",
+    "idealDuration": "6 – 9 days",
+    "language": "Ladakhi, Hindi, English",
+    "currency": "Indian Rupee (₹)"
+  },
+  "seo": {
+    "title": "Leh Ladakh Tour Packages — Nubra & Pangong",
+    "description": "Leh Ladakh holiday packages with Khardung La, Nubra Valley, Turtuk, Pangong Lake, Kargil and monastery tours. Plan your Himalayan road trip with Journey Boom."
+  },
+  "featured": true,
+  "showOnHome": true,
+  "displayOrder": 4
+}

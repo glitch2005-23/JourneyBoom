@@ -38,12 +38,15 @@ export const packageSchema = z
     title: nonEmpty,
     shortDescription: nonEmpty.max(220, "Keep the short description under 220 characters"),
     description: paragraphsSchema,
-    price: z.strictObject({
-      amount: z.number().positive(),
-      originalAmount: z.number().positive().optional(),
-      basis: nonEmpty.default("per person"),
-      note: nonEmpty.optional(),
-    }),
+    /** Optional — without a price the site shows "Click to enquire" instead. */
+    price: z
+      .strictObject({
+        amount: z.number().positive(),
+        originalAmount: z.number().positive().optional(),
+        basis: nonEmpty.default("per person"),
+        note: nonEmpty.optional(),
+      })
+      .optional(),
     duration: z.strictObject({
       nights: z.number().int().nonnegative(),
       days: z.number().int().positive(),
@@ -57,7 +60,8 @@ export const packageSchema = z
       gallery: z.array(imageSchema).default([]),
     }),
     highlights: z.array(nonEmpty).min(1),
-    itinerary: z.array(itineraryDaySchema).min(1),
+    /** Optional — without days the page shows "Itinerary coming soon" plus the destination's highlights. */
+    itinerary: z.array(itineraryDaySchema).default([]),
     inclusions: z.array(nonEmpty).min(1),
     exclusions: z.array(nonEmpty).default([]),
     knowBeforeYouGo: z.array(nonEmpty).default([]),
@@ -78,7 +82,7 @@ export const packageSchema = z
         message: `${pkg.duration.nights} nights usually means ${pkg.duration.nights + 1} days`,
       });
     }
-    if (pkg.price.originalAmount !== undefined && pkg.price.originalAmount <= pkg.price.amount) {
+    if (pkg.price?.originalAmount !== undefined && pkg.price.originalAmount <= pkg.price.amount) {
       ctx.addIssue({
         code: "custom",
         path: ["price", "originalAmount"],

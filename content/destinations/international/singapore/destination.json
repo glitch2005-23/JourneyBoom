@@ -1,0 +1,64 @@
+{
+  "title": "Singapore",
+  "region": "Republic of Singapore",
+  "tagline": "A garden city of skylines, islands and cruises",
+  "description": [
+    "Singapore packs a world of experiences into one spotless island. Marina Bay's skyline glitters by night, the Supertrees of Gardens by the Bay glow above lush conservatories, and every neighbourhood — Chinatown, Little India, Orchard Road — has its own flavour and food.",
+    "Spend a day at Universal Studios or on Sentosa's beaches, ride the Night Safari, and add a couple of nights at sea aboard a cruise for a holiday that suits honeymooners and families alike."
+  ],
+  "heroImage": {
+    "src": "/images/destinations/singapore/hero.jpg",
+    "alt": "Marina Bay Sands and Gardens by the Bay lit up at blue hour",
+    "focal": "50% 60%"
+  },
+  "cardImage": {
+    "src": "/images/destinations/singapore/card.jpg",
+    "alt": "Aerial view of Marina Bay Sands and the ArtScience Museum"
+  },
+  "gallery": [
+    { "src": "/images/destinations/singapore/supertrees.jpg", "alt": "The Supertree Grove at Gardens by the Bay" },
+    { "src": "/images/destinations/singapore/merlion.jpg", "alt": "The Merlion fountain in front of Singapore's skyline" },
+    { "src": "/images/destinations/singapore/sentosa-cable-car.jpg", "alt": "Cable cars gliding towards Sentosa Island" },
+    { "src": "/images/destinations/singapore/cloud-forest.jpg", "alt": "Walkways spiralling through the Cloud Forest dome" },
+    { "src": "/images/destinations/singapore/sentosa-beach.jpg", "alt": "Palm trees and umbrellas on a Sentosa beach" },
+    { "src": "/images/destinations/singapore/supertrees-night.jpg", "alt": "The Supertrees glowing at night, seen from above" },
+    { "src": "/images/destinations/singapore/marina-bay-sands-night.jpg", "alt": "Marina Bay Sands with light beams in the night sky" },
+    { "src": "/images/destinations/singapore/supertree-walkway.jpg", "alt": "Visitors on the OCBC Skyway among the Supertrees" },
+    { "src": "/images/destinations/singapore/sentosa-sunset.jpg", "alt": "Palm silhouettes at sunset on Sentosa Island" }
+  ],
+  "highlights": [
+    {
+      "icon": "tree",
+      "title": "Gardens by the Bay",
+      "text": "The Supertree Grove, the Cloud Forest's indoor waterfall and the nightly light-and-music show."
+    },
+    {
+      "icon": "sparkles",
+      "title": "Universal Studios & Sentosa",
+      "text": "Hollywood rides, S.E.A. Aquarium, cable cars and lazy afternoons on Sentosa's beaches."
+    },
+    {
+      "icon": "ship",
+      "title": "Cruise from Singapore",
+      "text": "Two nights at sea with all meals, pools and entertainment on board — an easy add-on to your stay."
+    },
+    {
+      "icon": "utensils",
+      "title": "Hawker food & neighbourhoods",
+      "text": "Chinatown's Buddha Tooth Relic Temple, Little India and Michelin-rated hawker stalls."
+    }
+  ],
+  "quickFacts": {
+    "bestTime": "February – April (pleasant year-round)",
+    "idealDuration": "4 – 6 days",
+    "language": "English, Mandarin, Malay, Tamil",
+    "currency": "Singapore Dollar (SGD)"
+  },
+  "seo": {
+    "title": "Singapore Tour Packages with Cruise from India",
+    "description": "Singapore holiday packages with city tours, Sentosa, Universal Studios and Genting Dream cruises. Family and honeymoon trips by Journey Boom."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 3
+}

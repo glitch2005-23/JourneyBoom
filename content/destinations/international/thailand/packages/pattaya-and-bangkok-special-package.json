@@ -1,0 +1,142 @@
+{
+  "title": "Pattaya & Bangkok Special Package",
+  "shortDescription": "Thailand is one the most visited countries in Asia and is renowned for its charming culture, beautiful sand beaches, Thai culinary delicacies and some amazing tourist attractions.",
+  "description": [
+    "Thailand is one the most visited countries in Asia and is renowned for its charming culture, beautiful sand beaches, Thai culinary delicacies and some amazing tourist attractions. Enjoy the highlights of Thailand and experience Pattaya with Bangkok, the two most vibrant cities of Thailand.",
+    "You will enjoy 3 nights stay in Pattaya and 2 nights stay in Bangkok along with complimentary breakfast. Enjoy a Coral Island tour and Bangkok City tour included in this package. The package also includes Economy Class Return Airfare and All Transfers are on seat in coach basis."
+  ],
+  "duration": {
+    "nights": 5,
+    "days": 6
+  },
+  "route": [
+    {
+      "city": "Pattaya",
+      "nights": 3
+    },
+    {
+      "city": "Bangkok",
+      "nights": 2
+    }
+  ],
+  "badges": [
+    "Flights included",
+    "Group"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/thailand/pattaya-bay.jpg",
+      "alt": "Boats dotting the bay off Pattaya"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/thailand/hero.jpg",
+        "alt": "Turquoise lagoon framed by limestone cliffs in the Phi Phi Islands"
+      },
+      {
+        "src": "/images/destinations/thailand/card.jpg",
+        "alt": "Wat Arun on the banks of the Chao Phraya River in Bangkok"
+      },
+      {
+        "src": "/images/destinations/thailand/phi-phi-cliffs.jpg",
+        "alt": "Boats in a sheltered bay between jungle-clad cliffs"
+      },
+      {
+        "src": "/images/destinations/thailand/longtail-boats.jpg",
+        "alt": "Longtail boats anchored near a limestone island"
+      },
+      {
+        "src": "/images/destinations/thailand/krabi-karsts.jpg",
+        "alt": "Limestone karsts rising from the Andaman Sea"
+      }
+    ]
+  },
+  "highlights": [
+    "Return flights from Delhi on Air India",
+    "Coral Island tour from Pattaya",
+    "Bangkok city tour",
+    "3 nights in Pattaya, 2 in Bangkok",
+    "Daily breakfast"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Bangkok – Transfer to Pattaya",
+      "description": "On your arrival at Bangkok, complete airport formalities including custom clearance, visa processing and baggage claim. Thereafter, meet our Local Tour representative at the specified area mentioned in your vouchers. Board your coach to Pattaya and enjoy outside views on way. On arrival at Pattaya, check in at your hotel (Standard Check in time 1400 - 1500 hours) and relax. Rest of the day is at your own leisure.",
+      "overnight": "Pattaya"
+    },
+    {
+      "day": 2,
+      "title": "Coral Island tour",
+      "description": "Charge yourself with morning breakfast at hotel and set out for an exciting Coral Island tour. A few miles off coast Pattaya, Coral Island or Koh Larn is an exciting place to spend a day on white sandy beach and enjoy water sports. One can explore beautiful and extensive coral while scuba or deep sea diving and enjoy snorkelling in crystal clear sea waters. Laze around on the beach and bask in the sun or get playful and indulge in exciting water sports like parasailing, water-skiing and jet skis. Later return to hotel and relax after an eventful day. In the afternoon you can visit Underwater World Pattaya (at an extra cost), which is one of the largest and most modern ocean aquariums of Asia. It is an indulgent attraction of the city that showcases rich variety of marine life found around the region. Witness the brilliance and diversity of undersea life through a pedestrian tunnel under water bringing you close to more than 4000 marine animals comprising of more than 200 different species.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Pattaya"
+    },
+    {
+      "day": 3,
+      "title": "Pattaya (Day Free for Leisure)",
+      "description": "After a morning bed tea, refresh and recharge yourself with a fill at breakfast. The day is free at your own leisure. Laze on Pattaya beaches, go for some shopping or self exploration or else, you can opt for some local sightseeing tour (at an extra cost). Later return to your hotel and relax. In the evening you can opt to see the Alcazar Show (at an extra cost). It is a world famous cabaret featuring vibrant light and sound system, beautiful stage design, enticing dance performances and extravagant costumes. After the show return to the hotel. This being your last night in Pattaya, you can also go for exploring the raving nightlife of Pattaya.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Pattaya"
+    },
+    {
+      "day": 4,
+      "title": "Transfer from Pattaya to Bangkok & enjoy Bangkok City tour",
+      "description": "Have your fill at morning breakfast at the hotel, pack your bags and check out from the hotel. Today we return back to Bangkok. On arrival, take a City tour and explore the most distinguished landmarks of Bangkok. Later continue the drive to hotel and check in. Rest of the day is at leisure. In the evening, you can opt for Chaophraya Dinner Cruise (at an extra cost). While dining on this stylish luxurious river cruise, enjoy the majestic sights of the historic landmarks of Bangkok along the Chao Phraya River, the most revered river in the Thai Kingdom. Enjoy the romantic atmosphere and capture the beautiful night sceneries and relish delicious spread of dinner. Later return to hotel and retire to a relaxed sleep.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Bangkok"
+    },
+    {
+      "day": 5,
+      "title": "Bangkok (Day Free for Leisure)",
+      "description": "Have a fill at morning breakfast and set out to explore the wonderful city at your own. Visit to Bangkok remains incomplete if you don’t shop! Explore the markets and grab great deals at the local markets or world-class malls for absolutely everything you buy right from trendy clothes and accessories to designer goods and electronic gadgets. If shopping is not that you are looking for, you can choose to have a thrill-filled day at Safari World & Marine Park (at an extra cost). Safari World is Thailand’s greatest open zoo and leisure park that offers loads of thrills and entertainment for all ages. Enjoy a spectacular and nerve-tickling safari drive through African wilderness setting, get close to the most intelligent and friendly marine animal- dolphins, watch the unique tiger & lion feeding show or enjoy other world-class shows. Explore, discover and have loads of fun spending a day with the wonderful creatures. Take a breather before going in to explore other fun activities in the park. Later return to hotel and relax or you can take a drop on the way for shopping. Relish local cuisines and this being your last night of the trip, you may as well explore the famous city nightlife. Return to the hotel afterwards.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Bangkok"
+    },
+    {
+      "day": 6,
+      "title": "Bangkok – Departure",
+      "description": "Pack your bags and have a fill at morning breakfast. Later check out from the hotel & take transfer to the Airport for your flight back home.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "Economy Class Return Airfare (Delhi - Bangkok - Delhi) on Air India",
+    "3 Nights Accommodation in Pattaya",
+    "2 Nights Accommodation in Bangkok",
+    "5 Buffet Breakfast at Hotel (Kindly check the Timings & Venue from the Hotel)",
+    "Coral Island tour (Max. 4 Hours) by Normal boat",
+    "Bangkok City tour",
+    "Airport transfers",
+    "All tours & transfers on Seat in Coach (Shared) basis",
+    "All Hotel taxes & Service charges",
+    "Airport taxes",
+    "GST"
+  ],
+  "exclusions": [
+    "2% TCS will be applicable on the total package cost",
+    "The 60-day visa exemption for Indian ordinary passport holders for tourism and short-term business engagements purposes remains effective until further announcement",
+    "Any Services not mentioned in the Inclusions",
+    "Travel Insurance",
+    "Any expenses of personal nature such as- tip to drivers / guides / representative, laundry expenses, wines, mineral water, food and drinks not in the regular menus provided by us",
+    "Surcharges (if Any)",
+    "Door Step pick up or delivery of Documents & Payment - Rs. 500/- Per Visit (Collection charges)"
+  ],
+  "seo": {
+    "title": "Pattaya & Bangkok Special Package – 5N/6D Thailand Package",
+    "description": "Thailand is one the most visited countries in Asia and is renowned for its charming culture, beautiful sand beaches, Thai culinary delicacies and some…"
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 1
+}

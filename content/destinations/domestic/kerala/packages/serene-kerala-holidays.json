@@ -1,0 +1,108 @@
+{
+  "title": "Serene Kerala Holidays",
+  "shortDescription": "Kerala weaves together culture and nature in a way rarely seen in destinations.",
+  "description": [
+    "Kerala weaves together culture and nature in a way rarely seen in destinations. One second you walk past colonial churches and heritage streets metres from the coast; the next you're in a sea of tea-covered hills, waterfalls and fresh mountain air. A blend of the historical charm from Cochin and the calm locations in Munnar serves you a fair taste of Kerala. You will enjoy gorgeous heritage buildings and beam-filled local marketplaces at a relaxed pace, driving through waterfalls and tea plantations.",
+    "The misty valleys, forest parks and quiet viewpoints offer the right amount of contrast to Cochin's chaos over there. A breathtaking road trip with an exciting hill station itinerary that is perfect for couples, families and nature lovers."
+  ],
+  "duration": {
+    "nights": 3,
+    "days": 4
+  },
+  "route": [
+    {
+      "city": "Munnar",
+      "nights": 2
+    },
+    {
+      "city": "Cochin",
+      "nights": 1
+    }
+  ],
+  "badges": [],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/kerala/munnar-road.jpg",
+      "alt": "A road winding through tea estates in the hills of Munnar"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/kerala/tea-estate.jpg",
+        "alt": "Tea estates rolling across the Western Ghats"
+      },
+      {
+        "src": "/images/destinations/kerala/backwater-houseboats.jpg",
+        "alt": "Houseboats moored along the Kerala backwaters"
+      },
+      {
+        "src": "/images/destinations/kerala/backwaters-aerial.jpg",
+        "alt": "Aerial view of a canoe on a narrow backwater lined with coconut palms"
+      },
+      {
+        "src": "/images/destinations/kerala/alleppey-houseboat.jpg",
+        "alt": "A wooden houseboat on the backwaters of Alappuzha"
+      },
+      {
+        "src": "/images/destinations/kerala/kovalam-lighthouse.jpg",
+        "alt": "The red-and-white lighthouse above Kovalam beach"
+      }
+    ]
+  },
+  "highlights": [
+    "Dutch Palace and heritage Fort Kochi",
+    "Cheeyappara Waterfalls",
+    "Mattupetty Dam and Kundala Dam",
+    "Tea plantations of Munnar"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrival at Cochin & Stay at Cochin",
+      "description": "Arrive at Cochin International Airport or Ernakulam Railway Station, where you will be greeted by the representative and transferred to the hotel. Proceed for local sightseeing in Cochin, beginning with the historic Dutch Palace, known for its traditional Kerala-style architecture and murals. Visit the famous Jewish Synagogue, one of the oldest synagogues in the Commonwealth with unique interiors and heritage significance. Explore St Francis Church, recognised as the oldest European church in India. Continue to the beautiful Santa Cruz Basilica, admired for its striking architecture and historical importance. Spend some leisure time exploring local shops selling antiques, fabrics, handicrafts, and jewellery. In the evening, enjoy a peaceful walk along Marine Drive, one of Cochin’s most popular waterfront promenades.",
+      "overnight": "Cochin"
+    },
+    {
+      "day": 2,
+      "title": "Cochin – Munnar",
+      "description": "After breakfast, check out and drive towards Munnar, Kerala’s scenic hill station surrounded by tea estates and mist-covered valleys. En route, stop at the picturesque Cheeyappara Waterfalls, known for its cascading streams and lush surroundings. Continue to the beautiful Valara Waterfalls, located amidst dense greenery along the mountain route. Drive through expansive tea gardens, offering breathtaking views of rolling hills covered in tea plantations. Enjoy the cool climate and scenic beauty as clouds drift across the valleys and mountain slopes. Arrive in Munnar and check into the hotel for an overnight stay.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Munnar Sightseeing",
+      "description": "After breakfast, proceed for a full day of sightseeing in Munnar. Visit Mattupetty Dam, surrounded by tea plantations and scenic mountain landscapes. Continue to Kundala Dam, a peaceful lake area known for its calm surroundings and natural beauty. Spend time at Eco Point, a serene viewpoint famous for its natural echo phenomenon and panoramic scenery. Later, visit the popular Tea Museum to learn about the history and traditional tea-making process in Munnar. Post lunch, explore Eravikulam National Park, home to the endangered Nilgiri Tahr and rolling grass-covered hills.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Munnar"
+    },
+    {
+      "day": 4,
+      "title": "Transfer to Cochin",
+      "description": "After breakfast, check out from the hotel and proceed towards Cochin International Airport or Ernakulam Railway Station for your onwards journey. Return home with memorable experiences of Kerala’s heritage streets, waterfalls, tea plantations, and peaceful hill station landscapes.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "Accommodation in mentioned category rooms in all the hotels or in similar",
+    "Meal Plan: Breakfast",
+    "Toll Tax ,Parking ,Driver allowances",
+    "All Applicable hotel taxes"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Tickets, tips, guided and Entrance Fees/ Charges",
+    "Porterage at hotels and airports, tips, insurance, laundry, liquor and wine"
+  ],
+  "seo": {
+    "title": "Serene Kerala Holidays – 3N/4D Kerala Package",
+    "description": "Kerala weaves together culture and nature in a way rarely seen in destinations."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 6
+}

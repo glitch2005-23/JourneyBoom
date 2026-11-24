@@ -3,12 +3,15 @@
   "title": "We plan the trips we'd want to take",
   "intro": "Journey Boom began with a simple idea: holidays should feel effortless for the traveller, however much work goes on behind the scenes.",
   "heroImage": {
-    "src": "/images/destinations/srinagar/pahalgam-valley.jpg",
+    "src": "/images/destinations/kashmir/pahalgam-valley.jpg",
     "alt": "A green valley and river in Pahalgam under dramatic clouds",
     "focal": "50% 45%"
   },
   "blocks": [
-    { "type": "heading", "text": "Travel more, create memories" },
+    {
+      "type": "heading",
+      "text": "Travel more, create memories"
+    },
     {
       "type": "paragraph",
       "text": "We're a team of travel planners who have spent years exploring the places we send you to — from the houseboats of Srinagar to the souks of Dubai. That first-hand knowledge shapes every itinerary we write: realistic driving times, hotels we've stayed in ourselves, and the small moments that turn a good trip into a great one."
@@ -17,7 +20,10 @@
       "type": "paragraph",
       "text": "Whether it's a family holiday, a honeymoon or a solo adventure, we start by listening. Then we design a journey around how you like to travel, and stay with you — on WhatsApp, by phone, at any hour — until you're back home."
     },
-    { "type": "heading", "text": "What we promise" },
+    {
+      "type": "heading",
+      "text": "What we promise"
+    },
     {
       "type": "list",
       "items": [
@@ -28,10 +34,13 @@
         "24/7 support from a real person throughout your trip"
       ]
     },
-    { "type": "heading", "text": "Where we go" },
+    {
+      "type": "heading",
+      "text": "Where we go"
+    },
     {
       "type": "paragraph",
-      "text": "We specialise in Kashmir, Goa and Dubai, and plan tailor-made trips across India and to popular international destinations. If you have somewhere in mind that isn't listed, just ask — chances are we can help."
+      "text": "We plan holidays across India — Kashmir, Kerala, Rajasthan, Ladakh, Goa, Andaman, Gujarat, Sikkim and Darjeeling — and to Dubai, Thailand and Singapore. If you have somewhere else in mind, just ask: chances are we can help."
     }
   ],
   "showContactDetails": true,

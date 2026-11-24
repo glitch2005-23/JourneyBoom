@@ -1,0 +1,127 @@
+{
+  "title": "Cultural Trails of Gujarat",
+  "shortDescription": "Gujarat has a way of folding history, faith and wilderness into a single journey, and this itinerary moves through that quality with unhurried, well-placed confidence.",
+  "description": [
+    "Gujarat has a way of folding history, faith and wilderness into a single journey, and this itinerary moves through that quality with unhurried, well-placed confidence. Ancient temple towns along the Arabian Sea kick things off, Dwarka and Somnath arriving with a spiritual weight that settles over you quietly and stays. Gir National Park then shifts the register entirely, its wilderness protecting some of India's rarest species in a setting that feels genuinely remote.",
+    "Heritage cities carry stories from India's freedom movement that feel more like lived experience than textbook preservation. The continuous chants at Bala Hanuman Temple and Somnath's evening atmosphere fill the days with a cultural texture that lingers long after you're gone. Gujarat, it turns out, rewards the curious traveller generously."
+  ],
+  "duration": {
+    "nights": 4,
+    "days": 5
+  },
+  "route": [
+    {
+      "city": "Jamnagar",
+      "nights": 1
+    },
+    {
+      "city": "Dwarka",
+      "nights": 1
+    },
+    {
+      "city": "Somnath",
+      "nights": 1
+    },
+    {
+      "city": "Sasan Gir",
+      "nights": 1
+    }
+  ],
+  "badges": [],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/gujarat/gir-lion-resting.jpg",
+      "alt": "A maned Asiatic lion resting in the grass at Gir"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/gujarat/card.jpg",
+        "alt": "Intricately carved pillars of the Modhera Sun Temple"
+      },
+      {
+        "src": "/images/destinations/gujarat/rann-camels.jpg",
+        "alt": "Colourfully decorated camels on the white Rann of Kutch"
+      },
+      {
+        "src": "/images/destinations/gujarat/white-rann.jpg",
+        "alt": "Travellers walking across the endless white salt flats of the Rann"
+      },
+      {
+        "src": "/images/destinations/gujarat/sun-temple-kund.jpg",
+        "alt": "The Modhera Sun Temple and its stepped tank reflected in water"
+      },
+      {
+        "src": "/images/destinations/gujarat/gir-lion.jpg",
+        "alt": "An Asiatic lion roaring in Gir National Park"
+      }
+    ]
+  },
+  "highlights": [
+    "Lakhota Lake and the Bala Hanuman Temple, Jamnagar",
+    "Dwarkadhish Temple, Bet Dwarka and Nageshwar Jyotirlinga",
+    "Somnath Temple and its light and sound show",
+    "Sasan Gir, home of the Asiatic lion",
+    "Naulakha Palace and Vintage Car Museum, Gondal"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Ahmedabad – Jamnagar",
+      "description": "Today on Arrival Ahmedabad Airport or Railway Station. Proceed to Jamnagar to visit Lakhota Lake & Lakhota Museum. In the evening, visit Bala Hanuman Temple known for its nonstop Ramdhun since 1956 and it mentioned in Guinness Book of World Records. Overnight stay at hotel."
+    },
+    {
+      "day": 2,
+      "title": "Jamnagar – Dwarka",
+      "description": "Today after breakfast checkout from hotel. Proceed to sacred town of Dwarka, Visit Dwarkadeesh Temple and Gomti Ghat. In the afternoon take a trip to Bet Dwarka, visit Old Temple of Krishna. On the way to Bet Dwarka, visit Nageshwar Temple – One of the 12th Jyotilingam of Shiva. Rukmini Temple and Gopi Talav Evening Visit Shivrajpur beach enjoy water sport, Return back to Dwarka. Overnight stay at hotel.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Dwarka – Somnath",
+      "description": "Today after breakfast checkout from hotel. Proceed to Somnath Enroute Porbandar visit Kirti Mandir – A place where Gandhiji was born. Later proceed to Somnath, visit Bhalka Tirth & Somnath Temple. In the evening watch light and Sound show. Overnight stay at hotel.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Somnath – Sasan Gir",
+      "description": "Today after breakfast checkout from hotel. Proceed to Sasan Gir. Sasan gir, is the home of the Asiatic Lion. In the afternoon Visit Gir Interpretation Zone at Devaliya. Gir Information center. Overnight stay at the hotel.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Sasan Gir – Virpur – Gondal – Ahmedabad",
+      "description": "Today after breakfast checkout from hotel. Proceed to Ahmedabad. Enroute visit Jalaram Temple at Virpur and Swaminarya temple, Navlakha Palace and Vintage Car museum at Gondal. Then proceed to Ahmedabad. Drop at Airport or Railway Station with lots of happy memories.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "04 Night accommodation at 3 Star Hotel",
+    "Welcome Drink on Arrival",
+    "Meal Plan : CP (Daily Breakfast Only)",
+    "Transport By AC Sedan",
+    "Toll Tax Parking Driver allowance",
+    "All applicable Hotel taxes"
+  ],
+  "exclusions": [
+    "Any flight /Train ticket",
+    "Entry fees to monuments and palaces",
+    "Anything not mentioned in the inclusions",
+    "Porterage at hotels and airports, tips, insurance, laundry, liquor and wine",
+    "5% GST"
+  ],
+  "seo": {
+    "title": "Cultural Trails of Gujarat – 4N/5D Gujarat Package",
+    "description": "Gujarat has a way of folding history, faith and wilderness into a single journey, and this itinerary moves through that quality with unhurried, well-placed…"
+  },
+  "featured": true,
+  "showOnHome": false,
+  "displayOrder": 2
+}

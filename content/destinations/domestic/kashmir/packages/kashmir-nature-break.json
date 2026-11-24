@@ -1,0 +1,121 @@
+{
+  "title": "Kashmir Nature Break",
+  "shortDescription": "Kashmir doesn’t come all at once. It reveals itself bit by bit in still waters, on twisting roads and in mountain air that seems to hush everything around you.",
+  "description": [
+    "Kashmir doesn’t come all at once. It reveals itself bit by bit in still waters, on twisting roads and in mountain air that seems to hush everything around you. Over five days, this journey passes through the changing moods of the valley, from the peaceful rhythm of a houseboat stay and a slow Shikara ride on Dal Lake to the broad meadows of Sonmarg and Gulmarg, where snowy peaks loom quietly in the distance.",
+    "Roads lined with poplars lead to Pahalgam, rivers run along the hills, and small pauses matter more than plans. Somewhere on the way, between the mountains and the silence, Kashmir turns from a place to a memory."
+  ],
+  "duration": {
+    "nights": 4,
+    "days": 5
+  },
+  "route": [
+    {
+      "city": "Srinagar",
+      "nights": 4
+    }
+  ],
+  "badges": [],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/kashmir/pahalgam-valley.jpg",
+      "alt": "A river winding through the green Pahalgam valley under dramatic clouds"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/kashmir/gulmarg-gondola.jpg",
+        "alt": "The Gulmarg Gondola rising over meadows towards snowy peaks"
+      },
+      {
+        "src": "/images/destinations/kashmir/floating-market.jpg",
+        "alt": "A vendor selling fruit from his boat at the Dal Lake floating market"
+      },
+      {
+        "src": "/images/destinations/kashmir/pahalgam-meadow.jpg",
+        "alt": "Sheep grazing in a green meadow near Pahalgam"
+      },
+      {
+        "src": "/images/destinations/kashmir/gulmarg-snow.jpg",
+        "alt": "Snow-covered chalets in Gulmarg in winter"
+      },
+      {
+        "src": "/images/destinations/kashmir/sonmarg-meadow.jpg",
+        "alt": "Horses grazing beside a boulder in the Sonmarg valley"
+      }
+    ]
+  },
+  "highlights": [
+    "Houseboat stay with a shikara ride on Dal Lake",
+    "Day trip to Sonmarg at 9,000 ft",
+    "Gulmarg, the 'Meadow of Flowers'",
+    "Pahalgam and the Lidder River",
+    "All nights based in Srinagar"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Kashmir’s Floating Welcome",
+      "description": "Upon arrival to Kashmir meet and greet by our representative, he will transfer you to the prebooked houseboat in Kashmir. . The highlight of the first day of your Kashmir tour package is Shikara ride at dal lake & overnight stay at Houseboat. Spend the evening enjoying a scenic Shikara ride on Dal Lake, gliding past floating markets, wooden houseboats and mountain reflections before returning for an overnight stay at the houseboat.",
+      "meals": [
+        "Dinner"
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Srinagar – Sonmarg – Srinagar",
+      "description": "After breakfast, leave for a full-day excursion to Sonmarg, famously known as the “Meadow of Gold\", located at an altitude of around 9,000 ft and surrounded by dramatic Himalayan peaks, alpine flowers and scenic landscapes. Explore the beauty of the Sindh Valley and enjoy panoramic mountain views. Visitors can also hire ponies (at additional cost) for a ride to the popular Thajiwas Glacier, one of Sonmarg’s major attractions during summer. Return to Srinagar in the evening for an overnight hotel stay.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Meadows of Gulmarg",
+      "description": "Begin the day with a drive to Gulmarg, the famed “Meadow of Flowers\", sitting at approximately 2,730 metres above sea level and known for its sweeping landscapes, ski slopes and one of the world’s highest golf courses. Enjoy scenic views along the route from Tangmarg to Gulmarg and, weather permitting, catch glimpses of Nanga Parbat. You may also choose to enjoy a gondola cable car ride to Kongdoori or a short trek to Khilanmarg (both at additional cost) before returning to Srinagar for an overnight stay.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Riverside Roads To Pahalgam",
+      "description": "After breakfast, drive towards Pahalgam via Pampore, Avantipura, and Bijbehara, a region often referred to as the bread basket of Kashmir. Pass through Anantnag and continue alongside the scenic Lidder River, with beautiful valley landscapes accompanying the route. Spend time soaking in the serene surroundings of Pahalgam, known for its lush valleys, cool mountain air and riverside charm, before returning for an overnight stay in Srinagar.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ],
+      "overnight": "Srinagar"
+    },
+    {
+      "day": 5,
+      "title": "Farewell Kashmir",
+      "description": "After check-out, transfer to Srinagar Airport for your onward journey, carrying home memories of shimmering lakes, mountain meadows and quiet moments across the valley.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "Accommodation at Hotel",
+    "Breakfast and Dinner",
+    "Shikara Ride",
+    "All transfers, city tours and transport services",
+    "All present applicable Taxes"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Entry fees to monuments and palaces",
+    "Anything not mentioned in the inclusions",
+    "Porterage at hotels and airports, tips, insurance, laundry, liquor and wine",
+    "Any local sightseeing in Gulmarg and Pahalgam and Sonmarg"
+  ],
+  "seo": {
+    "title": "Kashmir Nature Break – 4N/5D Kashmir Package",
+    "description": "Kashmir doesn’t come all at once. It reveals itself bit by bit in still waters, on twisting roads and in mountain air that seems to hush everything around you."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 4
+}

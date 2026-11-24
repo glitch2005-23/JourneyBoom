@@ -1,0 +1,122 @@
+{
+  "title": "Misty Hills of Munnar",
+  "shortDescription": "Kerala is just the place where everything feels rejuvenating right from the start of your expedition.",
+  "description": [
+    "Kerala is just the place where everything feels rejuvenating right from the start of your expedition. An amalgamation of rolling tea gardens, hills draped in mist, spice plantations, outcrops of forests and traditional cultural experiences. This trip leads you from the serenity of Munnar to the wildlife of Thekkady and ends with a unique touch of culture. Daily experiences like scenic drives through the Western Ghats, laughter at lakes and national parks, spice gardens with aromatic plants and traditional performances rooted in Kerala add layers to each day.",
+    "You will bask in the mountains, embark on cultural experiences and go on easy-going picnics, all at your pace. This Kerala getaway is a well-paced, comfortable sojourn to one of the southern end's most beautiful places on earth."
+  ],
+  "duration": {
+    "nights": 4,
+    "days": 5
+  },
+  "route": [
+    {
+      "city": "Munnar",
+      "nights": 2
+    },
+    {
+      "city": "Thekkady",
+      "nights": 2
+    }
+  ],
+  "badges": [],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/kerala/tea-gardens-mist.jpg",
+      "alt": "Neat rows of tea bushes on misty Munnar slopes"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/kerala/munnar-golden-hills.jpg",
+        "alt": "Silhouetted tea hills under a golden sky in Munnar"
+      },
+      {
+        "src": "/images/destinations/kerala/munnar-road.jpg",
+        "alt": "A road winding through tea estates in the hills of Munnar"
+      },
+      {
+        "src": "/images/destinations/kerala/tea-estate.jpg",
+        "alt": "Tea estates rolling across the Western Ghats"
+      },
+      {
+        "src": "/images/destinations/kerala/backwater-houseboats.jpg",
+        "alt": "Houseboats moored along the Kerala backwaters"
+      },
+      {
+        "src": "/images/destinations/kerala/backwaters-aerial.jpg",
+        "alt": "Aerial view of a canoe on a narrow backwater lined with coconut palms"
+      }
+    ]
+  },
+  "highlights": [
+    "Mattupetty Dam and boating on Kundala Lake",
+    "Photo Point and a spice plantation visit",
+    "Periyar National Park, Thekkady",
+    "Kathakali performance at the Navarasa centre",
+    "2 nights each in Munnar and Thekkady"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrival at Cochin – Transfer to Munnar",
+      "description": "Arrival at Cochin – Transfer to Munnar. Enjoy a scenic drive through the beautiful landscapes of the Western Ghats surrounded by valleys, tea plantations, and spice-scented hills. Learn about Munnar, a popular hill station located at the confluence of three mountain streams and known for its lush greenery and cool climate. Upon arrival, check into the hotel or resort and relax amidst the peaceful surroundings.",
+      "overnight": "Munnar"
+    },
+    {
+      "day": 2,
+      "title": "Munnar Sightseeing",
+      "description": "After breakfast, proceed for a sightseeing tour of Munnar. Visit the scenic Mattupetty Dam, known for its panoramic hill views and calm surroundings. Continue to Kundala Lake, where guests can enjoy boating and admire the beauty of the surrounding forests and mountains. Stop at the famous Echo Point and enjoy the natural echo phenomenon amidst the hills. Drive through the rolling tea plantations that define the charm of Munnar. Guests may also visit Eravikulam National Park, home to the endangered Nilgiri tahr. (subject to seasonal availability and park timings). Optional activities including tea factory visits, jeep rides, and elephant rides can also be enjoyed. Return to the hotel after sightseeing.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Munnar"
+    },
+    {
+      "day": 3,
+      "title": "Munnar – Thekkady",
+      "description": "After breakfast, begin the journey towards Thekkady with en route sightseeing. Visit the scenic Photo Point, one of Munnar’s most photographed locations surrounded by tea gardens and hills. Continue to a traditional spice garden and explore plantations growing cardamom, cinnamon, pepper, medicinal herbs, and fruit-bearing trees while learning about Kerala’s spice heritage. Later, enjoy a live Kalaripayattu performance in Thekkady showcasing the ancient martial art form known for its agility, combat techniques, and acrobatic movements. Proceed to Thekkady and check into the hotel.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Thekkady"
+    },
+    {
+      "day": 4,
+      "title": "Thekkady Sightseeing",
+      "description": "After breakfast, proceed for local sightseeing in Thekkady. Visit the famous Periyar National Park, known for its rich biodiversity, dense forests, and wildlife habitats spread across the Cardamom Hills. Later, visit the Navarasa Kathakali Centre to witness traditional Kathakali dance performances and cultural storytelling inspired by Indian epics. Guests can also enjoy demonstrations of Kalaripayattu martial arts during the cultural experience. Return to the hotel after sightseeing.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Thekkady"
+    },
+    {
+      "day": 5,
+      "title": "Cochin Departure",
+      "description": "After breakfast, check out from the resort and drive to Cochin Airport or railway station.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "Accommodation in mentioned category rooms",
+    "Daily breakfast at hotel",
+    "AC Cab for all transfers and sightseeing exactly as per the itinerary",
+    "Toll, Parking, driver allowance, road tax & fuel charges",
+    "All Applicable hotel taxes"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Meals not mentioned above",
+    "Entry fees to monuments and palaces",
+    "Tickets, tips, guided and Entrance Fees/ Charges",
+    "Porterage at hotels and airports, tips, insurance, laundry, liquor and wine"
+  ],
+  "seo": {
+    "title": "Misty Hills of Munnar – 4N/5D Kerala Package",
+    "description": "Kerala is just the place where everything feels rejuvenating right from the start of your expedition."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 4
+}

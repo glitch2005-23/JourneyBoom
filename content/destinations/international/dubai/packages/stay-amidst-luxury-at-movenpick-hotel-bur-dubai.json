@@ -1,0 +1,115 @@
+{
+  "title": "Stay Amidst Luxury at Movenpick Hotel, Bur Dubai",
+  "shortDescription": "Explore Dubai's striking beauty and flamboyance and experience innumerous delights of this cosmopolitan fiesta while enjoying your stay at the luxurious Movenpick Hotel Dubai.",
+  "description": [
+    "Explore Dubai's striking beauty and flamboyance and experience innumerous delights of this cosmopolitan fiesta while enjoying your stay at the luxurious Movenpick Hotel Dubai. Not more than 15 minutes drive from the airport located in the popular Bur Dubai, you stay in proximity to the most attractive local places to visit. The package includes Desert Safari, Dhow Cruise, Belly Dancing Show, City Tour and much more for a memorable stay for everyone."
+  ],
+  "duration": {
+    "nights": 3,
+    "days": 4
+  },
+  "route": [
+    {
+      "city": "Dubai",
+      "nights": 3
+    }
+  ],
+  "badges": [
+    "Family"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/dubai/marina.jpg",
+      "alt": "Skyscrapers along the curving waterway of Dubai Marina"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/dubai/card.jpg",
+        "alt": "The Burj Khalifa silhouetted against a pink sunset sky"
+      },
+      {
+        "src": "/images/destinations/dubai/camels.jpg",
+        "alt": "Camels in traditional saddles resting on desert sand"
+      },
+      {
+        "src": "/images/destinations/dubai/dune-drive.jpg",
+        "alt": "A 4x4 crossing rolling red dunes on a desert safari"
+      },
+      {
+        "src": "/images/destinations/dubai/buggies.jpg",
+        "alt": "Dune buggies racing across the Dubai desert"
+      },
+      {
+        "src": "/images/destinations/dubai/burj-al-arab.jpg",
+        "alt": "Aerial view of the Burj Al Arab and the Jumeirah coastline"
+      }
+    ]
+  },
+  "highlights": [
+    "3 nights at Mövenpick Hotel, Bur Dubai, with breakfast",
+    "Half-day Dubai city tour",
+    "Desert safari with BBQ dinner, Tanoura and belly dance shows",
+    "Dhow cruise with dinner",
+    "Return airport transfers with meet & greet"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Dubai",
+      "description": "Welcome to the city of glitz, Dubai! On arrival, clear customs and immigration, collect your baggage and exit the airport. Our tour operator will meet you there for your transfer to the hotel. After check in, you can relax in your room for a while and remove jet lag. In the evening, you can go for a self exploration of the glistening city. Just a stroll would give you a good experience of flamboyance of the city. Indulge in some local Arabic cuisine on your way back to the hotel.",
+      "overnight": "Dubai"
+    },
+    {
+      "day": 2,
+      "title": "Half Day City Tour + Desert Safari",
+      "description": "This morning, after having breakfast at the hotel, we proceed for a half day city tour of Dubai. The city is a perfect blend of vibrant cosmopolitan life and age old culture and heritage. We first visit the most famous landmark of Dubai, Burj Al Arab Hotel. Take loads of pictured from different angles in-front of this world famous luxury hotel. We’ll also visit Jumeirah, the spectacular palace of Dubai where we will visit the renowned Jumeirah Mosque. We then go to see Dubai’s age old culture at Al Fahidi Fort, home to Dubai’s famous museum. There are several other attractions also that we would witness while on the tour. Evening is for the exciting Desert Safari, the biggest attraction of Dubai. Get aboard an exciting dune drive across the desert. Witness the beautiful sunset over sand dunes, enjoy camel ride and sand boarding. Camel ride in the desert is not that easy and it will make you hungry too! So then we enjoy delicious barbecue dinner and shisha (the famous Arabic water pipe). Relax and enjoy the amazing belly dance show by the campfire. Return back to hotel after an awesome day.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ],
+      "overnight": "Dubai"
+    },
+    {
+      "day": 3,
+      "title": "Leisure time – Dhow Cruise in evening",
+      "description": "Laze off in your bed as you have a relaxed morning today. Freshen up and enjoy the breakfast. Day is free for your own leisure. You can opt for some tour or you can go shopping. Dubai is famous for its extensive-n-expensive malls with all the latest fashion, designs and technology, teeming with top brands and addictive designer boutiques. You could also opt to go to the traditional markets called souks. It will be a nice experience altogether in the traditional lanes of trade. Evening is going to be luxuriously romantic on a Dhow Cruise. It is a traditional wooden boat that glides along the Dubai creek under starlit sky while a sumptuous dinner is served to you in true Arabic hospitality. Savour the delicacies and spend some cosy moments with your partner. Return to hotel afterwards. Stay overnight at the hotel.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Departure",
+      "description": "After having a fill at the breakfast, pack your bags and check out from the hotel. If you have time left in your flight, you may want to grab some last minute shopping. Bid bye to the flamboyant city. Transfer to the airport for your return flight.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "3 Nights accommodation at Movenpick Hotel",
+    "Daily Breakfast",
+    "Return Dubai Airport Transfer with Meet & Greet service",
+    "Half day Dubai City Tour",
+    "Dhow Cruise with Dinner",
+    "Desert Safari (with BBQ Dinner, Tanoura Show & Belly Dancing)",
+    "All tours & transfers on Seat In Coach (Shared) basis",
+    "All Hotel taxes and Service charges"
+  ],
+  "exclusions": [
+    "Airfare",
+    "Any service not mentioned in the inclusions",
+    "Travel Insurance",
+    "Visa Charges",
+    "Hotel Surcharge (if Any)",
+    "Tourism Dirham (hotel tax) to be paid by the guest directly at hotel at the time of Checkout"
+  ],
+  "seo": {
+    "title": "Stay Amidst Luxury at Movenpick Hotel, Bur Dubai – 3N/4D Dubai Package",
+    "description": "Explore Dubai's striking beauty and flamboyance and experience innumerous delights of this cosmopolitan fiesta while enjoying your stay at the luxurious…"
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 2
+}

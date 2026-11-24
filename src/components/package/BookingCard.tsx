@@ -21,8 +21,14 @@ export function BookingCard({
   return (
     <aside aria-label="Book this package" className="card overflow-hidden">
       <div className="border-b border-line bg-sand/60 p-6">
-        <PriceDisplay amount={pkg.price.amount} originalAmount={pkg.price.originalAmount} basis={pkg.price.basis} money={money} size="lg" />
-        {pkg.price.note && <p className="mt-2 text-xs text-muted">{pkg.price.note}</p>}
+        <PriceDisplay
+          amount={pkg.price?.amount}
+          originalAmount={pkg.price?.originalAmount}
+          basis={pkg.price?.basis}
+          money={money}
+          size="lg"
+        />
+        {pkg.price?.note && <p className="mt-2 text-xs text-muted">{pkg.price.note}</p>}
         <p className="mt-4 flex items-center gap-2 text-sm font-semibold text-navy">
           <Clock className="size-4 text-orange" aria-hidden="true" />
           {formatDurationLong(pkg.duration)}

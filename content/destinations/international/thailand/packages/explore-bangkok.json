@@ -1,0 +1,110 @@
+{
+  "title": "Explore Bangkok",
+  "shortDescription": "Bangkok is one unique destination that is distinctly modern and westernized but still stands strong to its roots. The lifestyle is probably the most modern in Asia and the culture, one of the deepest.",
+  "description": [
+    "Bangkok is one unique destination that is distinctly modern and westernized but still stands strong to its roots. The lifestyle is probably the most modern in Asia and the culture, one of the deepest. Take enough time to explore the place, its attractions and soak into their lifestyle before passing any judgements about the wonderful city.",
+    "Relish the lip smacking spicy noodles from the street vendor. Visit the exquisite temples, witness the grandeur of Grand Palace, grab multiple shopping bags in the world class metropolitan malls and experience a fun-n-fresh holiday that is sure to fill you with excitement. Keep your heart intact or Bangkok will steal it away!"
+  ],
+  "duration": {
+    "nights": 3,
+    "days": 4
+  },
+  "route": [
+    {
+      "city": "Bangkok",
+      "nights": 3
+    }
+  ],
+  "badges": [
+    "Adventure"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/thailand/wat-pho.jpg",
+      "alt": "Ornate tiled stupas at Wat Pho in Bangkok"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/thailand/phi-phi-viewpoint.jpg",
+        "alt": "Phi Phi Don's twin bays from the viewpoint"
+      },
+      {
+        "src": "/images/destinations/thailand/maya-bay.jpg",
+        "alt": "Boats floating in clear water between towering cliffs"
+      },
+      {
+        "src": "/images/destinations/thailand/wat-arun-sunset.jpg",
+        "alt": "The spire of Wat Arun against a colourful sunset"
+      },
+      {
+        "src": "/images/destinations/thailand/grand-palace.jpg",
+        "alt": "The golden chedi of the Grand Palace in Bangkok"
+      },
+      {
+        "src": "/images/destinations/thailand/pattaya-beach.jpg",
+        "alt": "Pattaya's beach curving along the bay"
+      }
+    ]
+  },
+  "highlights": [
+    "3 nights in Bangkok with breakfast",
+    "Free days for shopping and street food",
+    "Optional Safari World & Marine Park",
+    "Airport transfers from Suvarnabhumi"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Bangkok",
+      "description": "Arrive at Bangkok Airport. Meet our local tour representative near the Exit Area after custom clearance, visa processing and baggage claim. Transfer to the hotel, check-in on arrival and relax. Rest of the day is free at your own leisure. You may go for self exploration of the city in evening or opt for a beautiful Chao Phraya River Dinner Cruise (on an extra cost). It is a beautiful cruise tour offering amazing views of Thailand's historical landmarks like Grand Palace, Temple of the Emerald Buddha, Wat Arun (Temple of the Dawn), the Rama 8 Bridge, etc all lit up in beautiful night lights. Cruise leisurely along the river, seeing dramatic sights and enjoying an elaborate dining and wining with entertainment. Post tour, return to the hotel and sleep peacefully.",
+      "overnight": "Bangkok"
+    },
+    {
+      "day": 2,
+      "title": "Bangkok (Day free for Leisure)",
+      "description": "Have a fill at morning breakfast and set out to explore the wonderful city at your own. Visit to Bangkok remains incomplete if you don’t shop! Explore the markets and grab great deals at the local markets or world-class malls for absolutely everything you buy right from trendy clothes and accessories to designer goods and electronic gadgets. If shopping is not what you are looking for, opt for any sightseeing tour (at extra cost) suiting to your interest. Relish local cuisines and enjoy Bangkok’s raving nightlife. Return to the hotel afterwards.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Bangkok"
+    },
+    {
+      "day": 3,
+      "title": "Bangkok (Day Free for Leisure)",
+      "description": "Wake up to a vibrant morning in the land of unlimited delights and recharge with morning breakfast. Today is free at your own leisure. Catch up on left shopping deals or go for self exploration of the city. Or else, opt for a thrill-filled day at Safari World & Marine Park (on an extra cost). Safari World is Thailand’s greatest open zoo and leisure park that offers loads of thrills and entertainment for all ages. Enjoy a spectacular and nerve-tickling safari drive through African wilderness setting, get close to the friendliest dolphins, watch the unique tiger & lion feeding show, etc. and have loads of fun with your loved ones. Later return to hotel and relax.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Bangkok"
+    },
+    {
+      "day": 4,
+      "title": "Bangkok (Departure)",
+      "description": "Pack your bags, have a fill at morning breakfast and check out from the hotel (as per hotel’s check out time). Grab onto some more shopping deals before returning (as per your flight timing). Today we transfer you to the Bangkok Airport for your flight back home.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "3 Nights Accommodation in Bangkok",
+    "3 Buffet Breakfast at Hotel",
+    "Airport Transfers from / to Suvarnabhumi Airport on Seat In Coach (shared) Basis",
+    "All Hotel taxes"
+  ],
+  "exclusions": [
+    "Airfare",
+    "You will need to Pay Rs. 1,000/- per person (Extra), If your transfer timings are not between 7 AM - 6 PM",
+    "On Arrival Visa fee of 2000 Thai baht (to be Paid directly by the Guest at Thailand airport) OR Visa fee from India Rs. 4,000/- (per person) Extra",
+    "Travel Insurance(Strongly recommended for Senior Citizens)",
+    "Any service not mentioned in the inclusions",
+    "Hotel Surcharge (as Applicable) to be Paid Extra.(During Peak & Super Peak Season)"
+  ],
+  "seo": {
+    "title": "Explore Bangkok – 3N/4D Thailand Package",
+    "description": "Bangkok is one unique destination that is distinctly modern and westernized but still stands strong to its roots. The lifestyle is probably the most modern…"
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 7
+}

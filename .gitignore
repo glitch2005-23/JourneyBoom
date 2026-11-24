@@ -7,3 +7,6 @@ next-env.d.ts
 .env*.local
 .DS_Store
 coverage/
+
+# Internal source documents (never published)
+Internal_Packages/

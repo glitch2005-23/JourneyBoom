@@ -1,0 +1,130 @@
+{
+  "title": "Scenic Gangtok Darjeeling",
+  "shortDescription": "A journey that unites two of the Eastern Himalayas' most cherished hill getaways, from quiet monasteries to tea gardens shrouded in fog.",
+  "description": [
+    "A journey that unites two of the Eastern Himalayas' most cherished hill getaways, from quiet monasteries to tea gardens shrouded in fog. With colourful streets, holy lakes, and wide views with nothing to disturb your mountain peace, Gangtok beckons you, while Darjeeling attracts you with its colonial insignia, the famous Toy Train, sprawling tea gardens and views that will take your breath away of Mount Kanchenjunga.",
+    "Whether it is witnessing Tsomgo Lake, with its crystal blue waters, or Baba Mandir for blessings, catching the sunrise from Tiger Hill or taking a walk in the buzzing lanes of MG Marg, each day seems to be painted in beautiful memories. This itinerary focuses on scenic beauty, local culture and enjoyable sightseeing to serve as the ultimate Himalayan getaway for couples, families or nature lovers alike."
+  ],
+  "duration": {
+    "nights": 5,
+    "days": 6
+  },
+  "route": [
+    {
+      "city": "Gangtok",
+      "nights": 3
+    },
+    {
+      "city": "Darjeeling",
+      "nights": 2
+    }
+  ],
+  "badges": [],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/north-east/toy-train-tea.jpg",
+      "alt": "The Darjeeling toy train steaming past tea gardens"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/north-east/card.jpg",
+        "alt": "Gangtok's hillside houses beneath drifting clouds"
+      },
+      {
+        "src": "/images/destinations/north-east/toy-train.jpg",
+        "alt": "The Darjeeling Himalayan Railway steam engine in the forest"
+      },
+      {
+        "src": "/images/destinations/north-east/tea-hills.jpg",
+        "alt": "A road winding through green tea hills near Darjeeling"
+      },
+      {
+        "src": "/images/destinations/north-east/tsomgo-lake.jpg",
+        "alt": "Tsomgo Lake surrounded by snowy mountains"
+      },
+      {
+        "src": "/images/destinations/north-east/buddha-park.jpg",
+        "alt": "The giant Buddha statue at Ravangla wrapped in mist"
+      }
+    ]
+  },
+  "highlights": [
+    "Tsomgo Lake and Baba Mandir",
+    "Optional yak ride by the lake",
+    "Tiger Hill sunrise over Kanchenjunga",
+    "Ghoom Monastery and Batasia Loop",
+    "Himalayan Mountaineering Institute and zoo",
+    "Evenings on Gangtok's MG Marg"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrival & Transfer to Gangtok",
+      "description": "Arrive at Bagdogra Airport (IXB) or New Jalpaiguri Railway Station (NJP). Enjoy a scenic drive through the Himalayan foothills to Gangtok. Check in to your hotel and relax. Spend the evening exploring the lively MG Marg, lined with cafés, local shops, and restaurants.",
+      "overnight": "Gangtok"
+    },
+    {
+      "day": 2,
+      "title": "Tsomgo Lake & Baba Mandir Excursion",
+      "description": "Enjoy breakfast before setting out for a scenic excursion. Visit the stunning Tsomgo Lake, a high-altitude glacial lake surrounded by snow-capped peaks. Experience an optional yak ride along the lakeside. Continue to the revered Baba Harbhajan Singh Mandir, one of Sikkim's most significant pilgrimage sites. Return to Gangtok and spend the evening at leisure.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Gangtok"
+    },
+    {
+      "day": 3,
+      "title": "Explore Eastern Sikkim",
+      "description": "Begin the day with breakfast before heading towards Eastern Sikkim's scenic attractions. Revisit the beautiful Tsomgo Lake and the sacred Baba Mandir, enjoying the surrounding Himalayan landscapes. Capture memorable photographs of the glacial lake and mountain scenery. Opt for an excursion to Nathula Pass (subject to permits and additional charges). Return to Gangtok for a relaxed evening.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Gangtok"
+    },
+    {
+      "day": 4,
+      "title": "Gangtok to Darjeeling",
+      "description": "Enjoy breakfast before driving to the picturesque hill town of Darjeeling. Take in spectacular views of the Kanchenjunga Range along the journey. Check in to your hotel upon arrival. Spend the rest of the day at leisure exploring the town or relaxing.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Darjeeling"
+    },
+    {
+      "day": 5,
+      "title": "Darjeeling – Sightseeing",
+      "description": "Start early with a visit to Tiger Hill for a breathtaking sunrise over Mount Kanchenjunga. Explore the historic Ghoom Monastery and the iconic Batasia Loop. Visit the Himalayan Mountaineering Institute and Padmaja Naidu Himalayan Zoological Park. Stop at Tenzing Rock, the Tibetan Refugee Self-Help Centre, and a Tea Garden (outer view). Enjoy a ride on the Darjeeling Ropeway (subject to operation). Visit the serene Japanese Temple and Peace Pagoda. Return to the hotel for an overnight stay.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Departure",
+      "description": "Enjoy breakfast and check out from the hotel. Drive to Bagdogra Airport (IXB) or New Jalpaiguri Railway Station (NJP). Bid farewell to the Himalayas with unforgettable memories of Gangtok's peaceful landscapes and Darjeeling's timeless charm.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "5 Night Accommodation",
+    "Daily breakfast at hotel",
+    "Pick up and drop from Airport by a private Car",
+    "All sightseeing by private cars as per itinerary",
+    "All Applicable Taxes"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Cost for add on services, optional tours, Guide services, Sightseeing entrance fees & Porters",
+    "Cost for Airfare, Train fare, rafting, medical urgency, insurance, additional meal / tea snacks",
+    "Cost for anything which is not mentioned under “Package inclusions”"
+  ],
+  "seo": {
+    "title": "Scenic Gangtok Darjeeling – 5N/6D Sikkim & Darjeeling Package",
+    "description": "A journey that unites two of the Eastern Himalayas' most cherished hill getaways, from quiet monasteries to tea gardens shrouded in fog."
+  },
+  "featured": true,
+  "showOnHome": false,
+  "displayOrder": 2
+}

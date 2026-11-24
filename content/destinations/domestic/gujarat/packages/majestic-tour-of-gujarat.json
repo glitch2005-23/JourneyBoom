@@ -1,0 +1,139 @@
+{
+  "title": "Majestic Tour of Gujarat",
+  "shortDescription": "Stretching into the Arabian Sea, Gujarat is renowned for its beaches, temple towns, palaces and historic capitals. Wildlife sanctuaries, hill resorts and natural grandeur add to its beauty.",
+  "description": [
+    "Stretching into the Arabian Sea, Gujarat is renowned for its beaches, temple towns, palaces and historic capitals. Wildlife sanctuaries, hill resorts and natural grandeur add to its beauty. The state’s major attractions include the only habitat of the Asiatic lions in India (Gir Forests), the Wild Ass Sanctuary and the Indo-Saracenic architecture of Ahmedabad.",
+    "The colourful tribal villages of Kutch are also popular tourist destinations. Gujarat’s vast coastline is home to unique marine species and its varied geographical locations are said to make it a melting pot of culture, people, places and history"
+  ],
+  "duration": {
+    "nights": 5,
+    "days": 6
+  },
+  "route": [
+    {
+      "city": "Rajkot",
+      "nights": 1
+    },
+    {
+      "city": "Dwarka",
+      "nights": 1
+    },
+    {
+      "city": "Somnath",
+      "nights": 1
+    },
+    {
+      "city": "Sasan Gir",
+      "nights": 1
+    },
+    {
+      "city": "Ahmedabad",
+      "nights": 1
+    }
+  ],
+  "badges": [],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/gujarat/palace.jpg",
+      "alt": "The ornate sandstone facade of a royal palace in Gujarat"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/gujarat/white-rann.jpg",
+        "alt": "Travellers walking across the endless white salt flats of the Rann"
+      },
+      {
+        "src": "/images/destinations/gujarat/sun-temple-kund.jpg",
+        "alt": "The Modhera Sun Temple and its stepped tank reflected in water"
+      },
+      {
+        "src": "/images/destinations/gujarat/gir-lion.jpg",
+        "alt": "An Asiatic lion roaring in Gir National Park"
+      },
+      {
+        "src": "/images/destinations/gujarat/gir-lion-resting.jpg",
+        "alt": "A maned Asiatic lion resting in the grass at Gir"
+      },
+      {
+        "src": "/images/destinations/gujarat/temple-spire.jpg",
+        "alt": "The towering carved spire of a temple in Gujarat"
+      }
+    ]
+  },
+  "highlights": [
+    "Lothal, an ancient Harappan port city",
+    "Bet Dwarka, Gopi Talab and Dwarkadhish Temple",
+    "Kirti Mandir and Sudama Temple, Porbandar",
+    "Somnath darshan and an evening by the sea",
+    "Sasan Gir and the Girnar hills of Junagadh",
+    "Akshardham Temple, Gandhinagar"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Ahmedabad – Lothal – Rajkot",
+      "description": "Morning Departure to Rajkot en route visit Lothal . Lothal literally \"mound of the dead\", is the most extensively excavated site of Harappan site in India and therefore allows the most insight into the story of the Indus Valley civilization, its exuberant flight, and its tragic decay. Visiting places at Rajkot: If time permits, visit - Swamy Narayan Temple: It has been built out of Hand carved stones and the temple is renowned worldover for its social work and humanitarian services. Ishwarya Temple, Panch Nath Mahdeo temple, Ramakrishna Ashram, Asharamji Bapu Ashram, Rotary Mid Town Dolls Museum."
+    },
+    {
+      "day": 2,
+      "title": "Rajkot – Jamnagar – Bet Dwarka – Dwarka",
+      "description": "After early breakfast, departure to Dwarka. Local Visits Shri.Nageshwar Temple. Gopi Talab, Bet Dwaraka, Rukmini Temple and Transfer to Hotel. Evening visit Dwarkadhish Temple.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Dwarka – Porbandar – Somnath",
+      "description": "After breakfast departure to Porbandar .Visit Birth place of Mahatma Gandhi (Kirti Mandir), Sudama Temple. Later on drive to Somnath (135 Kms. / 3 Hrs.) - Transfer to Hotel for fresh up and then Temple darshan. Evening have a fun in Saurashta Beach.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Somnath – Sasan Gir",
+      "description": "After breakfast, departure to Sasan Gir and visit Sasan Gir safari park. Later proceed for local sight seeing Fort, Girnar Hills at Junagadh (55 Kms. / 1 hr. ). Check into Hotel.",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Sasan Gir – Ahmedabad",
+      "description": "After breakfast, departure to Gondal .Visit Naulakha palace and the famous Temple of Swaminarayan and then departure to Ahmedabad (250 Kms. / 6 Hrs.).",
+      "meals": [
+        "Breakfast"
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Ahmedabad Drop",
+      "description": "Ahmedabad local sight seeing including visit to Akshardham Temple at Gandhinagar (30 Kms.). Evening transfer to Airport/Railway station.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "Accommodation at the hotel mentioned above or similar category of alternate hotels",
+    "Meal Plan: Breakfast",
+    "AC Cab for all transfers and sightseeing exactly as per the itinerary",
+    "Toll, Parking, driver allowance, road tax & fuel charges"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Air Fare/ Train fare",
+    "Any meals other than specified in Tour Cost Inclusion Services of tour guide during sightseeing",
+    "The quote does not include any other expenses of personal nature such as portage at airport & hotels, Hotel Mini Bar, In-room liquor consumption, Mineral Water, Tips, Room Service, Laundry, Telephone bills, Monument entry fees wherever applicable etc",
+    "ALL MONUMENTS & SAFARI CHARGE WILL BE EXTRA",
+    "Any incidental expenses not mentioned in “Inclusions” above will have to be paid directly by the guests"
+  ],
+  "seo": {
+    "title": "Majestic Tour of Gujarat – 5N/6D Gujarat Package",
+    "description": "Stretching into the Arabian Sea, Gujarat is renowned for its beaches, temple towns, palaces and historic capitals. Wildlife sanctuaries, hill resorts and…"
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 4
+}

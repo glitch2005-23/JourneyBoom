@@ -96,8 +96,12 @@ describe("package actions", () => {
   const labels = tree.settings.labels;
 
   it("maps enquire to the on-page form and pay to the external URL", () => {
-    const dubai = tree.packages.find((p) => p.slug === "dubai-deluxe")!;
-    const [primary, secondary] = resolvePackageActions(dubai, labels);
+    const base = tree.packages[0]!;
+    const pkg = {
+      ...base,
+      cta: { primary: { type: "enquire" as const }, secondary: { type: "pay" as const, url: "https://pay.example.com/deposit" } },
+    };
+    const [primary, secondary] = resolvePackageActions(pkg, labels);
     expect(primary).toEqual({ label: labels.enquire, href: "#enquire", external: false });
     expect(secondary?.external).toBe(true);
     expect(secondary?.href.startsWith("https://")).toBe(true);

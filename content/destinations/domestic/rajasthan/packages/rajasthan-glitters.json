@@ -1,0 +1,127 @@
+{
+  "title": "Rajasthan Glitters",
+  "shortDescription": "The land of desert and experience the chilly winds of the Thar Desert with an exclusive tent stay at Jaisalmer, along with experiencing the land of royalty, the Blue City of Rajasthan – Jodhpur.",
+  "description": [
+    "The land of desert and experience the chilly winds of the Thar Desert with an exclusive tent stay at Jaisalmer, along with experiencing the land of royalty, the Blue City of Rajasthan – Jodhpur. This tour offers you a perfect mix of majestic Jodhpur forts with the unending beauty of the Thar Desert, rich culture and heritage, mystical lakes, and so much more. Jaisalmer is nestled in the heart of the Thar Desert. Listen to the stories buried in the walls of the “Golden Fort” by the generations of people who still continue to live there.",
+    "Experience sunrise and sunset in the desert while riding a camel as the sun gently splashes its golden light with hues of pink, giving way to a sky full of stars. Rajasthan, also referred to as the “Desert Capital of India,” is all about vivid colours, monuments, music, and dance. If you want to see the best of the two desert cities, Jodhpur and Jaisalmer, take this journey, which is flawlessly planned to give you the best travel experience to visit the Thar Desert."
+  ],
+  "duration": {
+    "nights": 3,
+    "days": 4
+  },
+  "route": [
+    {
+      "city": "Jodhpur",
+      "nights": 1
+    },
+    {
+      "city": "Jaisalmer",
+      "nights": 2
+    }
+  ],
+  "badges": [
+    "Flights included",
+    "Family"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/rajasthan/camel-sunset.jpg",
+      "alt": "A camel rider silhouetted against a desert sunset"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/rajasthan/desert-camels.jpg",
+        "alt": "Camels resting on the golden dunes of the Thar Desert"
+      },
+      {
+        "src": "/images/destinations/rajasthan/jaisalmer-fort.jpg",
+        "alt": "Birds circling the golden sandstone walls of Jaisalmer Fort"
+      },
+      {
+        "src": "/images/destinations/rajasthan/camel-cart-dunes.jpg",
+        "alt": "A camel cart crossing the dunes near Jaisalmer"
+      },
+      {
+        "src": "/images/destinations/rajasthan/jaisalmer-havelis.jpg",
+        "alt": "Carved sandstone havelis lining a lane in Jaisalmer"
+      },
+      {
+        "src": "/images/destinations/rajasthan/udaipur-city-palace.jpg",
+        "alt": "The City Palace of Udaipur seen from Lake Pichola"
+      }
+    ]
+  },
+  "highlights": [
+    "Return flights from Delhi included",
+    "Jodhpur city tour",
+    "Jaisalmer Fort and havelis",
+    "Tent stay at the Sam sand dunes",
+    "Camel ride and desert sunset"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Jodhpur / Afternoon – Jodhpur City Tour",
+      "description": "Arrive in Jodhpur in the morning and be met by our driver at Jodhpur Airport. Transfer to your hotel in Jodhpur. (An early check-in room is NOT included and is subject to availability at the time of check-in). Afternoon sightseeing of the Blue City of Rajasthan – Jodhpur. Visit Mehrangarh Fort and Jaswant Thada – an imposing marble memorial built in 1899, and the museum located in the Umaid Public Gardens. Overnight stay at the hotel.",
+      "meals": [
+        "Dinner"
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Drive to Jaisalmer (280 kms / 5 hrs)",
+      "description": "Today early morning, after breakfast, check out from the hotel and drive to Jaisalmer – the Golden City of Rajasthan. On arrival in Jaisalmer, check in at the hotel, and after freshening up, if time permits, we visit Jaisalmer Golden Fort – a UNESCO World Heritage Site and one of the very few living forts in the world, as nearly one fourth of the population of the city still resides within the fort. This is followed by a visit to Jain Mandir – carved in yellow sandstone and dedicated to Jain hermits known as Tirthankars.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ],
+      "overnight": "Jaisalmer City"
+    },
+    {
+      "day": 3,
+      "title": "In Jaisalmer – Morning Sightseeing / Afternoon – Drive to Sam Sand Dunes",
+      "description": "Today, after breakfast, check out and explore Jaisalmer City. Later, visit Patwon Ki Haveli Museum – a palace built in the early 1800s, now a museum featuring intricate carvings, furniture, and artwork, and also see Nathmal Ji Ki Haveli. Later, proceed to the famous Sam Sand Dunes and check in at the camp. In the late afternoon, you will be taken to the nearby sand dunes to witness the spectacular beauty of the sandy terrain by enjoying a joyful camel ride and viewing the red-orange splash of sunset on the desert horizon. Optional – You can also experience thrilling dune bashing (jeep safari) at an additional cost over the golden sands. Overnight stay in tented accommodation at Sam Sand Dunes in Jaisalmer.",
+      "meals": [
+        "Breakfast",
+        "Dinner"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Departure Transfer to Jaisalmer Airport",
+      "description": "Today, check out and transfer to the airport in time to board the flight to your hometown or next destination. Tentative Itinerary. Note: Above Itinerary is just indicative. Do not consider it as a Final Schedule. Date & Time of Tours can be changed by Local Agent / Tour Operator.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "Economy Class Return Airfare (Delhi - Jodhpur // Jaisalmer - Delhi)",
+    "1 Nights accommodation in Jodhpur",
+    "2 Nights accommodation in Jaisalmer",
+    "Daily Buffet Breakfast & Dinner at Hotel",
+    "City tour & Sightseeing tours (as mentioned in Itinerary)",
+    "All Tours & Transfers by Air conditioned vehicle",
+    "All presently applicable Hotel & Airline taxes"
+  ],
+  "exclusions": [
+    "Guide charges & Entrance fees at the different Sightseeing locations (Directly payable by the Guest)",
+    "Expenses of Personal Nature, such as- laundry, telephone calls, tips, camera fees, optional tours, extra meals, etc",
+    "Any cost arising due to flight cancellation, natural calamities like- landslides, road blockage, political disturbances (strikes), lockdown etc",
+    "Any service not mentioned in the inclusions",
+    "Surcharges Extra (if applicable) on Long Weekends & Holidays"
+  ],
+  "knowBeforeYouGo": [
+    "Tour cost calculated on minimum 04 pax travelling together on sharing basis",
+    "For minimum 02 Pax – The supplement cost for operating a trip with minimum 02 pax / upgrade into an exclusive private vehicle @ Rs. 2,000/- per person additional on above tour cost",
+    "We provide Sedan Car for 02 to 04 Pax. (Upgrade to Ertiga/ Innova Car @ Rs. 6,000/- per vehicle additional)",
+    "Airfare- The tentative airfare calculated @ Rs. 7,000/- per person. Any difference in airfare at the time of booking would be charged additional. (Airfare is subject to change)"
+  ],
+  "seo": {
+    "title": "Rajasthan Glitters – 3N/4D Rajasthan Package",
+    "description": "The land of desert and experience the chilly winds of the Thar Desert with an exclusive tent stay at Jaisalmer, along with experiencing the land of royalty…"
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 3
+}

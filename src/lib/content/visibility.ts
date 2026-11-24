@@ -34,7 +34,8 @@ function withStats(destination: Destination, packages: readonly TravelPackage[])
   return {
     ...destination,
     packageCount: own.length,
-    startingPrice: own.length ? Math.min(...own.map((p) => p.price.amount)) : null,
+    // Lowest published price; packages without a price ("Click to enquire") are ignored.
+    startingPrice: own.some((p) => p.price) ? Math.min(...own.flatMap((p) => (p.price ? [p.price.amount] : []))) : null,
   };
 }
 

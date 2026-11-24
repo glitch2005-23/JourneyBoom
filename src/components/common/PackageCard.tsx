@@ -68,9 +68,9 @@ export function PackageCard({ pkg, money, showDestination = true, headingLevel: 
 
         <div className="mt-auto flex items-end justify-between gap-4 border-t border-line pt-5">
           <PriceDisplay
-            amount={pkg.price.amount}
-            originalAmount={pkg.price.originalAmount}
-            basis={pkg.price.basis}
+            amount={pkg.price?.amount}
+            originalAmount={pkg.price?.originalAmount}
+            basis={pkg.price?.basis}
             money={money}
           />
           <span

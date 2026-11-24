@@ -1,0 +1,117 @@
+{
+  "title": "Paradise on Earth",
+  "shortDescription": "Those who love to get close to nature will find the best recluse in the stunningly beautiful islands of Andaman which are no less than a paradise on earth.",
+  "description": [
+    "Those who love to get close to nature will find the best recluse in the stunningly beautiful islands of Andaman which are no less than a paradise on earth. Book your trip to Andamans for a unique journey off the beaten track in the ethereal abode of virgin beaches and emerald islands where your soul will rewind and rejuvenate while your mind will know a new definition of happiness and fulfillment and you'll be completely in love with yourself."
+  ],
+  "duration": {
+    "nights": 3,
+    "days": 4
+  },
+  "route": [
+    {
+      "city": "Port Blair",
+      "nights": 3
+    }
+  ],
+  "badges": [
+    "Family"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/andaman/hero.jpg",
+      "alt": "An old wooden boat on a turquoise shore beside mangrove trees in the Andaman Islands"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/andaman/neil-island-shore.jpg",
+        "alt": "A wooden boat on the calm shore of Neil Island at low tide"
+      },
+      {
+        "src": "/images/destinations/andaman/radhanagar-tree.jpg",
+        "alt": "A lone tree arching over the white sand of Radhanagar Beach"
+      },
+      {
+        "src": "/images/destinations/andaman/elephant-beach.jpg",
+        "alt": "An elephant walking along a sunny Andaman beach"
+      },
+      {
+        "src": "/images/destinations/andaman/island-road.jpg",
+        "alt": "Aerial view of a coastal road winding through Andaman rainforest"
+      },
+      {
+        "src": "/images/destinations/andaman/beach-aerial.jpg",
+        "alt": "Aerial view of a deserted beach and clear water in the Andamans"
+      }
+    ]
+  },
+  "highlights": [
+    "Cellular Jail and the evening Light & Sound Show",
+    "Island cruise to Ross Island and North Bay",
+    "Havelock Island and Radhanagar Beach",
+    "All entry, ship and museum tickets included"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrival – Port Blair",
+      "description": "Arrival to Port Blair. Our representative will meet and assist you at the Veer Savarkar Airport. Board the waiting vehicles, drive to your hotel and check in. First half of the day is at leisure. Later in the afternoon, visit Cellular Jail followed by Light and Sound Show. The Cellular Jail has a pride of place in India’s freedom struggle. Many a stalwart were imprisoned here. Declared a national memorial, this three storey prison constructed by Britishers in 1906, is a pilgrimage destination for freedom fighters. This colossal edifice has mutely witnessed the most treacherous of inhumane atrocities borne by the convicts, who were mostly freedom fighters. The day draws to a gentle close with the Sound and Light Show at the historic Cellular Jail which gives you a vivid experience of its strong association with the freedom fighters and their struggle for independence.Overnight stay at the Hotel in Port Blair.",
+      "overnight": "Hotel in Port Blair"
+    },
+    {
+      "day": 2,
+      "title": "Visit Ross island & North Bay",
+      "description": "Today after breakfast embark on an Island cruise. One of the most sought after activities. It leaves a lasting impression. Visit Ross Island. Once the administrative headquarters of the British and capital of these Islands, the island is now under the Indian Navy. It stands now as a ruin of the bygone days with the old structures almost in debris. There is a small museum named Smritika, it holds photographs and the other antiques of the Britishers relevant to these islands. The island is famous for friendly flocks of Deer and lush green walking trails. Later visit to North Bay. The main attraction here is the inviting water sports activities. The water lovers may enjoy Snorkeling or take a Glass bottom boat ride (Optional on direct payment) in its shallow waters with a chance to see corals closeup.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Hotel in Port Blair"
+    },
+    {
+      "day": 3,
+      "title": "Visit Havelock – Radhanagar Beach",
+      "description": "Today after breakfast you will transfer to Jetty. Head to Havelock Island on board Cruise connecting the two islands! Havelock, about 54 kilometers northeast of Port Blair, the Island is a hidden jewel. Few Indians know of this stunning beach destination in their own backyard while heading for Phuket (in Thailand) across the waters of Andaman Sea. Havelock is a serene tropical island encompassing about 86 square kilometers. Its clear waters are rated among the best in the world for snorkeling and scuba diving. Close to 1000 different species of marine life inhabit the waters of the Andaman Islands. Scuba divers can see nudi branchs, sea slugs and snails, varieties of ghost pipe fish, jaw fish and a number of different crustaceans of all shapes and sizes. With its serene beaches, 40 meters visibility underwater, colorful coral reefs and ‘far from the maddening crowd’ appeal, Havelock Island has emerged as a dream destination among discerning travelers. Arrive at Havelock Jetty, you are met and assisted by our representative. Board the waiting vehicles and drive for Radhanagar Beach (or Beach No. 7) is the jewel in the crown of Havelock Island. Located on the western side of the island, it stands away from the cluster. The glorious white sand beach shot to global fame when Time magazine (in 2004) rated it as the finest in Asia. With lush tropical forest rising on a hill to one side, the draw of this white sand beach has steadily grown in the legion of avid beach buffs. The popularity of this beach has triggered cruises from across the Andaman Sea. Travelers cruise over a few days from Thailand to experience the magic of this beach in particular. A wide beach that runs over a few kilometers, Radhanagar is simply stunning. It lends itself to a variety of activities. Evening return back to Port Blair by return ferry.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Hotel in Port Blair"
+    },
+    {
+      "day": 4,
+      "title": "Depart from Port Blair",
+      "description": "After breakfast at hotel, transfer to the Port Blair airport. This marks the culmination of a memorable trip to one of India’s natural wonders - the Andaman Islands. Tentative Itinerary. Note: Above Itinerary is just indicative. Do not consider it as a Final Schedule. Date & Time of Tours can be changed by Local Agent / Tour Operator.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "3 Nights accommodation in Port Blair",
+    "Daily Breakfast at Hotel",
+    "Sightseeing tours (as mentioned in the Itinerary)",
+    "All Entry tickets, Ship tickets & Museum tickets",
+    "Airport transfers",
+    "All Tours & Transfers by Sharing vehicle",
+    "All applicable Hotel taxes"
+  ],
+  "exclusions": [
+    "Airfare",
+    "Any expenses of personal nature such as- tip to driver, telephone calls, laundry expenses, wines, mineral water, food & drinks not in the regular menu provided by us",
+    "Camera fee, Guide charges & any Sports Activity cost during Sightseeing (to be paid directly)",
+    "Any service not mentioned in the inclusions",
+    "Surcharge on Long Weekends & Holidays to be Paid Extra - as Applicable"
+  ],
+  "knowBeforeYouGo": [
+    "If cancellation is made any time not less than 45 days prior to departure, Rs. 5,000/- (per person) shall be deducted",
+    "If cancellation is made 45 to 30 days prior to departure, 50% of the tour cost shall be deducted",
+    "If cancellation is made 30 to 15 days prior to departure, 75% of the tour cost shall be deducted",
+    "If cancellation is made within 15 days prior to departure, 100% of the tour cost shall be deducted"
+  ],
+  "seo": {
+    "title": "Paradise on Earth – 3N/4D Andaman Package",
+    "description": "Those who love to get close to nature will find the best recluse in the stunningly beautiful islands of Andaman which are no less than a paradise on earth."
+  },
+  "featured": true,
+  "showOnHome": false,
+  "displayOrder": 2
+}

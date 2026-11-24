@@ -48,11 +48,13 @@ export default async function PackagePage({ params }: { params: Promise<Params> 
   ]);
   if (!category || !pkg) notFound();
 
-  const [settings, related, destinations] = await Promise.all([
+  const [settings, related, destinations, destination] = await Promise.all([
     content.getSiteSettings(),
     content.getRelatedPackages(pkg, 3),
     content.getAllDestinations(),
+    content.getDestination(categorySlug, destinationSlug),
   ]);
+  if (!destination) notFound();
   const money = { locale: settings.locale, currency: settings.currency };
   const actions = resolvePackageActions(pkg, settings.labels);
   const [primaryAction] = actions;
@@ -74,7 +76,7 @@ export default async function PackagePage({ params }: { params: Promise<Params> 
         <div className="min-w-0 space-y-14 md:space-y-16 lg:col-span-8">
           <PackageOverview pkg={pkg} />
           <PackageHighlights highlights={pkg.highlights} />
-          <Itinerary days={pkg.itinerary} />
+          <Itinerary days={pkg.itinerary} destination={destination} />
           <section id="inclusions" className="scroll-mt-36">
             <p className="eyebrow">The fine print</p>
             <h2 className="heading-2 mt-3">Inclusions &amp; exclusions</h2>

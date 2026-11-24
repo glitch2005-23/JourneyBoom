@@ -1,0 +1,100 @@
+{
+  "title": "Bangkok Highlights",
+  "shortDescription": "Visit Bangkok, the largest and the most chic urban area of Thailand. When you are here, you’d know why it is called as the land of smiles.",
+  "description": [
+    "Visit Bangkok, the largest and the most chic urban area of Thailand. When you are here, you’d know why it is called as the land of smiles. Visit its splendid temples, world class malls, floating markets and exciting theme parks and relish its delicious Thai food. Experience a rejuvenating Thai spa or a relaxing foot massage.",
+    "Sail through gleaming waters on Chao Phraya River Cruise and enjoy the exotic nightlife. Take thrilling rides of tuk-tuk, enjoy fresh mangoes or dry chillies, indulge in loads of shopping and have endless fun. With one of the most gracious hospitality, Bangkok offers irresistible temptations and never ceases to delight you."
+  ],
+  "duration": {
+    "nights": 2,
+    "days": 3
+  },
+  "route": [
+    {
+      "city": "Bangkok",
+      "nights": 2
+    }
+  ],
+  "badges": [
+    "Adventure"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/thailand/wat-arun-sunset.jpg",
+      "alt": "The spire of Wat Arun against a colourful sunset"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/thailand/phuket-bay.jpg",
+        "alt": "A tropical bay in Phuket seen from the hillside"
+      },
+      {
+        "src": "/images/destinations/thailand/phi-phi-viewpoint.jpg",
+        "alt": "Phi Phi Don's twin bays from the viewpoint"
+      },
+      {
+        "src": "/images/destinations/thailand/maya-bay.jpg",
+        "alt": "Boats floating in clear water between towering cliffs"
+      },
+      {
+        "src": "/images/destinations/thailand/wat-pho.jpg",
+        "alt": "Ornate tiled stupas at Wat Pho in Bangkok"
+      },
+      {
+        "src": "/images/destinations/thailand/grand-palace.jpg",
+        "alt": "The golden chedi of the Grand Palace in Bangkok"
+      }
+    ]
+  },
+  "highlights": [
+    "2 nights in Bangkok with breakfast",
+    "A free day for markets and malls",
+    "Airport transfers from Suvarnabhumi"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Bangkok",
+      "description": "Arrive at Bangkok Airport. Meet local tour representative near the Exit Area after custom clearance, visa processing and baggage claim. Transfer to the hotel, check-in on arrival and relax. Rest of the day is free at your own leisure. You may go for a self exploration of the city in the evening or opt for a beautiful Chao Phraya River Dinner Cruise (on an extra cost). It offers amazing views of Thailand's historical landmarks like Grand Palace, Temple of the Emerald Buddha, Wat Arun (Temple of the Dawn), the Rama 8 Bridge, etc. lit up in beautiful night lights. Cruise leisurely along the river, seeing dramatic sights and enjoying an elaborate dining and wining with entertainment. Post tour, return to the hotel and sleep peacefully.",
+      "overnight": "Bangkok"
+    },
+    {
+      "day": 2,
+      "title": "Bangkok (Day free for Leisure)",
+      "description": "Have a fill at morning breakfast and set out to explore the wonderful city at your own. Visit to Bangkok remains incomplete if you don’t shop! Explore the markets and grab great deals at the local markets or world-class malls for absolutely everything you buy right from trendy clothes and accessories to designer goods and electronic gadgets. If shopping is not that you are looking for, opt for any sightseeing tour (on an extra cost) that suits your interest. Relish local cuisines and this being your last night of the trip, you may as well explore the famous city nightlife. Return to the hotel afterwards.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Bangkok"
+    },
+    {
+      "day": 3,
+      "title": "Bangkok (Departure)",
+      "description": "Pack your bags and have a fill at morning breakfast and check out from the hotel (as per hotel’s check out time). Grab onto some more shopping before returning (as per your flight timing). Today we transfer you to the Bangkok Airport for your flight back home.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "2 Nights Accommodation in Bangkok",
+    "2 Buffet Breakfast at Hotel",
+    "Airport Transfers from / to Suvarnabhumi Airport on Seat In Coach (shared) Basis",
+    "All Hotel taxes"
+  ],
+  "exclusions": [
+    "Airfare",
+    "You will need to Pay Rs. 1,000/- per person (Extra), If your transfer timings are not between 7 AM - 6 PM",
+    "On Arrival Visa fee of 2000 Thai baht (to be Paid directly by the Guest at Thailand airport) OR Visa fee from India Rs. 4,000/- (per person) Extra",
+    "Travel Insurance(Strongly recommended for Senior Citizens)",
+    "Any service not mentioned in the inclusions",
+    "Hotel Surcharge (as Applicable) to be Paid Extra.(During Peak & Super Peak Season)"
+  ],
+  "seo": {
+    "title": "Bangkok Highlights – 2N/3D Thailand Package",
+    "description": "Visit Bangkok, the largest and the most chic urban area of Thailand. When you are here, you’d know why it is called as the land of smiles."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 6
+}

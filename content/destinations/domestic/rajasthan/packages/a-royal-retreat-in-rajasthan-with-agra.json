@@ -1,0 +1,257 @@
+{
+  "title": "A Royal Retreat in Rajasthan with Agra",
+  "shortDescription": "Sixteen unhurried days through the royal heart of India.",
+  "description": [
+    "Sixteen unhurried days through the royal heart of India. After two nights in Delhi you travel to holy Pushkar, the lake palaces of Udaipur, the blue city of Jodhpur and the golden fort of Jaisalmer, with a camel ride on the Sam sand dunes.",
+    "From Bikaner and the Pink City of Jaipur the route turns to Ranthambhore National Park for tiger safaris, and finishes in Agra at the Taj Mahal and Agra Fort — the most complete Rajasthan experience we offer."
+  ],
+  "duration": {
+    "nights": 15,
+    "days": 16
+  },
+  "route": [
+    {
+      "city": "Delhi",
+      "nights": 2
+    },
+    {
+      "city": "Pushkar",
+      "nights": 1
+    },
+    {
+      "city": "Udaipur",
+      "nights": 2
+    },
+    {
+      "city": "Jodhpur",
+      "nights": 2
+    },
+    {
+      "city": "Jaisalmer",
+      "nights": 2
+    },
+    {
+      "city": "Bikaner",
+      "nights": 1
+    },
+    {
+      "city": "Jaipur",
+      "nights": 2
+    },
+    {
+      "city": "Ranthambhore",
+      "nights": 2
+    },
+    {
+      "city": "Agra",
+      "nights": 1
+    }
+  ],
+  "badges": [
+    "Family",
+    "Group"
+  ],
+  "images": {
+    "hero": {
+      "src": "/images/destinations/rajasthan/udaipur-city-palace.jpg",
+      "alt": "The City Palace of Udaipur seen from Lake Pichola"
+    },
+    "gallery": [
+      {
+        "src": "/images/destinations/rajasthan/card.jpg",
+        "alt": "Decorated horses passing the pink facade of Hawa Mahal in Jaipur"
+      },
+      {
+        "src": "/images/destinations/rajasthan/desert-camels.jpg",
+        "alt": "Camels resting on the golden dunes of the Thar Desert"
+      },
+      {
+        "src": "/images/destinations/rajasthan/jaisalmer-fort.jpg",
+        "alt": "Birds circling the golden sandstone walls of Jaisalmer Fort"
+      },
+      {
+        "src": "/images/destinations/rajasthan/camel-sunset.jpg",
+        "alt": "A camel rider silhouetted against a desert sunset"
+      },
+      {
+        "src": "/images/destinations/rajasthan/camel-cart-dunes.jpg",
+        "alt": "A camel cart crossing the dunes near Jaisalmer"
+      }
+    ]
+  },
+  "highlights": [
+    "India Gate, Jama Masjid and Akshardham, Delhi",
+    "City Palace and a boat ride on Lake Pichola, Udaipur",
+    "Mehrangarh Fort and Jaswant Thada, Jodhpur",
+    "Camel ride on the Sam sand dunes",
+    "Tiger safari in Ranthambhore",
+    "Taj Mahal and Agra Fort"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive Delhi",
+      "description": "Arrive Delhi. Meet and Assist by Representative of Local Tour operator. You will be transferred to the hotel, where you will Check In. Remaining day is Free at own Leisure. Overnight stay at Hotel in Delhi.",
+      "overnight": "Hotel in Delhi"
+    },
+    {
+      "day": 2,
+      "title": "Delhi",
+      "description": "After Breakfast at Hotel, in the morning. You will proceed for Sightseeing Tour of Delhi & visit- India Gate, Raj Ghat, Gurdwara Bangla Sahib, Jama Masjid, Akshardham Temple. You will drive through Parliament House, Rashtrarpati Bhawan. You can visit Dilli Haat, which is an open-air food plaza cum craft bazaar (an Ethnic Shopping Point for Tourists). Overnight stay at Hotel in Delhi.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Hotel in Delhi"
+    },
+    {
+      "day": 3,
+      "title": "Delhi – Pushkar",
+      "description": "After breakfast, drive to Pushkar which is one of the most sacred town of Rajasthan situated in Ajmer District. It is located on the shore of Pushkar Lake. As per legends Lord Brahma created this city hence there is one Temple dedicated to Lord Brahma. Pushkar is also famous for Cattle Fair (held in November).",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Hotel in Pushkar"
+    },
+    {
+      "day": 4,
+      "title": "Pushkar – Udaipur",
+      "description": "After Breakfast, drive to Udaipur. Udaipur was founded in 1559 by Maharana Uday Singh-II. Apart from its culture and history it is also known as “Venice of the east” and “lake city”. Lake Pichola, Fatehpur Sagar and Swaroop sagar lake are some of the prominent lakes of Udaipur. Arrive Udaipur & Check in at the Hotel. Remaining day is Free at own Leisure. Overnight stay at Hotel in Udaipur.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Hotel in Udaipur"
+    },
+    {
+      "day": 5,
+      "title": "Udaipur City Tour",
+      "description": "After breakfast, we will proceed for the Udaipur city tour. Visit Fateh Sagar, Saheliyon Ki Bari – the Queen’s resort for her friends, Sukhadia Circle (drive past), and Bhartiya Lok Kala Museum – a museum of folk art that displays a rich collection of folk dresses, ornaments, puppets, masks, dolls, etc. Next, visit City Palace – the largest palace complex in Rajasthan, and Jagdish Temple – built by Maharana Jagat Singh and dedicated to Lord Vishnu. Visit Lake Pichola in the evening. If you wish to enjoy a boat ride on Lake Pichola, it is available on a direct payment basis.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Udaipur"
+    },
+    {
+      "day": 6,
+      "title": "Udaipur – Jodhpur",
+      "description": "After Breakfast, drive to Jodhpur enroute visit to Ranakpur (70 kms from Udaipur), which is famous for Marble Jain Temples. Arrive Jodhpur & Check in at the Hotel. Remaining day is Free at own Leisure. Overnight stay at Hotel in Jodhpur.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Hotel in Jodhpur"
+    },
+    {
+      "day": 7,
+      "title": "Jodhpur",
+      "description": "Have breakfast at Hotel in the Morning. Later, proceed for Sightseeing Tour visiting Mehrangarh Fort which is located at the city center and is spread over 05 kilometers atop a high hill. Within the fort notable structures are Moti Mahal, Phool Mahal & Sheesha Mahal. Later visit to Jaswant thada which is a white marble memorial built by Sardar Singh in 1899 in memory of Maharaja Jaswant Singh-II. Overnight stay at Hotel in Jodhpur.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Hotel in Jodhpur"
+    },
+    {
+      "day": 8,
+      "title": "Jodhpur – Jaisalmer",
+      "description": "After Breakfast, depart for Jaisalmer. Arrive Jaisalmer and Check in at the Hotel. Remaining day is Free at own Leisure. Overnight stay at Hotel in Jaisalmer.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Hotel in Jaisalmer"
+    },
+    {
+      "day": 9,
+      "title": "Jaisalmer",
+      "description": "In the morning after Breakfast, proceed for Sightseeing Tour. You will visit Jaisalmer Fort. It is one of the largest fort in the world. It was built in 1156 AD by ruler Rawal Jaisal. Due to its massive sand stone walls it is also known as “Golden Fort”. Later visit to Patwon ki Haveli, Nathmal ki Haveli. In the Afternoon proceed for Camel Ride on Sam Sand Dunes. Overnight stay at hotel in Jaisalmer.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Jaisalmer"
+    },
+    {
+      "day": 10,
+      "title": "Jaisalmer – Bikaner",
+      "description": "In the morning, have Breakfast in Hotel. Further drive to Bikaner. Visit to Junagarh Fort which is built by Rai Singh in 1593. The major structures with the fort are Anup Mahal, Hawa Mahal, Badal Mahal, Phool Mahal, Rang Mahal and Ganga Mahal. Overnight stay at Hotel in Bikaner.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Hotel in Bikaner"
+    },
+    {
+      "day": 11,
+      "title": "Bikaner – Jaipur",
+      "description": "After Breakfast in the morning at your Hotel, drive to Jaipur also popularly known as the 'Pink City'. Check in at hotel. In the evening, visit to Chokhi Dhani. Chokhi Dhani Village is a right mix of rich Rajasthani Tradition in the ethnic environment. It is full of fun, Games, Rajasthani cuisine, Rajasthani folk dances and much more. Overnight stay at hotel in Jaipur.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Jaipur"
+    },
+    {
+      "day": 12,
+      "title": "Jaipur",
+      "description": "After Breakfast at the hotel, Visit to Amber Fort (11 kms from the city) built by Raja Mansingh-I in 1592. It is located high on a hill overlooking Maota Lake on the forefront and can be reached by Jeep or on the elephant back. After this visit to Jaigarh Fort (15 kms from the city). It is located 400 m higher than Amber fort and was built by Swai Jai Singh-III. One of the important feature of the fort is Cannon named “jaivana” which was then worlds largest cannon on the wheel. After this Drive past to Hawa Mahal - the palace of wind & visit to City Palace which is located in the heart of the city. It was constructed by Maharaja Sawai Mansingh-II. The most famous structure of the city palace are the Chandra Mahal, the Mubarak Mahal, Maharani’s Palace, Shri Govind Dev Temple and City Palace Museum. Nearby walk to Jantar Mantar an astronomical observatory. Overnight stay at Hotel in Jaipur.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Hotel in Jaipur"
+    },
+    {
+      "day": 13,
+      "title": "Jaipur – Ranthambhore",
+      "description": "After Breakfast, drive to Ranthambhore. This is the Best National Park in the country to spot the Tigers. Overnight stay at Hotel in Ranthambhore.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Hotel in Ranthambhore"
+    },
+    {
+      "day": 14,
+      "title": "Ranthambhore",
+      "description": "In the morning, enjoy the Adventurous Jeep Safari Ride to Ranthambhore National Park. Later visit to Ranthambhore Fort, which was built in 10th Century. It is situated at height of 700 meter above the surrounding plain. Inside the fort are the three temples dedicated to Lord Ganesha, Shiva and Ram.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Hotel in Ranthambhore"
+    },
+    {
+      "day": 15,
+      "title": "Ranthambhore – Agra",
+      "description": "In the morning, after having Breakfast drive to Agra. Arrive Agra & Check in to the Hotel. Remaining day is Free at own Leisure. Overnight stay at Hotel in Agra.",
+      "meals": [
+        "Breakfast"
+      ],
+      "overnight": "Hotel in Agra"
+    },
+    {
+      "day": 16,
+      "title": "Agra – Delhi",
+      "description": "After breakfast at your Hotel, visit the Famous Taj Mahal which is one of the biggest symbol of eternal love built by Emperor Shah Jahan in the memory of his wife Mumtaj Mahal. It was built in 1632-1653. (Please note that The Taj Mahal is closed on every Friday). Later visit to The Agra Fort. At the end of his life, Shah Jahan was deposed and restrained by his son in this fort. It is rumored that Shah Jahan died in Muasamman Burj, a tower with a marble balcony with a view of the Taj Mahal. Later you will drive back to Delhi & will be dropped at Railway Station / Airport for further Journey. Tentative Itinerary. Note: Above Itinerary is just indicative. Do not consider it as a Final Schedule. Date & Time of Tours can be changed by Local Agent / Tour Operator.",
+      "meals": [
+        "Breakfast"
+      ]
+    }
+  ],
+  "inclusions": [
+    "Transportation as per Requirement (also depending on the Availability)",
+    "2 Nights accommodation in Delhi",
+    "1 Night accommodation in Pushkar",
+    "2 Nights accommodation in Udaipur",
+    "2 Nights accommodation in Jodhpur",
+    "2 Nights accommodation in Jaisalmer",
+    "1 Night accommodation in Bikaner",
+    "2 Nights accommodation in Jaipur",
+    "2 Nights accommodation in Ranthambhore",
+    "1 Night accommodation in Agra",
+    "Daily breakfast",
+    "Sightseeing Tours (as mentioned in Itinerary)",
+    "All Tours & Transfers on Sharing basis"
+  ],
+  "exclusions": [
+    "Any service not mentioned in the inclusions"
+  ],
+  "seo": {
+    "title": "A Royal Retreat in Rajasthan with Agra – 15N/16D Rajasthan Package",
+    "description": "Sixteen unhurried days through the royal heart of India."
+  },
+  "featured": false,
+  "showOnHome": false,
+  "displayOrder": 2
+}
