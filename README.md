@@ -277,7 +277,7 @@ The same pattern applies to enquiries (`EnquiryProvider`) and payments (package 
 
 ### Before launch (replace sample content)
 
-- Contact details, address and social links in `content/settings/site.json`.
+- Social media links and office hours in `content/settings/site.json` (contact details and address are final).
 - Hero stats ("12,000+ travellers", "4.9/5", "since 2014") in `content/homepage/home.json`.
 - **Sample reviews** in `content/reviews/`. Replace them with genuine customer reviews.
 - **Prices:** packages have no `price` yet, so they show "Click to enquire". Add a `price` block to any package JSON to publish its price.
